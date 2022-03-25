@@ -1,0 +1,1108 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Bídníci I",
+    "identifier": "urn:uuid:939e570b-6c4c-4969-b9ba-b6c3405375f1",
+    "author": "Victor Hugo",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2019-07-31T00:00:00.000Z",
+    "published": "2019-07-29T00:00:00.000Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign",
+    "Sigil version": "0.9.6"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bidnici_031.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/bidnici_idstyles.css"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image001_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image002_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/obalka_bidnici_i_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/obr_01_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+    }
+  ],
+  "toc": [
+    {
+      "title": "DÍL PRVNÍ Fantina",
+      "children": [
+        {
+          "title": "KNIHA PRVNÍ Člověk spravedlivý",
+          "children": [
+            {
+              "title": "(1) Myriel",
+              "href": "OEBPS/Text/bidnici_007.xhtml#toc_marker-1-1-1"
+            },
+            {
+              "title": "(2) Myriel se stává monsignorem Lidumilem",
+              "href": "OEBPS/Text/bidnici_007.xhtml#toc_marker-1-1-2"
+            },
+            {
+              "title": "(3) Dobrému biskupovi tvrdé biskupství",
+              "href": "OEBPS/Text/bidnici_007.xhtml#toc_marker-1-1-3"
+            },
+            {
+              "title": "(4) Co slovo, to skutek",
+              "href": "OEBPS/Text/bidnici_007.xhtml#toc_marker-1-1-4"
+            },
+            {
+              "title": "(5) Monsignore Lidumil nosil své sutany příliš dlouho",
+              "href": "OEBPS/Text/bidnici_007.xhtml#toc_marker-1-1-5"
+            },
+            {
+              "title": "(6) Kdo mu střežil dům",
+              "href": "OEBPS/Text/bidnici_007.xhtml#toc_marker-1-1-6"
+            },
+            {
+              "title": "(7) Kravata",
+              "href": "OEBPS/Text/bidnici_007.xhtml#toc_marker-1-1-7"
+            },
+            {
+              "title": "(8) Filozofování při skleničce",
+              "href": "OEBPS/Text/bidnici_007.xhtml#toc_marker-1-1-8"
+            },
+            {
+              "title": "(9) Sestra vypravuje o bratrovi",
+              "href": "OEBPS/Text/bidnici_007.xhtml#toc_marker-1-1-9"
+            },
+            {
+              "title": "(10) Biskup potkává neznámé světlo",
+              "href": "OEBPS/Text/bidnici_007.xhtml#toc_marker-1-1-10"
+            },
+            {
+              "title": "(11) Výhrady",
+              "href": "OEBPS/Text/bidnici_007.xhtml#toc_marker-1-1-11"
+            },
+            {
+              "title": "(12) Samota monsignora Lidumila",
+              "href": "OEBPS/Text/bidnici_007.xhtml#toc_marker-1-1-12"
+            },
+            {
+              "title": "(13) Čemu věřil",
+              "href": "OEBPS/Text/bidnici_007.xhtml#toc_marker-1-1-13"
+            },
+            {
+              "title": "(14) Co si myslil",
+              "href": "OEBPS/Text/bidnici_007.xhtml#toc_marker-1-1-14"
+            }
+          ],
+          "href": "OEBPS/Text/bidnici_007.xhtml#toc_marker-1-1"
+        },
+        {
+          "title": "KNIHA DRUHÁ Pád",
+          "children": [
+            {
+              "title": "(1) Večer po celodenní chůzi",
+              "href": "OEBPS/Text/bidnici_008.xhtml#toc_marker-1-2-1"
+            },
+            {
+              "title": "(2) Opatrnost matka moudrosti",
+              "href": "OEBPS/Text/bidnici_008.xhtml#toc_marker-1-2-2"
+            },
+            {
+              "title": "(3) Hrdinství trpné poslušnosti",
+              "href": "OEBPS/Text/bidnici_008.xhtml#toc_marker-1-2-3"
+            },
+            {
+              "title": "(4) Podrobnosti o sýrárnách v Pontarlieru",
+              "href": "OEBPS/Text/bidnici_008.xhtml#toc_marker-1-2-4"
+            },
+            {
+              "title": "(5) Klid",
+              "href": "OEBPS/Text/bidnici_008.xhtml#toc_marker-1-2-5"
+            },
+            {
+              "title": "(6) Jean Valjean",
+              "href": "OEBPS/Text/bidnici_008.xhtml#toc_marker-1-2-6"
+            },
+            {
+              "title": "(7) Zoufalství",
+              "href": "OEBPS/Text/bidnici_008.xhtml#toc_marker-1-2-7"
+            },
+            {
+              "title": "(8) Vlna a stín",
+              "href": "OEBPS/Text/bidnici_008.xhtml#toc_marker-1-2-8"
+            },
+            {
+              "title": "(9) Nové křivdy",
+              "href": "OEBPS/Text/bidnici_008.xhtml#toc_marker-1-2-9"
+            },
+            {
+              "title": "(10) Muž se probudil",
+              "href": "OEBPS/Text/bidnici_008.xhtml#toc_marker-1-2-10"
+            },
+            {
+              "title": "(11) Co dělá",
+              "href": "OEBPS/Text/bidnici_008.xhtml#toc_marker-1-2-11"
+            },
+            {
+              "title": "(12) Biskup pracuje",
+              "href": "OEBPS/Text/bidnici_008.xhtml#toc_marker-1-2-12"
+            },
+            {
+              "title": "(13) Malý Gervác",
+              "href": "OEBPS/Text/bidnici_008.xhtml#toc_marker-1-2-13"
+            }
+          ],
+          "href": "OEBPS/Text/bidnici_008.xhtml#toc_marker-1-2"
+        },
+        {
+          "title": "KNIHA TŘETÍ Rok 1817",
+          "children": [
+            {
+              "title": "(1) Rok 1817",
+              "href": "OEBPS/Text/bidnici_009.xhtml#toc_marker-1-3-1"
+            },
+            {
+              "title": "(2) Dvě čtveřice",
+              "href": "OEBPS/Text/bidnici_009.xhtml#toc_marker-1-3-2"
+            },
+            {
+              "title": "(3) Čtyři a čtyři",
+              "href": "OEBPS/Text/bidnici_009.xhtml#toc_marker-1-3-3"
+            },
+            {
+              "title": "(4) Tholomyès má takovou radost, že zpívá španělskou píseň",
+              "href": "OEBPS/Text/bidnici_009.xhtml#toc_marker-1-3-4"
+            },
+            {
+              "title": "(5) U Bombardy",
+              "href": "OEBPS/Text/bidnici_009.xhtml#toc_marker-1-3-5"
+            },
+            {
+              "title": "(6) Kapitola plná zbožňování",
+              "href": "OEBPS/Text/bidnici_009.xhtml#toc_marker-1-3-6"
+            },
+            {
+              "title": "(7) Tholomyèsova moudrost",
+              "href": "OEBPS/Text/bidnici_009.xhtml#toc_marker-1-3-7"
+            },
+            {
+              "title": "(8) Smrt koně",
+              "href": "OEBPS/Text/bidnici_009.xhtml#toc_marker-1-3-8"
+            },
+            {
+              "title": "(9) Veselé zakončení radosti",
+              "href": "OEBPS/Text/bidnici_009.xhtml#toc_marker-1-3-9"
+            }
+          ],
+          "href": "OEBPS/Text/bidnici_009.xhtml#toc_marker-1-3"
+        },
+        {
+          "title": "KNIHA ČTVRTÁ Na důvěru se často doplácí",
+          "children": [
+            {
+              "title": "(1) Setkání dvou matek",
+              "href": "OEBPS/Text/bidnici_010.xhtml#toc_marker-1-4-1"
+            },
+            {
+              "title": "(2) Letmý nástin dvou nekalých osob",
+              "href": "OEBPS/Text/bidnici_010.xhtml#toc_marker-1-4-2"
+            },
+            {
+              "title": "(3) Skřivánek",
+              "href": "OEBPS/Text/bidnici_010.xhtml#toc_marker-1-4-3"
+            }
+          ],
+          "href": "OEBPS/Text/bidnici_010.xhtml#toc_marker-1-4"
+        },
+        {
+          "title": "KNIHA PÁTÁ Na šikmé ploše",
+          "children": [
+            {
+              "title": "(1) O pokroku ve výrobě ozdob z černého skla",
+              "href": "OEBPS/Text/bidnici_011.xhtml#toc_marker-1-5-1"
+            },
+            {
+              "title": "(2) Madeleine",
+              "href": "OEBPS/Text/bidnici_011.xhtml#toc_marker-1-5-2"
+            },
+            {
+              "title": "(3) Peníze uložené u Laffitta",
+              "href": "OEBPS/Text/bidnici_011.xhtml#toc_marker-1-5-3"
+            },
+            {
+              "title": "(4) Pan Madeleine nosí smutek",
+              "href": "OEBPS/Text/bidnici_011.xhtml#toc_marker-1-5-4"
+            },
+            {
+              "title": "(5) Neurčité blýskání na obzoru",
+              "href": "OEBPS/Text/bidnici_011.xhtml#toc_marker-1-5-5"
+            },
+            {
+              "title": "(6) Starý Fauchelevent",
+              "href": "OEBPS/Text/bidnici_011.xhtml#toc_marker-1-5-6"
+            },
+            {
+              "title": "(7) Fauchelevent se stává zahradníkem v Paříži",
+              "href": "OEBPS/Text/bidnici_011.xhtml#toc_marker-1-5-7"
+            },
+            {
+              "title": "(8) Paní Victurnienová vydává pětatřicet franků na mravopočestnost",
+              "href": "OEBPS/Text/bidnici_011.xhtml#toc_marker-1-5-8"
+            },
+            {
+              "title": "(9) Úspěch paní Victurnienové",
+              "href": "OEBPS/Text/bidnici_011.xhtml#toc_marker-1-5-9"
+            },
+            {
+              "title": "(10) Další úspěch",
+              "href": "OEBPS/Text/bidnici_011.xhtml#toc_marker-1-5-10"
+            },
+            {
+              "title": "(11) Christus nos liberavit",
+              "href": "OEBPS/Text/bidnici_011.xhtml#toc_marker-1-5-11"
+            },
+            {
+              "title": "(12) Zahálka pana Bamataboise",
+              "href": "OEBPS/Text/bidnici_011.xhtml#toc_marker-1-5-12"
+            },
+            {
+              "title": "(13) Rozluštění některých sporných otázek městské policie",
+              "href": "OEBPS/Text/bidnici_011.xhtml#toc_marker-1-5-13"
+            }
+          ],
+          "href": "OEBPS/Text/bidnici_011.xhtml#toc_marker-1-5"
+        },
+        {
+          "title": "KNIHA ŠESTÁ Javert",
+          "children": [
+            {
+              "title": "(1) Začátek odpočinku",
+              "href": "OEBPS/Text/bidnici_012.xhtml#toc_marker-1-6-1"
+            },
+            {
+              "title": "(2) Jak se zejména Jean může stát Champ",
+              "href": "OEBPS/Text/bidnici_012.xhtml#toc_marker-1-6-2"
+            }
+          ],
+          "href": "OEBPS/Text/bidnici_012.xhtml#toc_marker-1-6"
+        },
+        {
+          "title": "KNIHA SEDMÁ Champmathieuův případ",
+          "children": [
+            {
+              "title": "(1) Sestra Simplicie",
+              "href": "OEBPS/Text/bidnici_013.xhtml#toc_marker-1-7-1"
+            },
+            {
+              "title": "(2) Prozíravost mistra Scaufflaira",
+              "href": "OEBPS/Text/bidnici_013.xhtml#toc_marker-1-7-2"
+            },
+            {
+              "title": "(3) Svědomí",
+              "href": "OEBPS/Text/bidnici_013.xhtml#toc_marker-1-7-3"
+            },
+            {
+              "title": "(4) Jak vypadá utrpení ve spánku",
+              "href": "OEBPS/Text/bidnici_013.xhtml#toc_marker-1-7-4"
+            },
+            {
+              "title": "(5) Překážky na cestě",
+              "href": "OEBPS/Text/bidnici_013.xhtml#toc_marker-1-7-5"
+            },
+            {
+              "title": "(6) Sestra Simplicie je podrobena zkoušce",
+              "href": "OEBPS/Text/bidnici_013.xhtml#toc_marker-1-7-6"
+            },
+            {
+              "title": "(7) Cestující dojel a chystá se k návratu",
+              "href": "OEBPS/Text/bidnici_013.xhtml#toc_marker-1-7-7"
+            },
+            {
+              "title": "(8) Vstup jen pro význačné osobnosti",
+              "href": "OEBPS/Text/bidnici_013.xhtml#toc_marker-1-7-8"
+            },
+            {
+              "title": "(9) Místo, kde se připravuje rozsudek",
+              "href": "OEBPS/Text/bidnici_013.xhtml#toc_marker-1-7-9"
+            },
+            {
+              "title": "(10) Soustavné zapírání",
+              "href": "OEBPS/Text/bidnici_013.xhtml#toc_marker-1-7-10"
+            },
+            {
+              "title": "(11) Champmathieu se diví a diví",
+              "href": "OEBPS/Text/bidnici_013.xhtml#toc_marker-1-7-11"
+            }
+          ],
+          "href": "OEBPS/Text/bidnici_013.xhtml#toc_marker-1-7"
+        },
+        {
+          "title": "KNIHA OSMÁ Následek",
+          "children": [
+            {
+              "title": "(1) V jakém zrcadle si pan Madeleine prohlíží vlasy",
+              "href": "OEBPS/Text/bidnici_014.xhtml#toc_marker-1-8-1"
+            },
+            {
+              "title": "(2) Fantina je šťastná",
+              "href": "OEBPS/Text/bidnici_014.xhtml#toc_marker-1-8-2"
+            },
+            {
+              "title": "(3) Javert je spokojen",
+              "href": "OEBPS/Text/bidnici_014.xhtml#toc_marker-1-8-3"
+            },
+            {
+              "title": "(4) Moc se ujímá svých práv",
+              "href": "OEBPS/Text/bidnici_014.xhtml#toc_marker-1-8-4"
+            },
+            {
+              "title": "(5) Vhodný hrob",
+              "href": "OEBPS/Text/bidnici_014.xhtml#toc_marker-1-8-5"
+            }
+          ],
+          "href": "OEBPS/Text/bidnici_014.xhtml#toc_marker-1-8"
+        }
+      ],
+      "href": "OEBPS/Text/bidnici_006.xhtml#toc_marker-1"
+    },
+    {
+      "title": "DÍL DRUHÝ Cosetta",
+      "children": [
+        {
+          "title": "KNIHA PRVNÍ Waterloo",
+          "children": [
+            {
+              "title": "(1) S čím se setkáváme cestou z Nivelles",
+              "href": "OEBPS/Text/bidnici_016.xhtml#toc_marker-2-1-1"
+            },
+            {
+              "title": "(2) Hougomont",
+              "href": "OEBPS/Text/bidnici_016.xhtml#toc_marker-2-1-2"
+            },
+            {
+              "title": "(3) 18. červen 1815",
+              "href": "OEBPS/Text/bidnici_016.xhtml#toc_marker-2-1-3"
+            },
+            {
+              "title": "(4) A",
+              "href": "OEBPS/Text/bidnici_016.xhtml#toc_marker-2-1-4"
+            },
+            {
+              "title": "(5) „Quid obscurum“ bitev",
+              "href": "OEBPS/Text/bidnici_016.xhtml#toc_marker-2-1-5"
+            },
+            {
+              "title": "(6) Čtyři hodiny odpoledne",
+              "href": "OEBPS/Text/bidnici_016.xhtml#toc_marker-2-1-6"
+            },
+            {
+              "title": "(7) Napoleon v dobré náladě",
+              "href": "OEBPS/Text/bidnici_016.xhtml#toc_marker-2-1-7"
+            },
+            {
+              "title": "(8) Císař se vyptává průvodce Lacosta",
+              "href": "OEBPS/Text/bidnici_016.xhtml#toc_marker-2-1-8"
+            },
+            {
+              "title": "(9) Překvapení",
+              "href": "OEBPS/Text/bidnici_016.xhtml#toc_marker-2-1-9"
+            },
+            {
+              "title": "(10) Montsaintjeanská náhorní planina",
+              "href": "OEBPS/Text/bidnici_016.xhtml#toc_marker-2-1-10"
+            },
+            {
+              "title": "(11) Napoleon měl špatného průvodce, Bülow dobrého",
+              "href": "OEBPS/Text/bidnici_016.xhtml#toc_marker-2-1-11"
+            },
+            {
+              "title": "(12) Garda",
+              "href": "OEBPS/Text/bidnici_016.xhtml#toc_marker-2-1-12"
+            },
+            {
+              "title": "(13) Osudná chvíle",
+              "href": "OEBPS/Text/bidnici_016.xhtml#toc_marker-2-1-13"
+            },
+            {
+              "title": "(14) Poslední čtverhran",
+              "href": "OEBPS/Text/bidnici_016.xhtml#toc_marker-2-1-14"
+            },
+            {
+              "title": "(15) Cambronne",
+              "href": "OEBPS/Text/bidnici_016.xhtml#toc_marker-2-1-15"
+            },
+            {
+              "title": "(16) Quot libras in duce?",
+              "href": "OEBPS/Text/bidnici_016.xhtml#toc_marker-2-1-16"
+            },
+            {
+              "title": "(17) Máme schvalovat Waterloo?",
+              "href": "OEBPS/Text/bidnici_016.xhtml#toc_marker-2-1-17"
+            },
+            {
+              "title": "(18) Dočasné zotavení práva z boží milosti",
+              "href": "OEBPS/Text/bidnici_016.xhtml#toc_marker-2-1-18"
+            },
+            {
+              "title": "(19) Bojiště v noci",
+              "href": "OEBPS/Text/bidnici_016.xhtml#toc_marker-2-1-19"
+            }
+          ],
+          "href": "OEBPS/Text/bidnici_016.xhtml#toc_marker-2-1"
+        },
+        {
+          "title": "KNIHA DRUHÁ Loď Orion",
+          "children": [
+            {
+              "title": "(1) Číslo 24 601 se stává číslem 9430",
+              "href": "OEBPS/Text/bidnici_017.xhtml#toc_marker-2-2-1"
+            },
+            {
+              "title": "(2) Kapitola, v níž si přečteme dva verše, které snad napsal ďábel",
+              "href": "OEBPS/Text/bidnici_017.xhtml#toc_marker-2-2-2"
+            },
+            {
+              "title": "(3) Řetěz okovů byl určitě nějak připraven, aby mohl být přeražen jedním úderem kladiva",
+              "href": "OEBPS/Text/bidnici_017.xhtml#toc_marker-2-2-3"
+            }
+          ],
+          "href": "OEBPS/Text/bidnici_017.xhtml#toc_marker-2-2"
+        },
+        {
+          "title": "KNIHA TŘETÍ Vyplnění slibu daného mrtvé",
+          "children": [
+            {
+              "title": "(1) Trampoty s vodou v Montfermeil",
+              "href": "OEBPS/Text/bidnici_018.xhtml#toc_marker-2-3-1"
+            },
+            {
+              "title": "(2) Dvě dokreslené podobizny",
+              "href": "OEBPS/Text/bidnici_018.xhtml#toc_marker-2-3-2"
+            },
+            {
+              "title": "(3) Lidé potřebují víno a koně vodu",
+              "href": "OEBPS/Text/bidnici_018.xhtml#toc_marker-2-3-3"
+            },
+            {
+              "title": "(4) Na jeviště vstupuje panenka",
+              "href": "OEBPS/Text/bidnici_018.xhtml#toc_marker-2-3-4"
+            },
+            {
+              "title": "(5) Osamělá holčička",
+              "href": "OEBPS/Text/bidnici_018.xhtml#toc_marker-2-3-5"
+            },
+            {
+              "title": "(6) Důkaz o Boulatruellově soudnosti",
+              "href": "OEBPS/Text/bidnici_018.xhtml#toc_marker-2-3-6"
+            },
+            {
+              "title": "(7) Cosetta jde potmě vedle neznámého",
+              "href": "OEBPS/Text/bidnici_018.xhtml#toc_marker-2-3-7"
+            },
+            {
+              "title": "(8) Je nepříjemné hostit chuďasa, který je možná bohatý",
+              "href": "OEBPS/Text/bidnici_018.xhtml#toc_marker-2-3-8"
+            },
+            {
+              "title": "(9) Thénardier při práci",
+              "href": "OEBPS/Text/bidnici_018.xhtml#toc_marker-2-3-9"
+            },
+            {
+              "title": "(10) Kdo si chce polepšit, často si pohorší",
+              "href": "OEBPS/Text/bidnici_018.xhtml#toc_marker-2-3-10"
+            },
+            {
+              "title": "(11) V loterii vychází číslo 9430 a Cosetta na ně vyhrává",
+              "href": "OEBPS/Text/bidnici_018.xhtml#toc_marker-2-3-11"
+            }
+          ],
+          "href": "OEBPS/Text/bidnici_018.xhtml#toc_marker-2-3"
+        },
+        {
+          "title": "KNIHA ČTVRTÁ Gorbeauův barák",
+          "children": [
+            {
+              "title": "(1) Mistr Gorbeau",
+              "href": "OEBPS/Text/bidnici_019.xhtml#toc_marker-2-4-1"
+            },
+            {
+              "title": "(2) Hnízdo pro kalousa a pěnkavku",
+              "href": "OEBPS/Text/bidnici_019.xhtml#toc_marker-2-4-2"
+            },
+            {
+              "title": "(3) Spojením dvou neštěstí vzniká štěstí",
+              "href": "OEBPS/Text/bidnici_019.xhtml#toc_marker-2-4-3"
+            },
+            {
+              "title": "(4) Čeho si všimla hlavní nájemnice",
+              "href": "OEBPS/Text/bidnici_019.xhtml#toc_marker-2-4-4"
+            },
+            {
+              "title": "(5) Pětifrank spadl na zem a zazvonil",
+              "href": "OEBPS/Text/bidnici_019.xhtml#toc_marker-2-4-5"
+            }
+          ],
+          "href": "OEBPS/Text/bidnici_019.xhtml#toc_marker-2-4"
+        },
+        {
+          "title": "KNIHA PÁTÁ Tichá štvanice",
+          "children": [
+            {
+              "title": "(1) Strategické kličkování",
+              "href": "OEBPS/Text/bidnici_020.xhtml#toc_marker-2-5-1"
+            },
+            {
+              "title": "(2) Jak je dobře, že po Slavkovském mostě jezdí vozy",
+              "href": "OEBPS/Text/bidnici_020.xhtml#toc_marker-2-5-2"
+            },
+            {
+              "title": "(3) Plán Paříže z roku 1727",
+              "href": "OEBPS/Text/bidnici_020.xhtml#toc_marker-2-5-3"
+            },
+            {
+              "title": "(4) Tápání při útěku",
+              "href": "OEBPS/Text/bidnici_020.xhtml#toc_marker-2-5-4"
+            },
+            {
+              "title": "(5) Co by při plynovém osvětlení bylo nemožné",
+              "href": "OEBPS/Text/bidnici_020.xhtml#toc_marker-2-5-5"
+            },
+            {
+              "title": "(6) Počátek záhady",
+              "href": "OEBPS/Text/bidnici_020.xhtml#toc_marker-2-5-6"
+            },
+            {
+              "title": "(7) Pokračování záhady",
+              "href": "OEBPS/Text/bidnici_020.xhtml#toc_marker-2-5-7"
+            },
+            {
+              "title": "(8) Záhada se rozrůstá",
+              "href": "OEBPS/Text/bidnici_020.xhtml#toc_marker-2-5-8"
+            },
+            {
+              "title": "(9) Muž s rolničkou",
+              "href": "OEBPS/Text/bidnici_020.xhtml#toc_marker-2-5-9"
+            },
+            {
+              "title": "(10) Jak se stalo, že Javert marně hledal",
+              "href": "OEBPS/Text/bidnici_020.xhtml#toc_marker-2-5-10"
+            }
+          ],
+          "href": "OEBPS/Text/bidnici_020.xhtml#toc_marker-2-5"
+        },
+        {
+          "title": "KNIHA ŠESTÁ Klášter Petit-Picpus",
+          "children": [
+            {
+              "title": "(1) Ulička Picpus číslo 62",
+              "href": "OEBPS/Text/bidnici_021.xhtml#toc_marker-2-6-1"
+            },
+            {
+              "title": "(2) Řehole Martina Vergy",
+              "href": "OEBPS/Text/bidnici_021.xhtml#toc_marker-2-6-2"
+            },
+            {
+              "title": "(3) Přísné povinnosti",
+              "href": "OEBPS/Text/bidnici_021.xhtml#toc_marker-2-6-3"
+            },
+            {
+              "title": "(4) Radosti",
+              "href": "OEBPS/Text/bidnici_021.xhtml#toc_marker-2-6-4"
+            },
+            {
+              "title": "(5) Rozptýlení",
+              "href": "OEBPS/Text/bidnici_021.xhtml#toc_marker-2-6-5"
+            },
+            {
+              "title": "(6) Malý klášter",
+              "href": "OEBPS/Text/bidnici_021.xhtml#toc_marker-2-6-6"
+            },
+            {
+              "title": "(7) Několik siluet z onoho přítmí",
+              "href": "OEBPS/Text/bidnici_021.xhtml#toc_marker-2-6-7"
+            },
+            {
+              "title": "(8) „Post corda lapides“",
+              "href": "OEBPS/Text/bidnici_021.xhtml#toc_marker-2-6-8"
+            },
+            {
+              "title": "(9) Století pod řeholní rouškou",
+              "href": "OEBPS/Text/bidnici_021.xhtml#toc_marker-2-6-9"
+            },
+            {
+              "title": "(10) Původ Ustavičného klanění",
+              "href": "OEBPS/Text/bidnici_021.xhtml#toc_marker-2-6-10"
+            },
+            {
+              "title": "(11) Konec kláštera Petit-Picpus",
+              "href": "OEBPS/Text/bidnici_021.xhtml#toc_marker-2-6-11"
+            }
+          ],
+          "href": "OEBPS/Text/bidnici_021.xhtml#toc_marker-2-6"
+        },
+        {
+          "title": "KNIHA SEDMÁ Vsuvka",
+          "children": [
+            {
+              "title": "(1) Klášter jako abstraktní pojem",
+              "href": "OEBPS/Text/bidnici_022.xhtml#toc_marker-2-7-1"
+            },
+            {
+              "title": "(2) Klášter jako dějinný činitel",
+              "href": "OEBPS/Text/bidnici_022.xhtml#toc_marker-2-7-2"
+            },
+            {
+              "title": "(3) Za jakých podmínek můžeme ctít minulost",
+              "href": "OEBPS/Text/bidnici_022.xhtml#toc_marker-2-7-3"
+            },
+            {
+              "title": "(4) Klášter z hlediska zásad",
+              "href": "OEBPS/Text/bidnici_022.xhtml#toc_marker-2-7-4"
+            },
+            {
+              "title": "(5) Modlitba",
+              "href": "OEBPS/Text/bidnici_022.xhtml#toc_marker-2-7-5"
+            },
+            {
+              "title": "(6) Absolutní hodnota modlitby",
+              "href": "OEBPS/Text/bidnici_022.xhtml#toc_marker-2-7-6"
+            },
+            {
+              "title": "(7) Buďme opatrní, chceme-li kárat",
+              "href": "OEBPS/Text/bidnici_022.xhtml#toc_marker-2-7-7"
+            },
+            {
+              "title": "(8) Víra, zákon",
+              "href": "OEBPS/Text/bidnici_022.xhtml#toc_marker-2-7-8"
+            }
+          ],
+          "href": "OEBPS/Text/bidnici_022.xhtml#toc_marker-2-7"
+        },
+        {
+          "title": "KNIHA OSMÁ, Hřbitovy berou, co jim dáváme",
+          "children": [
+            {
+              "title": "(1) Jak je možno vniknout do kláštera",
+              "href": "OEBPS/Text/bidnici_023.xhtml#toc_marker-2-8-1"
+            },
+            {
+              "title": "(2) Fauchelevent se setkává s obtížemi",
+              "href": "OEBPS/Text/bidnici_023.xhtml#toc_marker-2-8-2"
+            },
+            {
+              "title": "(3) Matka Neposkvrněné početí",
+              "href": "OEBPS/Text/bidnici_023.xhtml#toc_marker-2-8-3"
+            },
+            {
+              "title": "(4) Vypadá to docela tak, jako by byl Jean Valjean četl Austina Castilleja",
+              "href": "OEBPS/Text/bidnici_023.xhtml#toc_marker-2-8-4"
+            },
+            {
+              "title": "(5) K nesmrtelnosti nestačí být opilý",
+              "href": "OEBPS/Text/bidnici_023.xhtml#toc_marker-2-8-5"
+            },
+            {
+              "title": "(6) Mezi čtyřmi prkny",
+              "href": "OEBPS/Text/bidnici_023.xhtml#toc_marker-2-8-6"
+            },
+            {
+              "title": "(7) Jak vzniklo rčení „vyzrát na někoho“",
+              "href": "OEBPS/Text/bidnici_023.xhtml#toc_marker-2-8-7"
+            },
+            {
+              "title": "(8) Zdařilý výslech",
+              "href": "OEBPS/Text/bidnici_023.xhtml#toc_marker-2-8-8"
+            },
+            {
+              "title": "(9) Život v ústraní",
+              "href": "OEBPS/Text/bidnici_023.xhtml#toc_marker-2-8-9"
+            }
+          ],
+          "href": "OEBPS/Text/bidnici_023.xhtml#toc_marker-2-8"
+        }
+      ],
+      "href": "OEBPS/Text/bidnici_015.xhtml#toc_marker-2"
+    },
+    {
+      "title": "DÍL TŘETÍ Marius",
+      "children": [
+        {
+          "title": "KNIHA PRVNÍ Paříž pod mikroskopem",
+          "children": [
+            {
+              "title": "(1) Parvulus",
+              "href": "OEBPS/Text/bidnici_025.xhtml#toc_marker-3-1-1"
+            },
+            {
+              "title": "(2) Některé zvláštní znaky",
+              "href": "OEBPS/Text/bidnici_025.xhtml#toc_marker-3-1-2"
+            },
+            {
+              "title": "(3) Je milý",
+              "href": "OEBPS/Text/bidnici_025.xhtml#toc_marker-3-1-3"
+            },
+            {
+              "title": "(4) Může být užitečný",
+              "href": "OEBPS/Text/bidnici_025.xhtml#toc_marker-3-1-4"
+            },
+            {
+              "title": "(5) Jeho hranice",
+              "href": "OEBPS/Text/bidnici_025.xhtml#toc_marker-3-1-5"
+            },
+            {
+              "title": "(6) Trochu historie",
+              "href": "OEBPS/Text/bidnici_025.xhtml#toc_marker-3-1-6"
+            },
+            {
+              "title": "(7) Gamén by mohl mít místo v kastovnictví Indie",
+              "href": "OEBPS/Text/bidnici_025.xhtml#toc_marker-3-1-7"
+            },
+            {
+              "title": "(8) Milé slovíčko o posledním králi",
+              "href": "OEBPS/Text/bidnici_025.xhtml#toc_marker-3-1-8"
+            },
+            {
+              "title": "(9) Starý duch Galie",
+              "href": "OEBPS/Text/bidnici_025.xhtml#toc_marker-3-1-9"
+            },
+            {
+              "title": "(10) Ecce Paříž, ecce homo",
+              "href": "OEBPS/Text/bidnici_025.xhtml#toc_marker-3-1-10"
+            },
+            {
+              "title": "(11) Posmívat se, panovat",
+              "href": "OEBPS/Text/bidnici_025.xhtml#toc_marker-3-1-11"
+            },
+            {
+              "title": "(12) Budoucnost je utajena v lidu",
+              "href": "OEBPS/Text/bidnici_025.xhtml#toc_marker-3-1-12"
+            },
+            {
+              "title": "(13) Malý Gavroche",
+              "href": "OEBPS/Text/bidnici_025.xhtml#toc_marker-3-1-13"
+            }
+          ],
+          "href": "OEBPS/Text/bidnici_025.xhtml#toc_marker-3-1"
+        },
+        {
+          "title": "KNIHA DRUHÁ Velký měšťan",
+          "children": [
+            {
+              "title": "(1) Devadesát let a dvaatřicet zubů",
+              "href": "OEBPS/Text/bidnici_026.xhtml#toc_marker-3-2-1"
+            },
+            {
+              "title": "(2) Jaký pán, takový krám",
+              "href": "OEBPS/Text/bidnici_026.xhtml#toc_marker-3-2-2"
+            },
+            {
+              "title": "(3) Luc-Esprit",
+              "href": "OEBPS/Text/bidnici_026.xhtml#toc_marker-3-2-3"
+            },
+            {
+              "title": "(4) Stařec, který se chce dožít stovky",
+              "href": "OEBPS/Text/bidnici_026.xhtml#toc_marker-3-2-4"
+            },
+            {
+              "title": "(5) Bask a Nicoletta",
+              "href": "OEBPS/Text/bidnici_026.xhtml#toc_marker-3-2-5"
+            },
+            {
+              "title": "(6) Magnonová a její dvě děti",
+              "href": "OEBPS/Text/bidnici_026.xhtml#toc_marker-3-2-6"
+            },
+            {
+              "title": "(7) Pravidlo: Návštěvy přijímejme jen večer",
+              "href": "OEBPS/Text/bidnici_026.xhtml#toc_marker-3-2-7"
+            },
+            {
+              "title": "(8) Dva ještě netvoří dvojici",
+              "href": "OEBPS/Text/bidnici_026.xhtml#toc_marker-3-2-8"
+            }
+          ],
+          "href": "OEBPS/Text/bidnici_026.xhtml#toc_marker-3-2"
+        },
+        {
+          "title": "KNIHA TŘETÍ Děd a vnuk",
+          "children": [
+            {
+              "title": "(1) Staromódní salón",
+              "href": "OEBPS/Text/bidnici_027.xhtml#toc_marker-3-3-1"
+            },
+            {
+              "title": "(2) Rudé strašidlo doby",
+              "href": "OEBPS/Text/bidnici_027.xhtml#toc_marker-3-3-2"
+            },
+            {
+              "title": "(3) Requiescant",
+              "href": "OEBPS/Text/bidnici_027.xhtml#toc_marker-3-3-3"
+            },
+            {
+              "title": "(4) Banditův konec",
+              "href": "OEBPS/Text/bidnici_027.xhtml#toc_marker-3-3-4"
+            },
+            {
+              "title": "(5) Jak je užitečné chodit na mši, aby se člověk stal revolucionářem",
+              "href": "OEBPS/Text/bidnici_027.xhtml#toc_marker-3-3-5"
+            },
+            {
+              "title": "(6) Co znamená setkání se zádušním starostou",
+              "href": "OEBPS/Text/bidnici_027.xhtml#toc_marker-3-3-6"
+            },
+            {
+              "title": "(7) Zástěrka",
+              "href": "OEBPS/Text/bidnici_027.xhtml#toc_marker-3-3-7"
+            },
+            {
+              "title": "(8) Mramor proti žule",
+              "href": "OEBPS/Text/bidnici_027.xhtml#toc_marker-3-3-8"
+            }
+          ],
+          "href": "OEBPS/Text/bidnici_027.xhtml#toc_marker-3-3"
+        },
+        {
+          "title": "KNIHA ČTVRTÁ Přátelé abecedy",
+          "children": [
+            {
+              "title": "(1) Skupina, která se málem stala historickou",
+              "href": "OEBPS/Text/bidnici_028.xhtml#toc_marker-3-4-1"
+            },
+            {
+              "title": "(2) Bossuetova pohřební řeč nad hrobem Blondeauovým",
+              "href": "OEBPS/Text/bidnici_028.xhtml#toc_marker-3-4-2"
+            },
+            {
+              "title": "(3) Mariův úžas",
+              "href": "OEBPS/Text/bidnici_028.xhtml#toc_marker-3-4-3"
+            },
+            {
+              "title": "(4) Zadní místnost kavárny Musain",
+              "href": "OEBPS/Text/bidnici_028.xhtml#toc_marker-3-4-4"
+            },
+            {
+              "title": "(5) Rozšíření obzoru",
+              "href": "OEBPS/Text/bidnici_028.xhtml#toc_marker-3-4-5"
+            },
+            {
+              "title": "(6) „Res angusta“",
+              "href": "OEBPS/Text/bidnici_028.xhtml#toc_marker-3-4-6"
+            }
+          ],
+          "href": "OEBPS/Text/bidnici_028.xhtml#toc_marker-3-4"
+        },
+        {
+          "title": "KNIHA PÁTÁ Výtečnost neštěstí",
+          "children": [
+            {
+              "title": "(1) Nuzný Marius",
+              "href": "OEBPS/Text/bidnici_029.xhtml#toc_marker-3-5-1"
+            },
+            {
+              "title": "(2) Chudý Marius",
+              "href": "OEBPS/Text/bidnici_029.xhtml#toc_marker-3-5-2"
+            },
+            {
+              "title": "(3) Dospělý Marius",
+              "href": "OEBPS/Text/bidnici_029.xhtml#toc_marker-3-5-3"
+            },
+            {
+              "title": "(4) Pan Mabeuf",
+              "href": "OEBPS/Text/bidnici_029.xhtml#toc_marker-3-5-4"
+            },
+            {
+              "title": "(5) Chudoba, dobrá sousedka bídy",
+              "href": "OEBPS/Text/bidnici_029.xhtml#toc_marker-3-5-5"
+            },
+            {
+              "title": "(6) Nástupce",
+              "href": "OEBPS/Text/bidnici_029.xhtml#toc_marker-3-5-6"
+            }
+          ],
+          "href": "OEBPS/Text/bidnici_029.xhtml#toc_marker-3-5"
+        },
+        {
+          "title": "KNIHA ŠESTÁ Konjunkce dvou hvězd",
+          "children": [
+            {
+              "title": "(1) Přezdívka: způsob, jak se tvoří příjmení",
+              "href": "OEBPS/Text/bidnici_030.xhtml#toc_marker-3-6-1"
+            },
+            {
+              "title": "(2) „Lux facta est“",
+              "href": "OEBPS/Text/bidnici_030.xhtml#toc_marker-3-6-2"
+            },
+            {
+              "title": "(3) Účinek jara",
+              "href": "OEBPS/Text/bidnici_030.xhtml#toc_marker-3-6-3"
+            },
+            {
+              "title": "(4) Začátek těžké nemoci",
+              "href": "OEBPS/Text/bidnici_030.xhtml#toc_marker-3-6-4"
+            },
+            {
+              "title": "(5) Na matku Bručavou dopadají hromové rány",
+              "href": "OEBPS/Text/bidnici_030.xhtml#toc_marker-3-6-5"
+            },
+            {
+              "title": "(6) V zajetí",
+              "href": "OEBPS/Text/bidnici_030.xhtml#toc_marker-3-6-6"
+            },
+            {
+              "title": "(7) Domněnky o písmenu U",
+              "href": "OEBPS/Text/bidnici_030.xhtml#toc_marker-3-6-7"
+            },
+            {
+              "title": "(8) Také invalidi mohou být šťastni",
+              "href": "OEBPS/Text/bidnici_030.xhtml#toc_marker-3-6-8"
+            },
+            {
+              "title": "(9) Zatmění",
+              "href": "OEBPS/Text/bidnici_030.xhtml#toc_marker-3-6-9"
+            }
+          ],
+          "href": "OEBPS/Text/bidnici_030.xhtml#toc_marker-3-6"
+        }
+      ],
+      "href": "OEBPS/Text/bidnici_024.xhtml#toc_marker-3"
+    }
+  ]
+}

@@ -1,0 +1,1341 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:939e570b-6c4c-4969-b9ba-b6c3405375f1" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Bídníci I</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>DÍL PRVNÍ Fantina</text>
+      </navLabel>
+      <content src="Text/bidnici_006.xhtml#toc_marker-1"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>KNIHA PRVNÍ Člověk spravedlivý</text>
+        </navLabel>
+        <content src="Text/bidnici_007.xhtml#toc_marker-1-1"/>
+        <navPoint id="navPoint-3" playOrder="3">
+          <navLabel>
+            <text>(1) Myriel</text>
+          </navLabel>
+          <content src="Text/bidnici_007.xhtml#toc_marker-1-1-1"/>
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+          <navLabel>
+            <text>(2) Myriel se stává monsignorem Lidumilem</text>
+          </navLabel>
+          <content src="Text/bidnici_007.xhtml#toc_marker-1-1-2"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+          <navLabel>
+            <text>(3) Dobrému biskupovi tvrdé biskupství</text>
+          </navLabel>
+          <content src="Text/bidnici_007.xhtml#toc_marker-1-1-3"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+          <navLabel>
+            <text>(4) Co slovo, to skutek</text>
+          </navLabel>
+          <content src="Text/bidnici_007.xhtml#toc_marker-1-1-4"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+          <navLabel>
+            <text>(5) Monsignore Lidumil nosil své sutany příliš dlouho</text>
+          </navLabel>
+          <content src="Text/bidnici_007.xhtml#toc_marker-1-1-5"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+          <navLabel>
+            <text>(6) Kdo mu střežil dům</text>
+          </navLabel>
+          <content src="Text/bidnici_007.xhtml#toc_marker-1-1-6"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+          <navLabel>
+            <text>(7) Kravata</text>
+          </navLabel>
+          <content src="Text/bidnici_007.xhtml#toc_marker-1-1-7"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+          <navLabel>
+            <text>(8) Filozofování při skleničce</text>
+          </navLabel>
+          <content src="Text/bidnici_007.xhtml#toc_marker-1-1-8"/>
+        </navPoint>
+        <navPoint id="navPoint-11" playOrder="11">
+          <navLabel>
+            <text>(9) Sestra vypravuje o bratrovi</text>
+          </navLabel>
+          <content src="Text/bidnici_007.xhtml#toc_marker-1-1-9"/>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+          <navLabel>
+            <text>(10) Biskup potkává neznámé světlo</text>
+          </navLabel>
+          <content src="Text/bidnici_007.xhtml#toc_marker-1-1-10"/>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+          <navLabel>
+            <text>(11) Výhrady</text>
+          </navLabel>
+          <content src="Text/bidnici_007.xhtml#toc_marker-1-1-11"/>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+          <navLabel>
+            <text>(12) Samota monsignora Lidumila</text>
+          </navLabel>
+          <content src="Text/bidnici_007.xhtml#toc_marker-1-1-12"/>
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+          <navLabel>
+            <text>(13) Čemu věřil</text>
+          </navLabel>
+          <content src="Text/bidnici_007.xhtml#toc_marker-1-1-13"/>
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+          <navLabel>
+            <text>(14) Co si myslil</text>
+          </navLabel>
+          <content src="Text/bidnici_007.xhtml#toc_marker-1-1-14"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>KNIHA DRUHÁ Pád</text>
+        </navLabel>
+        <content src="Text/bidnici_008.xhtml#toc_marker-1-2"/>
+        <navPoint id="navPoint-18" playOrder="18">
+          <navLabel>
+            <text>(1) Večer po celodenní chůzi</text>
+          </navLabel>
+          <content src="Text/bidnici_008.xhtml#toc_marker-1-2-1"/>
+        </navPoint>
+        <navPoint id="navPoint-19" playOrder="19">
+          <navLabel>
+            <text>(2) Opatrnost matka moudrosti</text>
+          </navLabel>
+          <content src="Text/bidnici_008.xhtml#toc_marker-1-2-2"/>
+        </navPoint>
+        <navPoint id="navPoint-20" playOrder="20">
+          <navLabel>
+            <text>(3) Hrdinství trpné poslušnosti</text>
+          </navLabel>
+          <content src="Text/bidnici_008.xhtml#toc_marker-1-2-3"/>
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+          <navLabel>
+            <text>(4) Podrobnosti o sýrárnách v Pontarlieru</text>
+          </navLabel>
+          <content src="Text/bidnici_008.xhtml#toc_marker-1-2-4"/>
+        </navPoint>
+        <navPoint id="navPoint-22" playOrder="22">
+          <navLabel>
+            <text>(5) Klid</text>
+          </navLabel>
+          <content src="Text/bidnici_008.xhtml#toc_marker-1-2-5"/>
+        </navPoint>
+        <navPoint id="navPoint-23" playOrder="23">
+          <navLabel>
+            <text>(6) Jean Valjean</text>
+          </navLabel>
+          <content src="Text/bidnici_008.xhtml#toc_marker-1-2-6"/>
+        </navPoint>
+        <navPoint id="navPoint-24" playOrder="24">
+          <navLabel>
+            <text>(7) Zoufalství</text>
+          </navLabel>
+          <content src="Text/bidnici_008.xhtml#toc_marker-1-2-7"/>
+        </navPoint>
+        <navPoint id="navPoint-25" playOrder="25">
+          <navLabel>
+            <text>(8) Vlna a stín</text>
+          </navLabel>
+          <content src="Text/bidnici_008.xhtml#toc_marker-1-2-8"/>
+        </navPoint>
+        <navPoint id="navPoint-26" playOrder="26">
+          <navLabel>
+            <text>(9) Nové křivdy</text>
+          </navLabel>
+          <content src="Text/bidnici_008.xhtml#toc_marker-1-2-9"/>
+        </navPoint>
+        <navPoint id="navPoint-27" playOrder="27">
+          <navLabel>
+            <text>(10) Muž se probudil</text>
+          </navLabel>
+          <content src="Text/bidnici_008.xhtml#toc_marker-1-2-10"/>
+        </navPoint>
+        <navPoint id="navPoint-28" playOrder="28">
+          <navLabel>
+            <text>(11) Co dělá</text>
+          </navLabel>
+          <content src="Text/bidnici_008.xhtml#toc_marker-1-2-11"/>
+        </navPoint>
+        <navPoint id="navPoint-29" playOrder="29">
+          <navLabel>
+            <text>(12) Biskup pracuje</text>
+          </navLabel>
+          <content src="Text/bidnici_008.xhtml#toc_marker-1-2-12"/>
+        </navPoint>
+        <navPoint id="navPoint-30" playOrder="30">
+          <navLabel>
+            <text>(13) Malý Gervác</text>
+          </navLabel>
+          <content src="Text/bidnici_008.xhtml#toc_marker-1-2-13"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>KNIHA TŘETÍ Rok 1817</text>
+        </navLabel>
+        <content src="Text/bidnici_009.xhtml#toc_marker-1-3"/>
+        <navPoint id="navPoint-32" playOrder="32">
+          <navLabel>
+            <text>(1) Rok 1817</text>
+          </navLabel>
+          <content src="Text/bidnici_009.xhtml#toc_marker-1-3-1"/>
+        </navPoint>
+        <navPoint id="navPoint-33" playOrder="33">
+          <navLabel>
+            <text>(2) Dvě čtveřice</text>
+          </navLabel>
+          <content src="Text/bidnici_009.xhtml#toc_marker-1-3-2"/>
+        </navPoint>
+        <navPoint id="navPoint-34" playOrder="34">
+          <navLabel>
+            <text>(3) Čtyři a čtyři</text>
+          </navLabel>
+          <content src="Text/bidnici_009.xhtml#toc_marker-1-3-3"/>
+        </navPoint>
+        <navPoint id="navPoint-35" playOrder="35">
+          <navLabel>
+            <text>(4) Tholomyès má takovou radost, že zpívá španělskou píseň</text>
+          </navLabel>
+          <content src="Text/bidnici_009.xhtml#toc_marker-1-3-4"/>
+        </navPoint>
+        <navPoint id="navPoint-36" playOrder="36">
+          <navLabel>
+            <text>(5) U Bombardy</text>
+          </navLabel>
+          <content src="Text/bidnici_009.xhtml#toc_marker-1-3-5"/>
+        </navPoint>
+        <navPoint id="navPoint-37" playOrder="37">
+          <navLabel>
+            <text>(6) Kapitola plná zbožňování</text>
+          </navLabel>
+          <content src="Text/bidnici_009.xhtml#toc_marker-1-3-6"/>
+        </navPoint>
+        <navPoint id="navPoint-38" playOrder="38">
+          <navLabel>
+            <text>(7) Tholomyèsova moudrost</text>
+          </navLabel>
+          <content src="Text/bidnici_009.xhtml#toc_marker-1-3-7"/>
+        </navPoint>
+        <navPoint id="navPoint-39" playOrder="39">
+          <navLabel>
+            <text>(8) Smrt koně</text>
+          </navLabel>
+          <content src="Text/bidnici_009.xhtml#toc_marker-1-3-8"/>
+        </navPoint>
+        <navPoint id="navPoint-40" playOrder="40">
+          <navLabel>
+            <text>(9) Veselé zakončení radosti</text>
+          </navLabel>
+          <content src="Text/bidnici_009.xhtml#toc_marker-1-3-9"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>KNIHA ČTVRTÁ Na důvěru se často doplácí</text>
+        </navLabel>
+        <content src="Text/bidnici_010.xhtml#toc_marker-1-4"/>
+        <navPoint id="navPoint-42" playOrder="42">
+          <navLabel>
+            <text>(1) Setkání dvou matek</text>
+          </navLabel>
+          <content src="Text/bidnici_010.xhtml#toc_marker-1-4-1"/>
+        </navPoint>
+        <navPoint id="navPoint-43" playOrder="43">
+          <navLabel>
+            <text>(2) Letmý nástin dvou nekalých osob</text>
+          </navLabel>
+          <content src="Text/bidnici_010.xhtml#toc_marker-1-4-2"/>
+        </navPoint>
+        <navPoint id="navPoint-44" playOrder="44">
+          <navLabel>
+            <text>(3) Skřivánek</text>
+          </navLabel>
+          <content src="Text/bidnici_010.xhtml#toc_marker-1-4-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>KNIHA PÁTÁ Na šikmé ploše</text>
+        </navLabel>
+        <content src="Text/bidnici_011.xhtml#toc_marker-1-5"/>
+        <navPoint id="navPoint-46" playOrder="46">
+          <navLabel>
+            <text>(1) O pokroku ve výrobě ozdob z černého skla</text>
+          </navLabel>
+          <content src="Text/bidnici_011.xhtml#toc_marker-1-5-1"/>
+        </navPoint>
+        <navPoint id="navPoint-47" playOrder="47">
+          <navLabel>
+            <text>(2) Madeleine</text>
+          </navLabel>
+          <content src="Text/bidnici_011.xhtml#toc_marker-1-5-2"/>
+        </navPoint>
+        <navPoint id="navPoint-48" playOrder="48">
+          <navLabel>
+            <text>(3) Peníze uložené u Laffitta</text>
+          </navLabel>
+          <content src="Text/bidnici_011.xhtml#toc_marker-1-5-3"/>
+        </navPoint>
+        <navPoint id="navPoint-49" playOrder="49">
+          <navLabel>
+            <text>(4) Pan Madeleine nosí smutek</text>
+          </navLabel>
+          <content src="Text/bidnici_011.xhtml#toc_marker-1-5-4"/>
+        </navPoint>
+        <navPoint id="navPoint-50" playOrder="50">
+          <navLabel>
+            <text>(5) Neurčité blýskání na obzoru</text>
+          </navLabel>
+          <content src="Text/bidnici_011.xhtml#toc_marker-1-5-5"/>
+        </navPoint>
+        <navPoint id="navPoint-51" playOrder="51">
+          <navLabel>
+            <text>(6) Starý Fauchelevent</text>
+          </navLabel>
+          <content src="Text/bidnici_011.xhtml#toc_marker-1-5-6"/>
+        </navPoint>
+        <navPoint id="navPoint-52" playOrder="52">
+          <navLabel>
+            <text>(7) Fauchelevent se stává zahradníkem v Paříži</text>
+          </navLabel>
+          <content src="Text/bidnici_011.xhtml#toc_marker-1-5-7"/>
+        </navPoint>
+        <navPoint id="navPoint-53" playOrder="53">
+          <navLabel>
+            <text>(8) Paní Victurnienová vydává pětatřicet franků na mravopočestnost</text>
+          </navLabel>
+          <content src="Text/bidnici_011.xhtml#toc_marker-1-5-8"/>
+        </navPoint>
+        <navPoint id="navPoint-54" playOrder="54">
+          <navLabel>
+            <text>(9) Úspěch paní Victurnienové</text>
+          </navLabel>
+          <content src="Text/bidnici_011.xhtml#toc_marker-1-5-9"/>
+        </navPoint>
+        <navPoint id="navPoint-55" playOrder="55">
+          <navLabel>
+            <text>(10) Další úspěch</text>
+          </navLabel>
+          <content src="Text/bidnici_011.xhtml#toc_marker-1-5-10"/>
+        </navPoint>
+        <navPoint id="navPoint-56" playOrder="56">
+          <navLabel>
+            <text>(11) Christus nos liberavit</text>
+          </navLabel>
+          <content src="Text/bidnici_011.xhtml#toc_marker-1-5-11"/>
+        </navPoint>
+        <navPoint id="navPoint-57" playOrder="57">
+          <navLabel>
+            <text>(12) Zahálka pana Bamataboise</text>
+          </navLabel>
+          <content src="Text/bidnici_011.xhtml#toc_marker-1-5-12"/>
+        </navPoint>
+        <navPoint id="navPoint-58" playOrder="58">
+          <navLabel>
+            <text>(13) Rozluštění některých sporných otázek městské policie</text>
+          </navLabel>
+          <content src="Text/bidnici_011.xhtml#toc_marker-1-5-13"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>KNIHA ŠESTÁ Javert</text>
+        </navLabel>
+        <content src="Text/bidnici_012.xhtml#toc_marker-1-6"/>
+        <navPoint id="navPoint-60" playOrder="60">
+          <navLabel>
+            <text>(1) Začátek odpočinku</text>
+          </navLabel>
+          <content src="Text/bidnici_012.xhtml#toc_marker-1-6-1"/>
+        </navPoint>
+        <navPoint id="navPoint-61" playOrder="61">
+          <navLabel>
+            <text>(2) Jak se zejména Jean může stát Champ</text>
+          </navLabel>
+          <content src="Text/bidnici_012.xhtml#toc_marker-1-6-2"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>KNIHA SEDMÁ Champmathieuův případ</text>
+        </navLabel>
+        <content src="Text/bidnici_013.xhtml#toc_marker-1-7"/>
+        <navPoint id="navPoint-63" playOrder="63">
+          <navLabel>
+            <text>(1) Sestra Simplicie</text>
+          </navLabel>
+          <content src="Text/bidnici_013.xhtml#toc_marker-1-7-1"/>
+        </navPoint>
+        <navPoint id="navPoint-64" playOrder="64">
+          <navLabel>
+            <text>(2) Prozíravost mistra Scaufflaira</text>
+          </navLabel>
+          <content src="Text/bidnici_013.xhtml#toc_marker-1-7-2"/>
+        </navPoint>
+        <navPoint id="navPoint-65" playOrder="65">
+          <navLabel>
+            <text>(3) Svědomí</text>
+          </navLabel>
+          <content src="Text/bidnici_013.xhtml#toc_marker-1-7-3"/>
+        </navPoint>
+        <navPoint id="navPoint-66" playOrder="66">
+          <navLabel>
+            <text>(4) Jak vypadá utrpení ve spánku</text>
+          </navLabel>
+          <content src="Text/bidnici_013.xhtml#toc_marker-1-7-4"/>
+        </navPoint>
+        <navPoint id="navPoint-67" playOrder="67">
+          <navLabel>
+            <text>(5) Překážky na cestě</text>
+          </navLabel>
+          <content src="Text/bidnici_013.xhtml#toc_marker-1-7-5"/>
+        </navPoint>
+        <navPoint id="navPoint-68" playOrder="68">
+          <navLabel>
+            <text>(6) Sestra Simplicie je podrobena zkoušce</text>
+          </navLabel>
+          <content src="Text/bidnici_013.xhtml#toc_marker-1-7-6"/>
+        </navPoint>
+        <navPoint id="navPoint-69" playOrder="69">
+          <navLabel>
+            <text>(7) Cestující dojel a chystá se k návratu</text>
+          </navLabel>
+          <content src="Text/bidnici_013.xhtml#toc_marker-1-7-7"/>
+        </navPoint>
+        <navPoint id="navPoint-70" playOrder="70">
+          <navLabel>
+            <text>(8) Vstup jen pro význačné osobnosti</text>
+          </navLabel>
+          <content src="Text/bidnici_013.xhtml#toc_marker-1-7-8"/>
+        </navPoint>
+        <navPoint id="navPoint-71" playOrder="71">
+          <navLabel>
+            <text>(9) Místo, kde se připravuje rozsudek</text>
+          </navLabel>
+          <content src="Text/bidnici_013.xhtml#toc_marker-1-7-9"/>
+        </navPoint>
+        <navPoint id="navPoint-72" playOrder="72">
+          <navLabel>
+            <text>(10) Soustavné zapírání</text>
+          </navLabel>
+          <content src="Text/bidnici_013.xhtml#toc_marker-1-7-10"/>
+        </navPoint>
+        <navPoint id="navPoint-73" playOrder="73">
+          <navLabel>
+            <text>(11) Champmathieu se diví a diví</text>
+          </navLabel>
+          <content src="Text/bidnici_013.xhtml#toc_marker-1-7-11"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>KNIHA OSMÁ Následek</text>
+        </navLabel>
+        <content src="Text/bidnici_014.xhtml#toc_marker-1-8"/>
+        <navPoint id="navPoint-75" playOrder="75">
+          <navLabel>
+            <text>(1) V jakém zrcadle si pan Madeleine prohlíží vlasy</text>
+          </navLabel>
+          <content src="Text/bidnici_014.xhtml#toc_marker-1-8-1"/>
+        </navPoint>
+        <navPoint id="navPoint-76" playOrder="76">
+          <navLabel>
+            <text>(2) Fantina je šťastná</text>
+          </navLabel>
+          <content src="Text/bidnici_014.xhtml#toc_marker-1-8-2"/>
+        </navPoint>
+        <navPoint id="navPoint-77" playOrder="77">
+          <navLabel>
+            <text>(3) Javert je spokojen</text>
+          </navLabel>
+          <content src="Text/bidnici_014.xhtml#toc_marker-1-8-3"/>
+        </navPoint>
+        <navPoint id="navPoint-78" playOrder="78">
+          <navLabel>
+            <text>(4) Moc se ujímá svých práv</text>
+          </navLabel>
+          <content src="Text/bidnici_014.xhtml#toc_marker-1-8-4"/>
+        </navPoint>
+        <navPoint id="navPoint-79" playOrder="79">
+          <navLabel>
+            <text>(5) Vhodný hrob</text>
+          </navLabel>
+          <content src="Text/bidnici_014.xhtml#toc_marker-1-8-5"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-80" playOrder="80">
+      <navLabel>
+        <text>DÍL DRUHÝ Cosetta</text>
+      </navLabel>
+      <content src="Text/bidnici_015.xhtml#toc_marker-2"/>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>KNIHA PRVNÍ Waterloo</text>
+        </navLabel>
+        <content src="Text/bidnici_016.xhtml#toc_marker-2-1"/>
+        <navPoint id="navPoint-82" playOrder="82">
+          <navLabel>
+            <text>(1) S čím se setkáváme cestou z Nivelles</text>
+          </navLabel>
+          <content src="Text/bidnici_016.xhtml#toc_marker-2-1-1"/>
+        </navPoint>
+        <navPoint id="navPoint-83" playOrder="83">
+          <navLabel>
+            <text>(2) Hougomont</text>
+          </navLabel>
+          <content src="Text/bidnici_016.xhtml#toc_marker-2-1-2"/>
+        </navPoint>
+        <navPoint id="navPoint-84" playOrder="84">
+          <navLabel>
+            <text>(3) 18. červen 1815</text>
+          </navLabel>
+          <content src="Text/bidnici_016.xhtml#toc_marker-2-1-3"/>
+        </navPoint>
+        <navPoint id="navPoint-85" playOrder="85">
+          <navLabel>
+            <text>(4) A</text>
+          </navLabel>
+          <content src="Text/bidnici_016.xhtml#toc_marker-2-1-4"/>
+        </navPoint>
+        <navPoint id="navPoint-86" playOrder="86">
+          <navLabel>
+            <text>(5) „Quid obscurum“ bitev</text>
+          </navLabel>
+          <content src="Text/bidnici_016.xhtml#toc_marker-2-1-5"/>
+        </navPoint>
+        <navPoint id="navPoint-87" playOrder="87">
+          <navLabel>
+            <text>(6) Čtyři hodiny odpoledne</text>
+          </navLabel>
+          <content src="Text/bidnici_016.xhtml#toc_marker-2-1-6"/>
+        </navPoint>
+        <navPoint id="navPoint-88" playOrder="88">
+          <navLabel>
+            <text>(7) Napoleon v dobré náladě</text>
+          </navLabel>
+          <content src="Text/bidnici_016.xhtml#toc_marker-2-1-7"/>
+        </navPoint>
+        <navPoint id="navPoint-89" playOrder="89">
+          <navLabel>
+            <text>(8) Císař se vyptává průvodce Lacosta</text>
+          </navLabel>
+          <content src="Text/bidnici_016.xhtml#toc_marker-2-1-8"/>
+        </navPoint>
+        <navPoint id="navPoint-90" playOrder="90">
+          <navLabel>
+            <text>(9) Překvapení</text>
+          </navLabel>
+          <content src="Text/bidnici_016.xhtml#toc_marker-2-1-9"/>
+        </navPoint>
+        <navPoint id="navPoint-91" playOrder="91">
+          <navLabel>
+            <text>(10) Montsaintjeanská náhorní planina</text>
+          </navLabel>
+          <content src="Text/bidnici_016.xhtml#toc_marker-2-1-10"/>
+        </navPoint>
+        <navPoint id="navPoint-92" playOrder="92">
+          <navLabel>
+            <text>(11) Napoleon měl špatného průvodce, Bülow dobrého</text>
+          </navLabel>
+          <content src="Text/bidnici_016.xhtml#toc_marker-2-1-11"/>
+        </navPoint>
+        <navPoint id="navPoint-93" playOrder="93">
+          <navLabel>
+            <text>(12) Garda</text>
+          </navLabel>
+          <content src="Text/bidnici_016.xhtml#toc_marker-2-1-12"/>
+        </navPoint>
+        <navPoint id="navPoint-94" playOrder="94">
+          <navLabel>
+            <text>(13) Osudná chvíle</text>
+          </navLabel>
+          <content src="Text/bidnici_016.xhtml#toc_marker-2-1-13"/>
+        </navPoint>
+        <navPoint id="navPoint-95" playOrder="95">
+          <navLabel>
+            <text>(14) Poslední čtverhran</text>
+          </navLabel>
+          <content src="Text/bidnici_016.xhtml#toc_marker-2-1-14"/>
+        </navPoint>
+        <navPoint id="navPoint-96" playOrder="96">
+          <navLabel>
+            <text>(15) Cambronne</text>
+          </navLabel>
+          <content src="Text/bidnici_016.xhtml#toc_marker-2-1-15"/>
+        </navPoint>
+        <navPoint id="navPoint-97" playOrder="97">
+          <navLabel>
+            <text>(16) Quot libras in duce?</text>
+          </navLabel>
+          <content src="Text/bidnici_016.xhtml#toc_marker-2-1-16"/>
+        </navPoint>
+        <navPoint id="navPoint-98" playOrder="98">
+          <navLabel>
+            <text>(17) Máme schvalovat Waterloo?</text>
+          </navLabel>
+          <content src="Text/bidnici_016.xhtml#toc_marker-2-1-17"/>
+        </navPoint>
+        <navPoint id="navPoint-99" playOrder="99">
+          <navLabel>
+            <text>(18) Dočasné zotavení práva z boží milosti</text>
+          </navLabel>
+          <content src="Text/bidnici_016.xhtml#toc_marker-2-1-18"/>
+        </navPoint>
+        <navPoint id="navPoint-100" playOrder="100">
+          <navLabel>
+            <text>(19) Bojiště v noci</text>
+          </navLabel>
+          <content src="Text/bidnici_016.xhtml#toc_marker-2-1-19"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-101" playOrder="101">
+        <navLabel>
+          <text>KNIHA DRUHÁ Loď Orion</text>
+        </navLabel>
+        <content src="Text/bidnici_017.xhtml#toc_marker-2-2"/>
+        <navPoint id="navPoint-102" playOrder="102">
+          <navLabel>
+            <text>(1) Číslo 24 601 se stává číslem 9430</text>
+          </navLabel>
+          <content src="Text/bidnici_017.xhtml#toc_marker-2-2-1"/>
+        </navPoint>
+        <navPoint id="navPoint-103" playOrder="103">
+          <navLabel>
+            <text>(2) Kapitola, v níž si přečteme dva verše, které snad napsal ďábel</text>
+          </navLabel>
+          <content src="Text/bidnici_017.xhtml#toc_marker-2-2-2"/>
+        </navPoint>
+        <navPoint id="navPoint-104" playOrder="104">
+          <navLabel>
+            <text>(3) Řetěz okovů byl určitě nějak připraven, aby mohl být přeražen jedním úderem kladiva</text>
+          </navLabel>
+          <content src="Text/bidnici_017.xhtml#toc_marker-2-2-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-105" playOrder="105">
+        <navLabel>
+          <text>KNIHA TŘETÍ Vyplnění slibu daného mrtvé</text>
+        </navLabel>
+        <content src="Text/bidnici_018.xhtml#toc_marker-2-3"/>
+        <navPoint id="navPoint-106" playOrder="106">
+          <navLabel>
+            <text>(1) Trampoty s vodou v Montfermeil</text>
+          </navLabel>
+          <content src="Text/bidnici_018.xhtml#toc_marker-2-3-1"/>
+        </navPoint>
+        <navPoint id="navPoint-107" playOrder="107">
+          <navLabel>
+            <text>(2) Dvě dokreslené podobizny</text>
+          </navLabel>
+          <content src="Text/bidnici_018.xhtml#toc_marker-2-3-2"/>
+        </navPoint>
+        <navPoint id="navPoint-108" playOrder="108">
+          <navLabel>
+            <text>(3) Lidé potřebují víno a koně vodu</text>
+          </navLabel>
+          <content src="Text/bidnici_018.xhtml#toc_marker-2-3-3"/>
+        </navPoint>
+        <navPoint id="navPoint-109" playOrder="109">
+          <navLabel>
+            <text>(4) Na jeviště vstupuje panenka</text>
+          </navLabel>
+          <content src="Text/bidnici_018.xhtml#toc_marker-2-3-4"/>
+        </navPoint>
+        <navPoint id="navPoint-110" playOrder="110">
+          <navLabel>
+            <text>(5) Osamělá holčička</text>
+          </navLabel>
+          <content src="Text/bidnici_018.xhtml#toc_marker-2-3-5"/>
+        </navPoint>
+        <navPoint id="navPoint-111" playOrder="111">
+          <navLabel>
+            <text>(6) Důkaz o Boulatruellově soudnosti</text>
+          </navLabel>
+          <content src="Text/bidnici_018.xhtml#toc_marker-2-3-6"/>
+        </navPoint>
+        <navPoint id="navPoint-112" playOrder="112">
+          <navLabel>
+            <text>(7) Cosetta jde potmě vedle neznámého</text>
+          </navLabel>
+          <content src="Text/bidnici_018.xhtml#toc_marker-2-3-7"/>
+        </navPoint>
+        <navPoint id="navPoint-113" playOrder="113">
+          <navLabel>
+            <text>(8) Je nepříjemné hostit chuďasa, který je možná bohatý</text>
+          </navLabel>
+          <content src="Text/bidnici_018.xhtml#toc_marker-2-3-8"/>
+        </navPoint>
+        <navPoint id="navPoint-114" playOrder="114">
+          <navLabel>
+            <text>(9) Thénardier při práci</text>
+          </navLabel>
+          <content src="Text/bidnici_018.xhtml#toc_marker-2-3-9"/>
+        </navPoint>
+        <navPoint id="navPoint-115" playOrder="115">
+          <navLabel>
+            <text>(10) Kdo si chce polepšit, často si pohorší</text>
+          </navLabel>
+          <content src="Text/bidnici_018.xhtml#toc_marker-2-3-10"/>
+        </navPoint>
+        <navPoint id="navPoint-116" playOrder="116">
+          <navLabel>
+            <text>(11) V loterii vychází číslo 9430 a Cosetta na ně vyhrává</text>
+          </navLabel>
+          <content src="Text/bidnici_018.xhtml#toc_marker-2-3-11"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-117" playOrder="117">
+        <navLabel>
+          <text>KNIHA ČTVRTÁ Gorbeauův barák</text>
+        </navLabel>
+        <content src="Text/bidnici_019.xhtml#toc_marker-2-4"/>
+        <navPoint id="navPoint-118" playOrder="118">
+          <navLabel>
+            <text>(1) Mistr Gorbeau</text>
+          </navLabel>
+          <content src="Text/bidnici_019.xhtml#toc_marker-2-4-1"/>
+        </navPoint>
+        <navPoint id="navPoint-119" playOrder="119">
+          <navLabel>
+            <text>(2) Hnízdo pro kalousa a pěnkavku</text>
+          </navLabel>
+          <content src="Text/bidnici_019.xhtml#toc_marker-2-4-2"/>
+        </navPoint>
+        <navPoint id="navPoint-120" playOrder="120">
+          <navLabel>
+            <text>(3) Spojením dvou neštěstí vzniká štěstí</text>
+          </navLabel>
+          <content src="Text/bidnici_019.xhtml#toc_marker-2-4-3"/>
+        </navPoint>
+        <navPoint id="navPoint-121" playOrder="121">
+          <navLabel>
+            <text>(4) Čeho si všimla hlavní nájemnice</text>
+          </navLabel>
+          <content src="Text/bidnici_019.xhtml#toc_marker-2-4-4"/>
+        </navPoint>
+        <navPoint id="navPoint-122" playOrder="122">
+          <navLabel>
+            <text>(5) Pětifrank spadl na zem a zazvonil</text>
+          </navLabel>
+          <content src="Text/bidnici_019.xhtml#toc_marker-2-4-5"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-123" playOrder="123">
+        <navLabel>
+          <text>KNIHA PÁTÁ Tichá štvanice</text>
+        </navLabel>
+        <content src="Text/bidnici_020.xhtml#toc_marker-2-5"/>
+        <navPoint id="navPoint-124" playOrder="124">
+          <navLabel>
+            <text>(1) Strategické kličkování</text>
+          </navLabel>
+          <content src="Text/bidnici_020.xhtml#toc_marker-2-5-1"/>
+        </navPoint>
+        <navPoint id="navPoint-125" playOrder="125">
+          <navLabel>
+            <text>(2) Jak je dobře, že po Slavkovském mostě jezdí vozy</text>
+          </navLabel>
+          <content src="Text/bidnici_020.xhtml#toc_marker-2-5-2"/>
+        </navPoint>
+        <navPoint id="navPoint-126" playOrder="126">
+          <navLabel>
+            <text>(3) Plán Paříže z roku 1727</text>
+          </navLabel>
+          <content src="Text/bidnici_020.xhtml#toc_marker-2-5-3"/>
+        </navPoint>
+        <navPoint id="navPoint-127" playOrder="127">
+          <navLabel>
+            <text>(4) Tápání při útěku</text>
+          </navLabel>
+          <content src="Text/bidnici_020.xhtml#toc_marker-2-5-4"/>
+        </navPoint>
+        <navPoint id="navPoint-128" playOrder="128">
+          <navLabel>
+            <text>(5) Co by při plynovém osvětlení bylo nemožné</text>
+          </navLabel>
+          <content src="Text/bidnici_020.xhtml#toc_marker-2-5-5"/>
+        </navPoint>
+        <navPoint id="navPoint-129" playOrder="129">
+          <navLabel>
+            <text>(6) Počátek záhady</text>
+          </navLabel>
+          <content src="Text/bidnici_020.xhtml#toc_marker-2-5-6"/>
+        </navPoint>
+        <navPoint id="navPoint-130" playOrder="130">
+          <navLabel>
+            <text>(7) Pokračování záhady</text>
+          </navLabel>
+          <content src="Text/bidnici_020.xhtml#toc_marker-2-5-7"/>
+        </navPoint>
+        <navPoint id="navPoint-131" playOrder="131">
+          <navLabel>
+            <text>(8) Záhada se rozrůstá</text>
+          </navLabel>
+          <content src="Text/bidnici_020.xhtml#toc_marker-2-5-8"/>
+        </navPoint>
+        <navPoint id="navPoint-132" playOrder="132">
+          <navLabel>
+            <text>(9) Muž s rolničkou</text>
+          </navLabel>
+          <content src="Text/bidnici_020.xhtml#toc_marker-2-5-9"/>
+        </navPoint>
+        <navPoint id="navPoint-133" playOrder="133">
+          <navLabel>
+            <text>(10) Jak se stalo, že Javert marně hledal</text>
+          </navLabel>
+          <content src="Text/bidnici_020.xhtml#toc_marker-2-5-10"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-134" playOrder="134">
+        <navLabel>
+          <text>KNIHA ŠESTÁ Klášter Petit-Picpus</text>
+        </navLabel>
+        <content src="Text/bidnici_021.xhtml#toc_marker-2-6"/>
+        <navPoint id="navPoint-135" playOrder="135">
+          <navLabel>
+            <text>(1) Ulička Picpus číslo 62</text>
+          </navLabel>
+          <content src="Text/bidnici_021.xhtml#toc_marker-2-6-1"/>
+        </navPoint>
+        <navPoint id="navPoint-136" playOrder="136">
+          <navLabel>
+            <text>(2) Řehole Martina Vergy</text>
+          </navLabel>
+          <content src="Text/bidnici_021.xhtml#toc_marker-2-6-2"/>
+        </navPoint>
+        <navPoint id="navPoint-137" playOrder="137">
+          <navLabel>
+            <text>(3) Přísné povinnosti</text>
+          </navLabel>
+          <content src="Text/bidnici_021.xhtml#toc_marker-2-6-3"/>
+        </navPoint>
+        <navPoint id="navPoint-138" playOrder="138">
+          <navLabel>
+            <text>(4) Radosti</text>
+          </navLabel>
+          <content src="Text/bidnici_021.xhtml#toc_marker-2-6-4"/>
+        </navPoint>
+        <navPoint id="navPoint-139" playOrder="139">
+          <navLabel>
+            <text>(5) Rozptýlení</text>
+          </navLabel>
+          <content src="Text/bidnici_021.xhtml#toc_marker-2-6-5"/>
+        </navPoint>
+        <navPoint id="navPoint-140" playOrder="140">
+          <navLabel>
+            <text>(6) Malý klášter</text>
+          </navLabel>
+          <content src="Text/bidnici_021.xhtml#toc_marker-2-6-6"/>
+        </navPoint>
+        <navPoint id="navPoint-141" playOrder="141">
+          <navLabel>
+            <text>(7) Několik siluet z onoho přítmí</text>
+          </navLabel>
+          <content src="Text/bidnici_021.xhtml#toc_marker-2-6-7"/>
+        </navPoint>
+        <navPoint id="navPoint-142" playOrder="142">
+          <navLabel>
+            <text>(8) „Post corda lapides“</text>
+          </navLabel>
+          <content src="Text/bidnici_021.xhtml#toc_marker-2-6-8"/>
+        </navPoint>
+        <navPoint id="navPoint-143" playOrder="143">
+          <navLabel>
+            <text>(9) Století pod řeholní rouškou</text>
+          </navLabel>
+          <content src="Text/bidnici_021.xhtml#toc_marker-2-6-9"/>
+        </navPoint>
+        <navPoint id="navPoint-144" playOrder="144">
+          <navLabel>
+            <text>(10) Původ Ustavičného klanění</text>
+          </navLabel>
+          <content src="Text/bidnici_021.xhtml#toc_marker-2-6-10"/>
+        </navPoint>
+        <navPoint id="navPoint-145" playOrder="145">
+          <navLabel>
+            <text>(11) Konec kláštera Petit-Picpus</text>
+          </navLabel>
+          <content src="Text/bidnici_021.xhtml#toc_marker-2-6-11"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-146" playOrder="146">
+        <navLabel>
+          <text>KNIHA SEDMÁ Vsuvka</text>
+        </navLabel>
+        <content src="Text/bidnici_022.xhtml#toc_marker-2-7"/>
+        <navPoint id="navPoint-147" playOrder="147">
+          <navLabel>
+            <text>(1) Klášter jako abstraktní pojem</text>
+          </navLabel>
+          <content src="Text/bidnici_022.xhtml#toc_marker-2-7-1"/>
+        </navPoint>
+        <navPoint id="navPoint-148" playOrder="148">
+          <navLabel>
+            <text>(2) Klášter jako dějinný činitel</text>
+          </navLabel>
+          <content src="Text/bidnici_022.xhtml#toc_marker-2-7-2"/>
+        </navPoint>
+        <navPoint id="navPoint-149" playOrder="149">
+          <navLabel>
+            <text>(3) Za jakých podmínek můžeme ctít minulost</text>
+          </navLabel>
+          <content src="Text/bidnici_022.xhtml#toc_marker-2-7-3"/>
+        </navPoint>
+        <navPoint id="navPoint-150" playOrder="150">
+          <navLabel>
+            <text>(4) Klášter z hlediska zásad</text>
+          </navLabel>
+          <content src="Text/bidnici_022.xhtml#toc_marker-2-7-4"/>
+        </navPoint>
+        <navPoint id="navPoint-151" playOrder="151">
+          <navLabel>
+            <text>(5) Modlitba</text>
+          </navLabel>
+          <content src="Text/bidnici_022.xhtml#toc_marker-2-7-5"/>
+        </navPoint>
+        <navPoint id="navPoint-152" playOrder="152">
+          <navLabel>
+            <text>(6) Absolutní hodnota modlitby</text>
+          </navLabel>
+          <content src="Text/bidnici_022.xhtml#toc_marker-2-7-6"/>
+        </navPoint>
+        <navPoint id="navPoint-153" playOrder="153">
+          <navLabel>
+            <text>(7) Buďme opatrní, chceme-li kárat</text>
+          </navLabel>
+          <content src="Text/bidnici_022.xhtml#toc_marker-2-7-7"/>
+        </navPoint>
+        <navPoint id="navPoint-154" playOrder="154">
+          <navLabel>
+            <text>(8) Víra, zákon</text>
+          </navLabel>
+          <content src="Text/bidnici_022.xhtml#toc_marker-2-7-8"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-155" playOrder="155">
+        <navLabel>
+          <text>KNIHA OSMÁ, Hřbitovy berou, co jim dáváme</text>
+        </navLabel>
+        <content src="Text/bidnici_023.xhtml#toc_marker-2-8"/>
+        <navPoint id="navPoint-156" playOrder="156">
+          <navLabel>
+            <text>(1) Jak je možno vniknout do kláštera</text>
+          </navLabel>
+          <content src="Text/bidnici_023.xhtml#toc_marker-2-8-1"/>
+        </navPoint>
+        <navPoint id="navPoint-157" playOrder="157">
+          <navLabel>
+            <text>(2) Fauchelevent se setkává s obtížemi</text>
+          </navLabel>
+          <content src="Text/bidnici_023.xhtml#toc_marker-2-8-2"/>
+        </navPoint>
+        <navPoint id="navPoint-158" playOrder="158">
+          <navLabel>
+            <text>(3) Matka Neposkvrněné početí</text>
+          </navLabel>
+          <content src="Text/bidnici_023.xhtml#toc_marker-2-8-3"/>
+        </navPoint>
+        <navPoint id="navPoint-159" playOrder="159">
+          <navLabel>
+            <text>(4) Vypadá to docela tak, jako by byl Jean Valjean četl Austina Castilleja</text>
+          </navLabel>
+          <content src="Text/bidnici_023.xhtml#toc_marker-2-8-4"/>
+        </navPoint>
+        <navPoint id="navPoint-160" playOrder="160">
+          <navLabel>
+            <text>(5) K nesmrtelnosti nestačí být opilý</text>
+          </navLabel>
+          <content src="Text/bidnici_023.xhtml#toc_marker-2-8-5"/>
+        </navPoint>
+        <navPoint id="navPoint-161" playOrder="161">
+          <navLabel>
+            <text>(6) Mezi čtyřmi prkny</text>
+          </navLabel>
+          <content src="Text/bidnici_023.xhtml#toc_marker-2-8-6"/>
+        </navPoint>
+        <navPoint id="navPoint-162" playOrder="162">
+          <navLabel>
+            <text>(7) Jak vzniklo rčení „vyzrát na někoho“</text>
+          </navLabel>
+          <content src="Text/bidnici_023.xhtml#toc_marker-2-8-7"/>
+        </navPoint>
+        <navPoint id="navPoint-163" playOrder="163">
+          <navLabel>
+            <text>(8) Zdařilý výslech</text>
+          </navLabel>
+          <content src="Text/bidnici_023.xhtml#toc_marker-2-8-8"/>
+        </navPoint>
+        <navPoint id="navPoint-164" playOrder="164">
+          <navLabel>
+            <text>(9) Život v ústraní</text>
+          </navLabel>
+          <content src="Text/bidnici_023.xhtml#toc_marker-2-8-9"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-165" playOrder="165">
+      <navLabel>
+        <text>DÍL TŘETÍ Marius</text>
+      </navLabel>
+      <content src="Text/bidnici_024.xhtml#toc_marker-3"/>
+      <navPoint id="navPoint-166" playOrder="166">
+        <navLabel>
+          <text>KNIHA PRVNÍ Paříž pod mikroskopem</text>
+        </navLabel>
+        <content src="Text/bidnici_025.xhtml#toc_marker-3-1"/>
+        <navPoint id="navPoint-167" playOrder="167">
+          <navLabel>
+            <text>(1) Parvulus</text>
+          </navLabel>
+          <content src="Text/bidnici_025.xhtml#toc_marker-3-1-1"/>
+        </navPoint>
+        <navPoint id="navPoint-168" playOrder="168">
+          <navLabel>
+            <text>(2) Některé zvláštní znaky</text>
+          </navLabel>
+          <content src="Text/bidnici_025.xhtml#toc_marker-3-1-2"/>
+        </navPoint>
+        <navPoint id="navPoint-169" playOrder="169">
+          <navLabel>
+            <text>(3) Je milý</text>
+          </navLabel>
+          <content src="Text/bidnici_025.xhtml#toc_marker-3-1-3"/>
+        </navPoint>
+        <navPoint id="navPoint-170" playOrder="170">
+          <navLabel>
+            <text>(4) Může být užitečný</text>
+          </navLabel>
+          <content src="Text/bidnici_025.xhtml#toc_marker-3-1-4"/>
+        </navPoint>
+        <navPoint id="navPoint-171" playOrder="171">
+          <navLabel>
+            <text>(5) Jeho hranice</text>
+          </navLabel>
+          <content src="Text/bidnici_025.xhtml#toc_marker-3-1-5"/>
+        </navPoint>
+        <navPoint id="navPoint-172" playOrder="172">
+          <navLabel>
+            <text>(6) Trochu historie</text>
+          </navLabel>
+          <content src="Text/bidnici_025.xhtml#toc_marker-3-1-6"/>
+        </navPoint>
+        <navPoint id="navPoint-173" playOrder="173">
+          <navLabel>
+            <text>(7) Gamén by mohl mít místo v kastovnictví Indie</text>
+          </navLabel>
+          <content src="Text/bidnici_025.xhtml#toc_marker-3-1-7"/>
+        </navPoint>
+        <navPoint id="navPoint-174" playOrder="174">
+          <navLabel>
+            <text>(8) Milé slovíčko o posledním králi</text>
+          </navLabel>
+          <content src="Text/bidnici_025.xhtml#toc_marker-3-1-8"/>
+        </navPoint>
+        <navPoint id="navPoint-175" playOrder="175">
+          <navLabel>
+            <text>(9) Starý duch Galie</text>
+          </navLabel>
+          <content src="Text/bidnici_025.xhtml#toc_marker-3-1-9"/>
+        </navPoint>
+        <navPoint id="navPoint-176" playOrder="176">
+          <navLabel>
+            <text>(10) Ecce Paříž, ecce homo</text>
+          </navLabel>
+          <content src="Text/bidnici_025.xhtml#toc_marker-3-1-10"/>
+        </navPoint>
+        <navPoint id="navPoint-177" playOrder="177">
+          <navLabel>
+            <text>(11) Posmívat se, panovat</text>
+          </navLabel>
+          <content src="Text/bidnici_025.xhtml#toc_marker-3-1-11"/>
+        </navPoint>
+        <navPoint id="navPoint-178" playOrder="178">
+          <navLabel>
+            <text>(12) Budoucnost je utajena v lidu</text>
+          </navLabel>
+          <content src="Text/bidnici_025.xhtml#toc_marker-3-1-12"/>
+        </navPoint>
+        <navPoint id="navPoint-179" playOrder="179">
+          <navLabel>
+            <text>(13) Malý Gavroche</text>
+          </navLabel>
+          <content src="Text/bidnici_025.xhtml#toc_marker-3-1-13"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-180" playOrder="180">
+        <navLabel>
+          <text>KNIHA DRUHÁ Velký měšťan</text>
+        </navLabel>
+        <content src="Text/bidnici_026.xhtml#toc_marker-3-2"/>
+        <navPoint id="navPoint-181" playOrder="181">
+          <navLabel>
+            <text>(1) Devadesát let a dvaatřicet zubů</text>
+          </navLabel>
+          <content src="Text/bidnici_026.xhtml#toc_marker-3-2-1"/>
+        </navPoint>
+        <navPoint id="navPoint-182" playOrder="182">
+          <navLabel>
+            <text>(2) Jaký pán, takový krám</text>
+          </navLabel>
+          <content src="Text/bidnici_026.xhtml#toc_marker-3-2-2"/>
+        </navPoint>
+        <navPoint id="navPoint-183" playOrder="183">
+          <navLabel>
+            <text>(3) Luc-Esprit</text>
+          </navLabel>
+          <content src="Text/bidnici_026.xhtml#toc_marker-3-2-3"/>
+        </navPoint>
+        <navPoint id="navPoint-184" playOrder="184">
+          <navLabel>
+            <text>(4) Stařec, který se chce dožít stovky</text>
+          </navLabel>
+          <content src="Text/bidnici_026.xhtml#toc_marker-3-2-4"/>
+        </navPoint>
+        <navPoint id="navPoint-185" playOrder="185">
+          <navLabel>
+            <text>(5) Bask a Nicoletta</text>
+          </navLabel>
+          <content src="Text/bidnici_026.xhtml#toc_marker-3-2-5"/>
+        </navPoint>
+        <navPoint id="navPoint-186" playOrder="186">
+          <navLabel>
+            <text>(6) Magnonová a její dvě děti</text>
+          </navLabel>
+          <content src="Text/bidnici_026.xhtml#toc_marker-3-2-6"/>
+        </navPoint>
+        <navPoint id="navPoint-187" playOrder="187">
+          <navLabel>
+            <text>(7) Pravidlo: Návštěvy přijímejme jen večer</text>
+          </navLabel>
+          <content src="Text/bidnici_026.xhtml#toc_marker-3-2-7"/>
+        </navPoint>
+        <navPoint id="navPoint-188" playOrder="188">
+          <navLabel>
+            <text>(8) Dva ještě netvoří dvojici</text>
+          </navLabel>
+          <content src="Text/bidnici_026.xhtml#toc_marker-3-2-8"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-189" playOrder="189">
+        <navLabel>
+          <text>KNIHA TŘETÍ Děd a vnuk</text>
+        </navLabel>
+        <content src="Text/bidnici_027.xhtml#toc_marker-3-3"/>
+        <navPoint id="navPoint-190" playOrder="190">
+          <navLabel>
+            <text>(1) Staromódní salón</text>
+          </navLabel>
+          <content src="Text/bidnici_027.xhtml#toc_marker-3-3-1"/>
+        </navPoint>
+        <navPoint id="navPoint-191" playOrder="191">
+          <navLabel>
+            <text>(2) Rudé strašidlo doby</text>
+          </navLabel>
+          <content src="Text/bidnici_027.xhtml#toc_marker-3-3-2"/>
+        </navPoint>
+        <navPoint id="navPoint-192" playOrder="192">
+          <navLabel>
+            <text>(3) Requiescant</text>
+          </navLabel>
+          <content src="Text/bidnici_027.xhtml#toc_marker-3-3-3"/>
+        </navPoint>
+        <navPoint id="navPoint-193" playOrder="193">
+          <navLabel>
+            <text>(4) Banditův konec</text>
+          </navLabel>
+          <content src="Text/bidnici_027.xhtml#toc_marker-3-3-4"/>
+        </navPoint>
+        <navPoint id="navPoint-194" playOrder="194">
+          <navLabel>
+            <text>(5) Jak je užitečné chodit na mši, aby se člověk stal revolucionářem</text>
+          </navLabel>
+          <content src="Text/bidnici_027.xhtml#toc_marker-3-3-5"/>
+        </navPoint>
+        <navPoint id="navPoint-195" playOrder="195">
+          <navLabel>
+            <text>(6) Co znamená setkání se zádušním starostou</text>
+          </navLabel>
+          <content src="Text/bidnici_027.xhtml#toc_marker-3-3-6"/>
+        </navPoint>
+        <navPoint id="navPoint-196" playOrder="196">
+          <navLabel>
+            <text>(7) Zástěrka</text>
+          </navLabel>
+          <content src="Text/bidnici_027.xhtml#toc_marker-3-3-7"/>
+        </navPoint>
+        <navPoint id="navPoint-197" playOrder="197">
+          <navLabel>
+            <text>(8) Mramor proti žule</text>
+          </navLabel>
+          <content src="Text/bidnici_027.xhtml#toc_marker-3-3-8"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-198" playOrder="198">
+        <navLabel>
+          <text>KNIHA ČTVRTÁ Přátelé abecedy</text>
+        </navLabel>
+        <content src="Text/bidnici_028.xhtml#toc_marker-3-4"/>
+        <navPoint id="navPoint-199" playOrder="199">
+          <navLabel>
+            <text>(1) Skupina, která se málem stala historickou</text>
+          </navLabel>
+          <content src="Text/bidnici_028.xhtml#toc_marker-3-4-1"/>
+        </navPoint>
+        <navPoint id="navPoint-200" playOrder="200">
+          <navLabel>
+            <text>(2) Bossuetova pohřební řeč nad hrobem Blondeauovým</text>
+          </navLabel>
+          <content src="Text/bidnici_028.xhtml#toc_marker-3-4-2"/>
+        </navPoint>
+        <navPoint id="navPoint-201" playOrder="201">
+          <navLabel>
+            <text>(3) Mariův úžas</text>
+          </navLabel>
+          <content src="Text/bidnici_028.xhtml#toc_marker-3-4-3"/>
+        </navPoint>
+        <navPoint id="navPoint-202" playOrder="202">
+          <navLabel>
+            <text>(4) Zadní místnost kavárny Musain</text>
+          </navLabel>
+          <content src="Text/bidnici_028.xhtml#toc_marker-3-4-4"/>
+        </navPoint>
+        <navPoint id="navPoint-203" playOrder="203">
+          <navLabel>
+            <text>(5) Rozšíření obzoru</text>
+          </navLabel>
+          <content src="Text/bidnici_028.xhtml#toc_marker-3-4-5"/>
+        </navPoint>
+        <navPoint id="navPoint-204" playOrder="204">
+          <navLabel>
+            <text>(6) „Res angusta“</text>
+          </navLabel>
+          <content src="Text/bidnici_028.xhtml#toc_marker-3-4-6"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-205" playOrder="205">
+        <navLabel>
+          <text>KNIHA PÁTÁ Výtečnost neštěstí</text>
+        </navLabel>
+        <content src="Text/bidnici_029.xhtml#toc_marker-3-5"/>
+        <navPoint id="navPoint-206" playOrder="206">
+          <navLabel>
+            <text>(1) Nuzný Marius</text>
+          </navLabel>
+          <content src="Text/bidnici_029.xhtml#toc_marker-3-5-1"/>
+        </navPoint>
+        <navPoint id="navPoint-207" playOrder="207">
+          <navLabel>
+            <text>(2) Chudý Marius</text>
+          </navLabel>
+          <content src="Text/bidnici_029.xhtml#toc_marker-3-5-2"/>
+        </navPoint>
+        <navPoint id="navPoint-208" playOrder="208">
+          <navLabel>
+            <text>(3) Dospělý Marius</text>
+          </navLabel>
+          <content src="Text/bidnici_029.xhtml#toc_marker-3-5-3"/>
+        </navPoint>
+        <navPoint id="navPoint-209" playOrder="209">
+          <navLabel>
+            <text>(4) Pan Mabeuf</text>
+          </navLabel>
+          <content src="Text/bidnici_029.xhtml#toc_marker-3-5-4"/>
+        </navPoint>
+        <navPoint id="navPoint-210" playOrder="210">
+          <navLabel>
+            <text>(5) Chudoba, dobrá sousedka bídy</text>
+          </navLabel>
+          <content src="Text/bidnici_029.xhtml#toc_marker-3-5-5"/>
+        </navPoint>
+        <navPoint id="navPoint-211" playOrder="211">
+          <navLabel>
+            <text>(6) Nástupce</text>
+          </navLabel>
+          <content src="Text/bidnici_029.xhtml#toc_marker-3-5-6"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-212" playOrder="212">
+        <navLabel>
+          <text>KNIHA ŠESTÁ Konjunkce dvou hvězd</text>
+        </navLabel>
+        <content src="Text/bidnici_030.xhtml#toc_marker-3-6"/>
+        <navPoint id="navPoint-213" playOrder="213">
+          <navLabel>
+            <text>(1) Přezdívka: způsob, jak se tvoří příjmení</text>
+          </navLabel>
+          <content src="Text/bidnici_030.xhtml#toc_marker-3-6-1"/>
+        </navPoint>
+        <navPoint id="navPoint-214" playOrder="214">
+          <navLabel>
+            <text>(2) „Lux facta est“</text>
+          </navLabel>
+          <content src="Text/bidnici_030.xhtml#toc_marker-3-6-2"/>
+        </navPoint>
+        <navPoint id="navPoint-215" playOrder="215">
+          <navLabel>
+            <text>(3) Účinek jara</text>
+          </navLabel>
+          <content src="Text/bidnici_030.xhtml#toc_marker-3-6-3"/>
+        </navPoint>
+        <navPoint id="navPoint-216" playOrder="216">
+          <navLabel>
+            <text>(4) Začátek těžké nemoci</text>
+          </navLabel>
+          <content src="Text/bidnici_030.xhtml#toc_marker-3-6-4"/>
+        </navPoint>
+        <navPoint id="navPoint-217" playOrder="217">
+          <navLabel>
+            <text>(5) Na matku Bručavou dopadají hromové rány</text>
+          </navLabel>
+          <content src="Text/bidnici_030.xhtml#toc_marker-3-6-5"/>
+        </navPoint>
+        <navPoint id="navPoint-218" playOrder="218">
+          <navLabel>
+            <text>(6) V zajetí</text>
+          </navLabel>
+          <content src="Text/bidnici_030.xhtml#toc_marker-3-6-6"/>
+        </navPoint>
+        <navPoint id="navPoint-219" playOrder="219">
+          <navLabel>
+            <text>(7) Domněnky o písmenu U</text>
+          </navLabel>
+          <content src="Text/bidnici_030.xhtml#toc_marker-3-6-7"/>
+        </navPoint>
+        <navPoint id="navPoint-220" playOrder="220">
+          <navLabel>
+            <text>(8) Také invalidi mohou být šťastni</text>
+          </navLabel>
+          <content src="Text/bidnici_030.xhtml#toc_marker-3-6-8"/>
+        </navPoint>
+        <navPoint id="navPoint-221" playOrder="221">
+          <navLabel>
+            <text>(9) Zatmění</text>
+          </navLabel>
+          <content src="Text/bidnici_030.xhtml#toc_marker-3-6-9"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
