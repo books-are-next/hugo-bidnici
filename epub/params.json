@@ -1,1 +1,740 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
+      "title": "Bídníci I",
+      "identifier": "urn:uuid:939e570b-6c4c-4969-b9ba-b6c3405375f1",
+      "author": "Victor Hugo",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2019-07-31T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP-uroven1-cast \nMLP-uroven2-kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis MLP-uroven3-nadpis-II ",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\n",
+      "brAfter": "",
+      "blockquote": "MLP-dopis-bez1radku--I",
+      "figure": "MLP-obrazky MLP-obrazky--12-12 ",
+      "em": "MLP-dopis-bez1radku--I\nMLP-text--I\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-dopis--I \nMLP-text-doprava--I MLP-text--I---12-0 MLP-titulka-prekladatel MLP-dopis-podpis--I ",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "bidnici_001.md",
+            "xhtml": "bidnici_001.xhtml",
+            "id": 0,
+            "role": "cover",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bidnici_002.md",
+            "xhtml": "bidnici_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bidnici_003.md",
+            "xhtml": "bidnici_003.xhtml",
+            "id": 2,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bidnici_004.md",
+            "xhtml": "bidnici_004.xhtml",
+            "id": 3,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bidnici_005.md",
+            "xhtml": "bidnici_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Citát"
+          },
+          {
+            "filename": "bidnici_006.md",
+            "xhtml": "bidnici_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bidnici_007.md",
+            "xhtml": "bidnici_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KNIHA PRVNÍ Člověk spravedlivý"
+          },
+          {
+            "filename": "bidnici_008.md",
+            "xhtml": "bidnici_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KNIHA DRUHÁ Pád"
+          },
+          {
+            "filename": "bidnici_009.md",
+            "xhtml": "bidnici_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KNIHA TŘETÍ Rok 1817"
+          },
+          {
+            "filename": "bidnici_010.md",
+            "xhtml": "bidnici_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KNIHA ČTVRTÁ Na důvěru se často doplácí"
+          },
+          {
+            "filename": "bidnici_011.md",
+            "xhtml": "bidnici_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KNIHA PÁTÁ Na šikmé ploše"
+          },
+          {
+            "filename": "bidnici_012.md",
+            "xhtml": "bidnici_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KNIHA ŠESTÁ Javert"
+          },
+          {
+            "filename": "bidnici_013.md",
+            "xhtml": "bidnici_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KNIHA SEDMÁ Champmathieuův případ"
+          },
+          {
+            "filename": "bidnici_014.md",
+            "xhtml": "bidnici_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KNIHA OSMÁNásledek"
+          },
+          {
+            "filename": "bidnici_015.md",
+            "xhtml": "bidnici_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bidnici_016.md",
+            "xhtml": "bidnici_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KNIHA PRVNÍ Waterloo"
+          },
+          {
+            "filename": "bidnici_017.md",
+            "xhtml": "bidnici_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KNIHA DRUHÁ Loď Orion"
+          },
+          {
+            "filename": "bidnici_018.md",
+            "xhtml": "bidnici_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KNIHA TŘETÍ Vyplnění slibu daného mrtvé"
+          },
+          {
+            "filename": "bidnici_019.md",
+            "xhtml": "bidnici_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KNIHA ČTVRTÁ Gorbeauův barák"
+          },
+          {
+            "filename": "bidnici_020.md",
+            "xhtml": "bidnici_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KNIHA PÁTÁ Tichá štvanice"
+          },
+          {
+            "filename": "bidnici_021.md",
+            "xhtml": "bidnici_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KNIHA ŠESTÁ Klášter Petit-Picpus"
+          },
+          {
+            "filename": "bidnici_022.md",
+            "xhtml": "bidnici_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KNIHA SEDMÁ Vsuvka"
+          },
+          {
+            "filename": "bidnici_023.md",
+            "xhtml": "bidnici_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KNIHA OSMÁ, Hřbitovy berou, co jim dáváme"
+          },
+          {
+            "filename": "bidnici_024.md",
+            "xhtml": "bidnici_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bidnici_025.md",
+            "xhtml": "bidnici_025.xhtml",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KNIHA PRVNÍ Paříž pod mikroskopem"
+          },
+          {
+            "filename": "bidnici_026.md",
+            "xhtml": "bidnici_026.xhtml",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KNIHA DRUHÁ Velký měšťan"
+          },
+          {
+            "filename": "bidnici_027.md",
+            "xhtml": "bidnici_027.xhtml",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KNIHA TŘETÍ Děd a vnuk"
+          },
+          {
+            "filename": "bidnici_028.md",
+            "xhtml": "bidnici_028.xhtml",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KNIHA ČTVRTÁ Přátelé abecedy"
+          },
+          {
+            "filename": "bidnici_029.md",
+            "xhtml": "bidnici_029.xhtml",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KNIHA PÁTÁ Výtečnost neštěstí"
+          },
+          {
+            "filename": "bidnici_030.md",
+            "xhtml": "bidnici_030.xhtml",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KNIHA ŠESTÁ Konjunkce dvou hvězd"
+          },
+          {
+            "filename": "bidnici_031.md",
+            "xhtml": "bidnici_031.xhtml",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Bídníci I",
+      "identifier": "urn:uuid:939e570b-6c4c-4969-b9ba-b6c3405375f1",
+      "author": "Victor Hugo",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2019-07-31T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bidnici_001.md",
+        "xhtml": "bidnici_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bidnici_002.md",
+        "xhtml": "bidnici_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bidnici_003.md",
+        "xhtml": "bidnici_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bidnici_004.md",
+        "xhtml": "bidnici_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bidnici_005.md",
+        "xhtml": "bidnici_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bidnici_006.md",
+        "xhtml": "bidnici_006.xhtml"
+      },
+      {
+        "titleSuggest": "KNIHA PRVNÍ Člověk spravedlivý",
+        "subtitleSuggest": "",
+        "filename": "bidnici_007.md",
+        "xhtml": "bidnici_007.xhtml"
+      },
+      {
+        "titleSuggest": "KNIHA DRUHÁ Pád",
+        "subtitleSuggest": "",
+        "filename": "bidnici_008.md",
+        "xhtml": "bidnici_008.xhtml"
+      },
+      {
+        "titleSuggest": "KNIHA TŘETÍ Rok 1817",
+        "subtitleSuggest": "",
+        "filename": "bidnici_009.md",
+        "xhtml": "bidnici_009.xhtml"
+      },
+      {
+        "titleSuggest": "KNIHA ČTVRTÁ Na důvěru se často doplácí",
+        "subtitleSuggest": "",
+        "filename": "bidnici_010.md",
+        "xhtml": "bidnici_010.xhtml"
+      },
+      {
+        "titleSuggest": "KNIHA PÁTÁ Na šikmé ploše",
+        "subtitleSuggest": "",
+        "filename": "bidnici_011.md",
+        "xhtml": "bidnici_011.xhtml"
+      },
+      {
+        "titleSuggest": "KNIHA ŠESTÁ Javert",
+        "subtitleSuggest": "",
+        "filename": "bidnici_012.md",
+        "xhtml": "bidnici_012.xhtml"
+      },
+      {
+        "titleSuggest": "KNIHA SEDMÁ Champmathieuův případ",
+        "subtitleSuggest": "",
+        "filename": "bidnici_013.md",
+        "xhtml": "bidnici_013.xhtml"
+      },
+      {
+        "titleSuggest": "KNIHA OSMÁNásledek",
+        "subtitleSuggest": "",
+        "filename": "bidnici_014.md",
+        "xhtml": "bidnici_014.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bidnici_015.md",
+        "xhtml": "bidnici_015.xhtml"
+      },
+      {
+        "titleSuggest": "KNIHA PRVNÍ Waterloo",
+        "subtitleSuggest": "",
+        "filename": "bidnici_016.md",
+        "xhtml": "bidnici_016.xhtml"
+      },
+      {
+        "titleSuggest": "KNIHA DRUHÁ Loď Orion",
+        "subtitleSuggest": "",
+        "filename": "bidnici_017.md",
+        "xhtml": "bidnici_017.xhtml"
+      },
+      {
+        "titleSuggest": "KNIHA TŘETÍ Vyplnění slibu daného mrtvé",
+        "subtitleSuggest": "",
+        "filename": "bidnici_018.md",
+        "xhtml": "bidnici_018.xhtml"
+      },
+      {
+        "titleSuggest": "KNIHA ČTVRTÁ Gorbeauův barák",
+        "subtitleSuggest": "",
+        "filename": "bidnici_019.md",
+        "xhtml": "bidnici_019.xhtml"
+      },
+      {
+        "titleSuggest": "KNIHA PÁTÁ Tichá štvanice",
+        "subtitleSuggest": "",
+        "filename": "bidnici_020.md",
+        "xhtml": "bidnici_020.xhtml"
+      },
+      {
+        "titleSuggest": "KNIHA ŠESTÁ Klášter Petit-Picpus",
+        "subtitleSuggest": "",
+        "filename": "bidnici_021.md",
+        "xhtml": "bidnici_021.xhtml"
+      },
+      {
+        "titleSuggest": "KNIHA SEDMÁ Vsuvka",
+        "subtitleSuggest": "",
+        "filename": "bidnici_022.md",
+        "xhtml": "bidnici_022.xhtml"
+      },
+      {
+        "titleSuggest": "KNIHA OSMÁ, Hřbitovy berou, co jim dáváme",
+        "subtitleSuggest": "",
+        "filename": "bidnici_023.md",
+        "xhtml": "bidnici_023.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bidnici_024.md",
+        "xhtml": "bidnici_024.xhtml"
+      },
+      {
+        "titleSuggest": "KNIHA PRVNÍ Paříž pod mikroskopem",
+        "subtitleSuggest": "",
+        "filename": "bidnici_025.md",
+        "xhtml": "bidnici_025.xhtml"
+      },
+      {
+        "titleSuggest": "KNIHA DRUHÁ Velký měšťan",
+        "subtitleSuggest": "",
+        "filename": "bidnici_026.md",
+        "xhtml": "bidnici_026.xhtml"
+      },
+      {
+        "titleSuggest": "KNIHA TŘETÍ Děd a vnuk",
+        "subtitleSuggest": "",
+        "filename": "bidnici_027.md",
+        "xhtml": "bidnici_027.xhtml"
+      },
+      {
+        "titleSuggest": "KNIHA ČTVRTÁ Přátelé abecedy",
+        "subtitleSuggest": "",
+        "filename": "bidnici_028.md",
+        "xhtml": "bidnici_028.xhtml"
+      },
+      {
+        "titleSuggest": "KNIHA PÁTÁ Výtečnost neštěstí",
+        "subtitleSuggest": "",
+        "filename": "bidnici_029.md",
+        "xhtml": "bidnici_029.xhtml"
+      },
+      {
+        "titleSuggest": "KNIHA ŠESTÁ Konjunkce dvou hvězd",
+        "subtitleSuggest": "",
+        "filename": "bidnici_030.md",
+        "xhtml": "bidnici_030.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bidnici_031.md",
+        "xhtml": "bidnici_031.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/bidnici_idstyles.css"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image001_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image002_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/obalka_bidnici_i_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/obr_01_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+      }
+    ],
+    "classes": [
+      "Bez-odstavcov-ho-stylu",
+      "Bez-stylu-tabulky",
+      "Hyperlink",
+      "MLP-TEXT-OBSAH",
+      "MLP-citacni-str-rozdeleni",
+      "MLP-dopis--I",
+      "MLP-dopis-bez1radku--I",
+      "MLP-dopis-podpis",
+      "MLP-dopis-podpis--I",
+      "MLP-licence-hypertext",
+      "MLP-licence-obrazek",
+      "MLP-licence-paragraf",
+      "MLP-licence-text",
+      "MLP-obrazky",
+      "MLP-obrazky--12-12",
+      "MLP-pozn-pod-carou",
+      "MLP-text",
+      "MLP-text--0-12",
+      "MLP-text--12-0",
+      "MLP-text--12-12",
+      "MLP-text--I",
+      "MLP-text--I---12-0",
+      "MLP-text-bez1radku",
+      "MLP-text-bez1radku--0-12",
+      "MLP-text-bez1radku--12-0",
+      "MLP-text-doprava--I",
+      "MLP-text-uprostred",
+      "MLP-tiraz-autor-a-nazev",
+      "MLP-titulka-autor",
+      "MLP-titulka-nazev",
+      "MLP-titulka-prekladatel",
+      "MLP-uroven1-cast",
+      "MLP-uroven2-kapitola",
+      "MLP-uroven3-nadpis",
+      "MLP-uroven3-nadpis-II",
+      "MLP-verse--12-12",
+      "MLP-verse--I---0-12",
+      "MLP-verse--I---12-12",
+      "MLP-znak-kurziva-11b",
+      "MLP-znak-kurziva-9b",
+      "Normal",
+      "cell-style-override-1",
+      "char-style-override-1",
+      "char-style-override-2",
+      "char-style-override-3",
+      "char-style-override-4",
+      "char-style-override-5",
+      "char-style-override-6",
+      "char-style-override-7",
+      "char-style-override-8",
+      "footnote",
+      "footnote-anchor",
+      "footnote-link",
+      "footnotes",
+      "frame-1",
+      "frame-2",
+      "frame-3",
+      "frame-4",
+      "para-style-override-1",
+      "para-style-override-10",
+      "para-style-override-2",
+      "para-style-override-3",
+      "para-style-override-5",
+      "para-style-override-6",
+      "para-style-override-7",
+      "para-style-override-8",
+      "para-style-override-9",
+      "table-style-override-1",
+      "x--dn-"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "hugo-bidnici"
+    },
+    "generatedAt": 1648211161462
+  }
+}
