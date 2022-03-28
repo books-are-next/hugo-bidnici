@@ -1,15 +1,17 @@
 {
   "author": "Victor Hugo",
   "contenttype": "prose",
-  "identifier": "hugo-bidnici-i-73f749a",
+  "edition": "beletrie",
+  "identifier": "hugo-bidnici-i-68bf238",
   "languagecode": "cs",
   "modified": "2019-07-31T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
   "title": "Bídníci I",
-  "revision": "73f749a",
+  "revision": "68bf238",
   "generatedAt": {
-    "date": "Mon Mar 28 2022 08:30:21 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648456221546
+    "date": "Mon Mar 28 2022 08:39:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648456791569
   },
   "documents": [
     {
@@ -1871,7 +1873,7 @@
       "role": "chapter",
       "order": 26,
       "prev": "bidnici_029.html",
-      "next": "bidnici_031.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -1947,34 +1949,14 @@
       ]
     },
     {
-      "title": "Bídníci I",
-      "file": "bidnici_031.html",
-      "words": 49,
-      "chars": 314,
-      "ideas": 12,
-      "role": "chapter",
-      "order": 27,
-      "prev": "bidnici_030.html",
-      "next": "colophon.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "Tiráž • Bídníci I",
       "file": "colophon.html",
-      "words": 98,
-      "chars": 633,
-      "ideas": 11,
+      "words": 147,
+      "chars": 947,
+      "ideas": 23,
       "role": "colophon",
       "order": null,
-      "prev": "bidnici_031.html",
+      "prev": "bidnici_030.html",
       "next": null,
       "toc": [
         {
@@ -1989,14 +1971,14 @@
   ],
   "totals": {
     "all": {
-      "words": 206636,
-      "chars": 1288287,
-      "ideas": 6846
+      "words": 206638,
+      "chars": 1288298,
+      "ideas": 6848
     },
     "chapters": {
-      "words": 206534,
-      "chars": 1287634,
-      "ideas": 6833
+      "words": 206485,
+      "chars": 1287320,
+      "ideas": 6821
     }
   }
 }

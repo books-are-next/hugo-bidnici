@@ -2,7 +2,7 @@
 
 /* global self, caches, fetch */
 
-const CACHE = 'cache-73f749a';
+const CACHE = 'cache-68bf238';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -40,7 +40,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./bidnici_002.html","./bidnici_005.html","./bidnici_006.html","./bidnici_007.html","./bidnici_008.html","./bidnici_009.html","./bidnici_010.html","./bidnici_011.html","./bidnici_012.html","./bidnici_013.html","./bidnici_014.html","./bidnici_015.html","./bidnici_016.html","./bidnici_017.html","./bidnici_018.html","./bidnici_019.html","./bidnici_020.html","./bidnici_021.html","./bidnici_022.html","./bidnici_023.html","./bidnici_024.html","./bidnici_025.html","./bidnici_026.html","./bidnici_027.html","./bidnici_028.html","./bidnici_029.html","./bidnici_030.html","./bidnici_031.html","./colophon.html","./favicon.png","./index.html","./manifest.json","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/obalka_bidnici_i_fmt.png","./resources/obr_01_fmt.png","./resources/upoutavka_eknihy_fmt.png","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./bidnici_002.html","./bidnici_005.html","./bidnici_006.html","./bidnici_007.html","./bidnici_008.html","./bidnici_009.html","./bidnici_010.html","./bidnici_011.html","./bidnici_012.html","./bidnici_013.html","./bidnici_014.html","./bidnici_015.html","./bidnici_016.html","./bidnici_017.html","./bidnici_018.html","./bidnici_019.html","./bidnici_020.html","./bidnici_021.html","./bidnici_022.html","./bidnici_023.html","./bidnici_024.html","./bidnici_025.html","./bidnici_026.html","./bidnici_027.html","./bidnici_028.html","./bidnici_029.html","./bidnici_030.html","./colophon.html","./favicon.png","./index.html","./manifest.json","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/obalka_bidnici_i_fmt.png","./resources/obr_01_fmt.png","./resources/upoutavka_eknihy_fmt.png"]));
 }
 
 self.addEventListener('fetch', e => {
