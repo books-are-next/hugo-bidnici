@@ -3,7 +3,7 @@ title: KNIHA OSMÁ, Hřbitovy berou, co jim dáváme
 contentType: prose
 ---
 
-(1)  
+## (1)  
 Jak je možno vniknout do kláštera
 
   

@@ -3,7 +3,7 @@ title: KNIHA SEDMÁ Vsuvka
 contentType: prose
 ---
 
-(1)  
+## (1)  
 Klášter jako abstraktní pojem
 
   

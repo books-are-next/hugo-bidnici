@@ -3,7 +3,7 @@ title: KNIHA DRUHÁ Loď Orion
 contentType: prose
 ---
 
-(1)  
+## (1)  
 Číslo 24 601 se stává číslem 9430
 
   
@@ -26,7 +26,7 @@ _… až ze Savojska rok co rok
 si přivydělat přichází  
 a komíny nám čistí od sazí._
 
-Lupič se odmítl hájit. Obratný a výmluvný člen státního návladnictví však dokázal, že darebák měl pomocníky a byl členem zlodějské tlupy z jihu. Porota uznala, že Jean Valjean je vinen, a odsoudila ho k trestu smrti. Zločinec odmítl podat odvolání. Král ve své nevyčerpatelné blahovůli ráčil zmírnit trest smrti v doživotní nucené práce. Jean Valjean byl ihned odeslán na galeje v Toulonu.
+_Lupič se odmítl hájit. Obratný a výmluvný člen státního návladnictví však dokázal, že darebák měl pomocníky a byl členem zlodějské tlupy z jihu. Porota uznala, že Jean Valjean je vinen, a odsoudila ho k trestu smrti. Zločinec odmítl podat odvolání. Král ve své nevyčerpatelné blahovůli ráčil zmírnit trest smrti v doživotní nucené práce. Jean Valjean byl ihned odeslán na galeje v Toulonu._
 
 Nezapomněli jsme, že Jean Valjean žil v Montreuilsur-Mer velmi zbožně. Některé noviny, mezi nimi i _Constitutionnel_, vykládaly změnu trestu jakožto vítězství kněžské strany.
 

@@ -1,7 +1,6 @@
 ---
-title: ''
+title: DÍL DRUHÝ Cosetta
 contentType: prose
 ---
 
-DÍL DRUHÝ  
-Cosetta
+

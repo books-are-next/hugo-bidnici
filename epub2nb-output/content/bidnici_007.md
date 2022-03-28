@@ -3,7 +3,7 @@ title: KNIHA PRVNÍ Člověk spravedlivý
 contentType: prose
 ---
 
-(1)  
+## (1)  
 Myriel
 
   
@@ -95,7 +95,7 @@ Nazítří usadili šestadvacet ubožáků v biskupově paláci a biskup se na
 
 Myriel byl chudý, protože jeho rodina byla ožebračena revolucí. Jeho sestra dostávala pět set franků doživotní renty, které na faře stačily taktak na její osobní vydání. Jako biskup pobíral Myriel od státu patnáct tisíc franků. Právě v den, kdy se ubytoval v budově nemocnice, určil jednou provždy, jak léto částky užít. Přepisujeme zde rozpočet psaný jeho vlastní rukou:
 
-Vydání na domácnost
+_Vydání na domácnost_
 
  
 
@@ -259,7 +259,7 @@ O něco později uvážila nejvyšší rada jeho žádost a odhlasovala mu tř
 
 Tento příspěvek značně popudil místní šosáky a jistý císařský senátor, bývalý člen rady pěti set, stoupenec osmnáctého brumairu, zaopatřený skvělou dotací blízko města Digne, napsal tehdy ministrovi kultu, panu Bigotovi de Préameneu, podrážděný a důvěrný lístek, z něhož vyjímáme tyto prokázané řádky:
 
-„– Vydání na kočár? Na co, v městě s méně než čtyřmi tisíci obyvateli? Vydání za úřední cesty? Nejprve – k čemu cesty a konečně – jak bude jezdit v naší hornaté krajině? Silnice tu nejsou. Jezdíme jen koňmo. Most přes Durance v Château-Arnoux sotva unese káru s voly. Ti kněží jsou všichni stejní, nenasytní a lakomí. Když přišel, hrál si na apoštola. Teď to dělá jako ostatní. Zachtělo se mu kočáru a poštovního vozu. Potřebuje přepych jako dřívější biskupové. Ach! Čert vem všechny ty kněžoury! Věci se nezlepší, pane hrabě, dokud nás císař těch jezovitů nezbaví. Pryč s papežem! (Poměr s Římem byl zkalen.) Co se mne týče, jsem jen pro Caesara a pro nikoho jiného. Atd. atd.“
+_„– Vydání na kočár? Na co, v městě s méně než čtyřmi tisíci obyvateli? Vydání za úřední cesty? Nejprve – k čemu cesty a konečně – jak bude jezdit v naší hornaté krajině? Silnice tu nejsou. Jezdíme jen koňmo. Most přes Durance v Château-Arnoux sotva unese káru s voly. Ti kněží jsou všichni stejní, nenasytní a lakomí. Když přišel, hrál si na apoštola. Teď to dělá jako ostatní. Zachtělo se mu kočáru a poštovního vozu. Potřebuje přepych jako dřívější biskupové. Ach! Čert vem všechny ty kněžoury! Věci se nezlepší, pane hrabě, dokud nás císař těch jezovitů nezbaví. Pryč s papežem! (Poměr s Římem byl zkalen.) Co se mne týče, jsem jen pro Caesara a pro nikoho jiného. Atd. atd.“_
 
 Paní Magloirová měla naopak velkou radost.
 
@@ -267,7 +267,7 @@ Paní Magloirová měla naopak velkou radost.
 
 Týž večer biskup napsal a předložil své sestře tento rozpočet:
 
-Příplatek na kočár a úřední cesty:
+_Příplatek na kočár a úřední cesty:_
 
  
 
@@ -708,39 +708,39 @@ Sestra vypravuje o bratrovi
 
 Abychom vám dali nahlédnout do domácnosti dignského biskupa a pověděli, jak obě zbožné ženy podřizovaly své jednání, své myšlenky a dokonce i své plaché ženské instinkty biskupovým zvykům a záměrům, aniž musil promluvit a dát je najevo, nemůžeme učinit nic lepšího, než opsat dopis slečny Jany přítelkyni z mladých let, paní vikomtese Boischevronové.
 
-V Digne, 16. prosince 18..
+_V Digne, 16. prosince 18.._
 
-Milá paní!
+_Milá paní!_
 
-Není dne, abychom o Vás nemluvili. Je to už skoro zvyk, ale máme i nový důvod. Představte si, že paní Magloirová, když myla a oprašovala stropy a zdi, učinila objev; teď by se za naše dva pokojíčky, vytapetované starým, vápnem bíleným papírem, nemusil stydět ani takový zámek, jako je Váš. Paní Magloirová všechen ten papír strhala. Pod ním byly věci! Můj salón, kde není nábytek a kde věšíme prádlo, je patnáct stop vysoký, osmnáct široký, strop je po starodávnu vymalovaný a zlacený, s trámy jako u Vás. Tapety pocházely z dob, kdy zde byla nemocnice. Jsou zde i pěkně řezaná dřevěná obložení z časů našich babiček. Ale hlavně musíte vidět můj pokoj. Pod vrstvou nejméně deseti papírů objevila paní Magloirová napohled pěkné, třeba ne nejlepší malby. Znázorňují Telemacha, jak ho Minerva pasuje na rytíře, v jiném výjevu je ještě jednou v nějaké zahradě. Její jméno jsem pustila z hlavy. Však Vy víte, kam se římské paní odebíraly na jednu jedinou noc. Jak bych Vám to řekla, zkrátka tam mám Římany, Římanky (zde je nečitelné slovo) a celou družinu. Paní Magloirová to všechno vyčistila. Letos v létě opraví některá poškozená místa, natře všechno fermeží a můj pokoj bude jako muzeum. Na půdě našla dva dřevěné přístěnné stolky ve starém slohu. Pozlacení by stálo dva šestilibrové dukáty, ale bude líp, dám-li je chudým; ostatně jsou ošklivé a měla bych raději kulatý stolek z mahagonu.
+_Není dne, abychom o Vás nemluvili. Je to už skoro zvyk, ale máme i nový důvod. Představte si, že paní Magloirová, když myla a oprašovala stropy a zdi, učinila objev; teď by se za naše dva pokojíčky, vytapetované starým, vápnem bíleným papírem, nemusil stydět ani takový zámek, jako je Váš. Paní Magloirová všechen ten papír strhala. Pod ním byly věci! Můj salón, kde není nábytek a kde věšíme prádlo, je patnáct stop vysoký, osmnáct široký, strop je po starodávnu vymalovaný a zlacený, s trámy jako u Vás. Tapety pocházely z dob, kdy zde byla nemocnice. Jsou zde i pěkně řezaná dřevěná obložení z časů našich babiček. Ale hlavně musíte vidět můj pokoj. Pod vrstvou nejméně deseti papírů objevila paní Magloirová napohled pěkné, třeba ne nejlepší malby. Znázorňují Telemacha, jak ho Minerva pasuje na rytíře, v jiném výjevu je ještě jednou v nějaké zahradě. Její jméno jsem pustila z hlavy. Však Vy víte, kam se římské paní odebíraly na jednu jedinou noc. Jak bych Vám to řekla, zkrátka tam mám Římany, Římanky (zde je nečitelné slovo) a celou družinu. Paní Magloirová to všechno vyčistila. Letos v létě opraví některá poškozená místa, natře všechno fermeží a můj pokoj bude jako muzeum. Na půdě našla dva dřevěné přístěnné stolky ve starém slohu. Pozlacení by stálo dva šestilibrové dukáty, ale bude líp, dám-li je chudým; ostatně jsou ošklivé a měla bych raději kulatý stolek z mahagonu._
 
-Jsem stále šťastná. Můj bratr je tak hodný. Všechno, co má, rozdá chudým a nemocným. Často jsme v tísni. V našem kraji bývá krutá zima, a musíme se proto trochu starat o ty, kdo mají nouzi. My teplo a světlo jakžtakž máme. To obojí nám velice zpříjemňuje život.
+_Jsem stále šťastná. Můj bratr je tak hodný. Všechno, co má, rozdá chudým a nemocným. Často jsme v tísni. V našem kraji bývá krutá zima, a musíme se proto trochu starat o ty, kdo mají nouzi. My teplo a světlo jakžtakž máme. To obojí nám velice zpříjemňuje život._
 
-Bratr má naprosto osobité zvyky. Říkává, že biskup musí takový být. Představte si, že dveře našeho domu nejsou nikdy zamčeny na klíč. Kdokoliv chce, může k mému bratrovi kdykoli vstoupit. Nic se nebojí, ani v noci. Říká, že je to jeho statečnost.
+_Bratr má naprosto osobité zvyky. Říkává, že biskup musí takový být. Představte si, že dveře našeho domu nejsou nikdy zamčeny na klíč. Kdokoliv chce, může k mému bratrovi kdykoli vstoupit. Nic se nebojí, ani v noci. Říká, že je to jeho statečnost._
 
-Nechce, abychom já nebo paní Magloirová měly o něho strach. Vystavuje se jakémukoli nebezpečí a přeje si, abychom se tvářily, že to ani nepozorujeme.
+_Nechce, abychom já nebo paní Magloirová měly o něho strach. Vystavuje se jakémukoli nebezpečí a přeje si, abychom se tvářily, že to ani nepozorujeme._
 
-Člověk si musí na něho zvyknout, aby mu rozuměl.
+_Člověk si musí na něho zvyknout, aby mu rozuměl._
 
-Vychází v dešti, brouzdá se ve vodě, cestuje v zimě. Nebojí se tmy ani podezřelých cest, ani setkání s podezřelými lidmi.
+_Vychází v dešti, brouzdá se ve vodě, cestuje v zimě. Nebojí se tmy ani podezřelých cest, ani setkání s podezřelými lidmi._
 
-Loni se vydal úplně sám do kraje zlodějů. Nechtěl nás vzít s sebou. Čtrnáct dní byl pryč a považovali ho už za mrtvého. On se zatím vrátil zdráv a řekl: Podívejte se, jak mě okradli! A otevřel bednu plnou pokladů z chrámové klenotnice v Embrunu; zloději mu ji darovali.
+_Loni se vydal úplně sám do kraje zlodějů. Nechtěl nás vzít s sebou. Čtrnáct dní byl pryč a považovali ho už za mrtvého. On se zatím vrátil zdráv a řekl: Podívejte se, jak mě okradli! A otevřel bednu plnou pokladů z chrámové klenotnice v Embrunu; zloději mu ji darovali._
 
-Když se vracel, nedalo mi to a trochu jsem mu vyčinila; dávala jsem ovšem pozor, abych mluvila, jen když kola kočáru hrčela, tak to aspoň nikdo neslyšel.
+_Když se vracel, nedalo mi to a trochu jsem mu vyčinila; dávala jsem ovšem pozor, abych mluvila, jen když kola kočáru hrčela, tak to aspoň nikdo neslyšel._
 
-V prvních dobách jsem si říkávala: není nebezpečí, aby ho odradilo, je strašný. Teď jsem si už na to konečně zvykla. Dávám paní Magloirové znamení, aby mu neodmlouvala. Pouští se do všeho, čeho se mu zachce. Pokud jde o mne, beru paní Magloirovou s sebou, vracím se do svého pokojíčku, modlím se za něho a usínám. Jsem klidná, neboť vím, že kdyby se jemu přihodilo něco zlého, byl by to i můj konec. Odešla bych k Pánu Bohu se svým bratrem a biskupem. Paní Magloirová si na ty jeho, jak říkala, nerozumnosti, zvykala s větším sebezapřením. Ale už se přizpůsobila. Modlíme se obě, společně se bojíme a usínáme. Kdyby k nám vlezl čert, měl by volnou ruku. Konečně, čeho se bát v tomto domě? Je při nás stále ten, kdo je mnohem silnější. Ďábel tudy může projít, ale Bůh zde s námi přebývá.
+_V prvních dobách jsem si říkávala: není nebezpečí, aby ho odradilo, je strašný. Teď jsem si už na to konečně zvykla. Dávám paní Magloirové znamení, aby mu neodmlouvala. Pouští se do všeho, čeho se mu zachce. Pokud jde o mne, beru paní Magloirovou s sebou, vracím se do svého pokojíčku, modlím se za něho a usínám. Jsem klidná, neboť vím, že kdyby se jemu přihodilo něco zlého, byl by to i můj konec. Odešla bych k Pánu Bohu se svým bratrem a biskupem. Paní Magloirová si na ty jeho, jak říkala, nerozumnosti, zvykala s větším sebezapřením. Ale už se přizpůsobila. Modlíme se obě, společně se bojíme a usínáme. Kdyby k nám vlezl čert, měl by volnou ruku. Konečně, čeho se bát v tomto domě? Je při nás stále ten, kdo je mnohem silnější. Ďábel tudy může projít, ale Bůh zde s námi přebývá._
 
-To mi stačí. Můj bratr mi nepotřebuje říkat ani slůvko. Rozumím mu bez mluvení a spolu se odevzdáváme do vůle Prozřetelnosti.
+_To mi stačí. Můj bratr mi nepotřebuje říkat ani slůvko. Rozumím mu bez mluvení a spolu se odevzdáváme do vůle Prozřetelnosti._
 
-Tak musíme jednat s člověkem velikého ducha.
+_Tak musíme jednat s člověkem velikého ducha._
 
-Ptala jsem se bratra na rodinu Fauxových, jak jste si přála. Však dobře víte, jak všechno zná a dohře si pamatuje; je stále věrný roajalista. Po pravdě řečeno, je to velmi stará normanská rodina z okolí Caen. Již před pěti sty léty žil šlechtic Raoul de Faux, Jan de Faux a Tomáš de Faux, a jeden z nich byl pán z Rochefortu. Poslední byl Vít Štěpán Alexandr, kapitán a něco jako důstojník bretaňské lehké jízdy. Jeho dcera Marie Louisa se provdala za Adriena Karla de Gramont, syna vévody Ludvíka de Gramont. paira Francie, plukovníka francouzských gard a armádního generálporučíka. Píše se Faux, Faug i Faoucq.
+_Ptala jsem se bratra na rodinu Fauxových, jak jste si přála. Však dobře víte, jak všechno zná a dohře si pamatuje; je stále věrný roajalista. Po pravdě řečeno, je to velmi stará normanská rodina z okolí Caen. Již před pěti sty léty žil šlechtic Raoul de Faux, Jan de Faux a Tomáš de Faux, a jeden z nich byl pán z Rochefortu. Poslední byl Vít Štěpán Alexandr, kapitán a něco jako důstojník bretaňské lehké jízdy. Jeho dcera Marie Louisa se provdala za Adriena Karla de Gramont, syna vévody Ludvíka de Gramont. paira Francie, plukovníka francouzských gard a armádního generálporučíka. Píše se Faux, Faug i Faoucq._
 
-Milá paní, doporučte nás modlitbám svého zbožného příbuzného, pana kardinála. Vaše Sylvie dělá dobře, že nemámí ty krátké chvíle, které tráví u Vás, dopisováním se mnou. Jistě je zdráva, pracuje podle Vašeho přání a má mě ráda. Víc nežádám. Její pozdrav, který vyřizujete, je mi velmi milý. Mé zdraví není špatné, ale hubnu den ode dne. Sbohem, došla jsem až na konec listu, a proto se musím s Vámi rozloučit. Mnoho pěkného
+_Milá paní, doporučte nás modlitbám svého zbožného příbuzného, pana kardinála. Vaše Sylvie dělá dobře, že nemámí ty krátké chvíle, které tráví u Vás, dopisováním se mnou. Jistě je zdráva, pracuje podle Vašeho přání a má mě ráda. Víc nežádám. Její pozdrav, který vyřizujete, je mi velmi milý. Mé zdraví není špatné, ale hubnu den ode dne. Sbohem, došla jsem až na konec listu, a proto se musím s Vámi rozloučit. Mnoho pěkného_
 
-Jana
+_Jana_
 
-P. S. Váš synoveček je půvabný. Víte, že už mu bude pět let? Včera viděl na ulici koně s nákolenicemi a zvolal: „Co to má na nožičkách?“ To děcko je tak hodné! Jeho bratříček vláčí za sebou po bytě staré koště jako vůz a křičí: „Hyjé!“
+_P. S. Váš synoveček je půvabný. Víte, že už mu bude pět let? Včera viděl na ulici koně s nákolenicemi a zvolal: „Co to má na nožičkách?“ To děcko je tak hodné! Jeho bratříček vláčí za sebou po bytě staré koště jako vůz a křičí: „Hyjé!“_
 
 Jak vidíme z dopisu, obě ženy se dovedly přizpůsobit biskupovým zvyklostem oním ryze ženským důvtipem, který chápe člověka lépe než on sám sebe. V neměnitelně vlídném a cudném prostředí konal dignský biskup veliké, odvážné a vznešené věci, aniž se zdálo, že tuší jejich obsah. Obě ženy se o něho třásly, ale nechávaly jej na pokoji. Někdy se paní Magloirová pokusila o připomínku, než se biskup rozhodl; ale mlčela, když jednal, a tím spíš po činu. V díle jednou počatém ho nikdy ani posuňkem nerušily. V některých chvílích, aniž o tom musil mluvit a aniž si to sám ve své dokonalé prostotě uvědomoval, obě ženy nejasně cítily, že jejich pán jedná jako biskup; a nebyly pak ničím víc než dvěma stíny v domě. Sloužily mu trpně, a bylo-li třeba zmizet, poslušně mizely. Jemným instinktem obdivuhodně chápaly, že i starostlivost může být někdy obtížná. A i tehdy, když se domnívaly, že mu hrozí nebezpečí, chápaly, neříkám jeho myšlenku, ale jeho povahu do té míry, že nad ním nebděly. Svěřovaly ho Pánu Bohu.
 

@@ -3,7 +3,7 @@ title: KNIHA ŠESTÁ Javert
 contentType: prose
 ---
 
-(1)  
+## (1)  
 Začátek odpočinku
 
   
@@ -92,11 +92,11 @@ Thénardier však nechtěl dítě „pustit“ a udával sta nemožných důvod
 
 Fantina mu nadiktovala tento dopis, který jí dal podepsat:
 
-Pane Thénardiere!
+_Pane Thénardiere!_
 
-Odevzdejte Cosettu osobě, která se prokáže tímto dopisem. Všechna zbývající drobná vydání Vám budou zaplacena. Mám čest Vás uctivě pozdravovat.
+_Odevzdejte Cosettu osobě, která se prokáže tímto dopisem. Všechna zbývající drobná vydání Vám budou zaplacena. Mám čest Vás uctivě pozdravovat._
 
-Fantina.
+_Fantina._
 
 Mezitím došlo k vážné příhodě. Ať přitesáváme sebelépe tajemný balvan, z něhož je utvořen náš život, stále se v něm znovu objevuje černá žíla našeho osudu.
 

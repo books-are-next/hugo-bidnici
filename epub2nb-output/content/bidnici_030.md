@@ -3,7 +3,7 @@ title: KNIHA ŠESTÁ Konjunkce dvou hvězd
 contentType: prose
 ---
 
-(1)  
+## (1)  
 Přezdívka: způsob, jak se tvoří příjmení
 
   

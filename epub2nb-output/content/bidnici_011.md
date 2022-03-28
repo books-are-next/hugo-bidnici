@@ -3,7 +3,7 @@ title: KNIHA PÁTÁ Na šikmé ploše
 contentType: prose
 ---
 
-(1)  
+## (1)  
 O pokroku ve výrobě ozdob z černého skla
 
   
@@ -460,7 +460,7 @@ Zbožňovala své dítě.
 
 Jednou dostala od Thénardierových dopis tohoto obsahu:
 
-Cosetta onemocněla nemocí, která řádí v našem kraji. Říkají tomu spalničky. Potřebuje drahé léky. To nás ničí, my už víc platit nemůžeme. Nepošlete-li nám do týdne čtyřicet franků, Cosetta umře.
+_Cosetta onemocněla nemocí, která řádí v našem kraji. Říkají tomu spalničky. Potřebuje drahé léky. To nás ničí, my už víc platit nemůžeme. Nepošlete-li nám do týdne čtyřicet franků, Cosetta umře._
 
 Fantina se rozesmála jako šílená a řekla své staré sousedce:
 

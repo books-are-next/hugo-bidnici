@@ -1,7 +1,6 @@
 ---
-title: ''
+title: DÍL TŘETÍ Marius
 contentType: prose
 ---
 
-DÍL TŘETÍ  
-Marius
+

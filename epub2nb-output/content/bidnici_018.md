@@ -3,7 +3,7 @@ title: KNIHA TŘETÍ Vyplnění slibu daného mrtvé
 contentType: prose
 ---
 
-(1)  
+## (1)  
 Trampoty s vodou v Montfermeil
 
   
@@ -1239,15 +1239,15 @@ Než otevřel tobolku, rozhlédl se muž kolem sebe. Okolí bylo docela opuště
 
 Thénardier vzal papírek a četl:
 
-Montreuil-sur-Mer, 25. března 1823.
+_Montreuil-sur-Mer, 25. března 1823._
 
-Pane Thénardiere!
+_Pane Thénardiere!_
 
-Odevzdejte Cosettu osobě, která se prokáže tímto dopisem.
+_Odevzdejte Cosettu osobě, která se prokáže tímto dopisem._
 
-Všechna Vaše zbývající drobná vydání Vám budou zaplacena.
+_Všechna Vaše zbývající drobná vydání Vám budou zaplacena._
 
-FANTINA.
+_FANTINA._
 
 „Znáte ten podpis?“ ozval se muž.
 

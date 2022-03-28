@@ -3,7 +3,7 @@ title: KNIHA DRUHÁ Pád
 contentType: prose
 ---
 
-(1)  
+## (1)  
 Večer po celodenní chůzi
 
   
@@ -527,47 +527,47 @@ Podrobnosti o sýrárnách v Pontarlieru
 
 Abychom vyvolali správnou představu o tom, co se událo u stolu, bude snad nejlépe, opíšeme-li část dopisu slečny Jany paní de Boischevronové, ve kterém s prostosrdečným puntičkářstvím líčí rozmluvu trestance s biskupem:
 
-…Ten člověk si nikoho nevšímal. Jedl hltavě jako vlk. Ale po večeři řekl:
+_…Ten člověk si nikoho nevšímal. Jedl hltavě jako vlk. Ale po večeři řekl:_
 
-„Pane faráři, který zastupujete dobrého Pánbíčka, tohle zde je pro mě až přespříliš dobré, ale přesto vám musím říci, že formani, kteří nedovolili, abych s nimi povečeřel, se mají mnohem lépe než vy.“
+_„Pane faráři, který zastupujete dobrého Pánbíčka, tohle zde je pro mě až přespříliš dobré, ale přesto vám musím říci, že formani, kteří nedovolili, abych s nimi povečeřel, se mají mnohem lépe než vy.“_
 
-Mezi námi řečeno, ta poznámka se mě trochu dotkla. Můj bratr odpověděl:
+_Mezi námi řečeno, ta poznámka se mě trochu dotkla. Můj bratr odpověděl:_
 
-„Mají také těžší práci než já.“
+_„Mají také těžší práci než já.“_
 
-„To není ono,“ řekl muž „ale mají více peněz. Dobře vidím, že jste chudý. Snad ani nejste farář. Jste opravdu farář? Opravdu, kdyby byl Bůh spravedlivý, musil byste být farářem.“
+_„To není ono,“ řekl muž „ale mají více peněz. Dobře vidím, že jste chudý. Snad ani nejste farář. Jste opravdu farář? Opravdu, kdyby byl Bůh spravedlivý, musil byste být farářem.“_
 
-„Pán Bůh je víc než spravedlivý,“ řekl bratr. Po chvilce dodal:
+_„Pán Bůh je víc než spravedlivý,“ řekl bratr. Po chvilce dodal:_
 
-„Pane Jeane Valjeane, říkal jste, že jdete do Pontarlieru, že ano?“
+_„Pane Jeane Valjeane, říkal jste, že jdete do Pontarlieru, že ano?“_
 
-„Podle donucovacího cestovního listu.“
+_„Podle donucovacího cestovního listu.“_
 
-Mám dojem, že to tak ten muž jmenoval. Potom pokračoval:
+_Mám dojem, že to tak ten muž jmenoval. Potom pokračoval:_
 
-„Zítra musím vyrazit už za svítání. Těžko se cestuje. V noci je zima a ve dne horko.“
+_„Zítra musím vyrazit už za svítání. Těžko se cestuje. V noci je zima a ve dne horko.“_
 
-„Tam se dostanete do dobrého kraje. Když byla má rodina za revoluce ožebračena, utekl jsem nejdříve do Franche-Comté a tam jsem se živil nějaký čas jako dělník. Našel jsem si zaměstnání. Je tam těch továren dost, stačí si vybrat. Jsou tam papírny, koželužny, lihovary, olejárny, hodinářské továrny, ocelárny, továrny na výrobky z mědi, nejméně dvacet železáren, čtyři největší jsou v Lodsu, Châtilonu, Audincourtu a v Beure…“
+_„Tam se dostanete do dobrého kraje. Když byla má rodina za revoluce ožebračena, utekl jsem nejdříve do Franche-Comté a tam jsem se živil nějaký čas jako dělník. Našel jsem si zaměstnání. Je tam těch továren dost, stačí si vybrat. Jsou tam papírny, koželužny, lihovary, olejárny, hodinářské továrny, ocelárny, továrny na výrobky z mědi, nejméně dvacet železáren, čtyři největší jsou v Lodsu, Châtilonu, Audincourtu a v Beure…“_
 
-Myslím, že jsem se nezmýlila a že můj bratr jmenoval ta města opravdu všechna; pak se odmlčel a obrátil se na mne: „Nemáme tam, milá sestro, nějaké příbuzné?“
+_Myslím, že jsem se nezmýlila a že můj bratr jmenoval ta města opravdu všechna; pak se odmlčel a obrátil se na mne: „Nemáme tam, milá sestro, nějaké příbuzné?“_
 
-Odpověděla jsem:
+_Odpověděla jsem:_
 
-„Měli jsme, měli, za starého režimu tam byl také pan de Lucenet, setník hradební stráže v Pontarlieru.“
+_„Měli jsme, měli, za starého režimu tam byl také pan de Lucenet, setník hradební stráže v Pontarlieru.“_
 
-„Ano,“ odpověděl bratr, „ale v třiadevadesátém roce nebylo příbuzenstvo nic platné, každý se musil spolehnout jen na své ruce. Pracoval jsem. V tom pontarlierském kraji, kam míříte, pane Valjeane, je docela patriarchální a milý průmysl. Svým sýrárnám říkají salašnická družstva.“
+_„Ano,“ odpověděl bratr, „ale v třiadevadesátém roce nebylo příbuzenstvo nic platné, každý se musil spolehnout jen na své ruce. Pracoval jsem. V tom pontarlierském kraji, kam míříte, pane Valjeane, je docela patriarchální a milý průmysl. Svým sýrárnám říkají salašnická družstva.“_
 
-Zatímco bratr nechal toho člověka v klidu najíst, vykládal mu velmi podrobně, co jsou to salašnická družstva v Pontarlieru, že jsou dvojí: velkosýrárny, které patří bohatým a kde mají na čtyřicet až padesát krav, jež dají mléka na sedm až osm tisíc sýrů za léto; a potom jsou to družstevní sýrárny, ty patří chudým venkovanům z Dolních Alp, kteří chovají krávy společně a dělí se mezi sebou o výrobky. Najmou si sýraře a ten přijímá třikrát denně od družstevníků mléko a dvojmo zaznamenává jeho množství; práce v sýrárnách začíná koncem dubna; a v polovině června vyhánějí salašníci dobytek do hor.
+_Zatímco bratr nechal toho člověka v klidu najíst, vykládal mu velmi podrobně, co jsou to salašnická družstva v Pontarlieru, že jsou dvojí: velkosýrárny, které patří bohatým a kde mají na čtyřicet až padesát krav, jež dají mléka na sedm až osm tisíc sýrů za léto; a potom jsou to družstevní sýrárny, ty patří chudým venkovanům z Dolních Alp, kteří chovají krávy společně a dělí se mezi sebou o výrobky. Najmou si sýraře a ten přijímá třikrát denně od družstevníků mléko a dvojmo zaznamenává jeho množství; práce v sýrárnách začíná koncem dubna; a v polovině června vyhánějí salašníci dobytek do hor._
 
-Za jídla muž pomalu ožíval. Bratr mu naléval dobrého mauveského, které sám nepije, protože je příliš drahé. Bratr vykládal všechny tyhle podrobnosti s dobrou náladou, však ho znáte, a přitom se mile obracel i ke mně. Velmi často začínal znovu řeč o výhodném zaměstnání sýraře, jako by si přál, aby ten člověk pochopil, aniž mu to bude přímo a důrazně radit, že by tam našel útočiště. Jedno mě však napadlo. Ten muž byl, vy už víte co. Nuže, po celý večer, s výjimkou několika slov o Ježíši Kristu při jeho příchodu, se bratr ani slůvkem nedotkl toho, co by mohlo připomenout a podle čeho by si mohl domyslit, čím můj bratr je. A přece to byla skvělá příležitost pro malé kázání, kterým by dal trestanci najevo, jaká čest ho potkala, že se na své cestě setkal s biskupem. Kdokoli jiný by myslil, že je to příležitost – když už má takového nešťastníka po ruce –, aby nasytil duši, když už sytí tělo, promluvil mu do svědomí a okořenil to mravním napomenutím a radou, nebo ještě lépe, přidal trochu útrpnosti a domluvy, aby se v budoucnu choval lépe. Ale můj bratr se ani nezeptal, odkud pochází a jaká je jeho minulost. Neboť někde v minulosti ležela jeho chyba a můj bratr jako by se vyhýbal všemu, co by mu ji mohlo připomenout. Jeho ohleduplnost šla tak daleko, že ve chvíli, kdy vyprávěl o horalech z Pontalieru, kteří mají příjemné zaměstnání nebi blíž a kteří, jak dodával, jsou šťastní proto, že jsou nevinní, se zarazil, obávaje se, není-li v jeho slovech něco, co by se mohlo toho muže nemile dotknout. Když o tom teď uvažuji, pochopila jsem, myslím, co se dělo v srdci mého bratra. Bezpochyby se domníval, že ten muž jménem Jean Valjean má duši plnou bídy a že bude nejlépe trochu ho rozptýlit a posílit ho vědomím, třeba jen na chvíli, že je člověk jako každý jiný a že s ním proto jedná jako s kýmkoli jiným. Řekněte, není to vskutku správné pochopení lásky k bližnímu? Není, má milá, něco vpravdě evangelického v té šetrnosti, která se zříká možnosti kázat, udělovat mravní naučení a dělat narážky? Není to ta pravá útrpnost – má-li už někdo bolavé místečko v duši – vyhnout se každé zmínce o tom? Myslím, že tohle asi byla ta nejtajnější myšlenka bratrova. Ale ať tak či onak, měl-li tyto myšlenky, nic z nich neprozradil, ani mně ne; byl od počátku až do konce sám sebou jako každý jiný večer a večeřel s Jeanem Valjeanem, jako by měl na večeři pana Gédéona Le Prévost nebo pana faráře.
+_Za jídla muž pomalu ožíval. Bratr mu naléval dobrého mauveského, které sám nepije, protože je příliš drahé. Bratr vykládal všechny tyhle podrobnosti s dobrou náladou, však ho znáte, a přitom se mile obracel i ke mně. Velmi často začínal znovu řeč o výhodném zaměstnání sýraře, jako by si přál, aby ten člověk pochopil, aniž mu to bude přímo a důrazně radit, že by tam našel útočiště. Jedno mě však napadlo. Ten muž byl, vy už víte co. Nuže, po celý večer, s výjimkou několika slov o Ježíši Kristu při jeho příchodu, se bratr ani slůvkem nedotkl toho, co by mohlo připomenout a podle čeho by si mohl domyslit, čím můj bratr je. A přece to byla skvělá příležitost pro malé kázání, kterým by dal trestanci najevo, jaká čest ho potkala, že se na své cestě setkal s biskupem. Kdokoli jiný by myslil, že je to příležitost – když už má takového nešťastníka po ruce –, aby nasytil duši, když už sytí tělo, promluvil mu do svědomí a okořenil to mravním napomenutím a radou, nebo ještě lépe, přidal trochu útrpnosti a domluvy, aby se v budoucnu choval lépe. Ale můj bratr se ani nezeptal, odkud pochází a jaká je jeho minulost. Neboť někde v minulosti ležela jeho chyba a můj bratr jako by se vyhýbal všemu, co by mu ji mohlo připomenout. Jeho ohleduplnost šla tak daleko, že ve chvíli, kdy vyprávěl o horalech z Pontalieru, kteří mají příjemné zaměstnání nebi blíž a kteří, jak dodával, jsou šťastní proto, že jsou nevinní, se zarazil, obávaje se, není-li v jeho slovech něco, co by se mohlo toho muže nemile dotknout. Když o tom teď uvažuji, pochopila jsem, myslím, co se dělo v srdci mého bratra. Bezpochyby se domníval, že ten muž jménem Jean Valjean má duši plnou bídy a že bude nejlépe trochu ho rozptýlit a posílit ho vědomím, třeba jen na chvíli, že je člověk jako každý jiný a že s ním proto jedná jako s kýmkoli jiným. Řekněte, není to vskutku správné pochopení lásky k bližnímu? Není, má milá, něco vpravdě evangelického v té šetrnosti, která se zříká možnosti kázat, udělovat mravní naučení a dělat narážky? Není to ta pravá útrpnost – má-li už někdo bolavé místečko v duši – vyhnout se každé zmínce o tom? Myslím, že tohle asi byla ta nejtajnější myšlenka bratrova. Ale ať tak či onak, měl-li tyto myšlenky, nic z nich neprozradil, ani mně ne; byl od počátku až do konce sám sebou jako každý jiný večer a večeřel s Jeanem Valjeanem, jako by měl na večeři pana Gédéona Le Prévost nebo pana faráře._
 
-Když už bylo skoro po večeři, byli jsme právě u fíků, zaklepal někdo na dveře. Byla to matka Gerbaudová s maličkým na ruce. Bratr políbil děcko na čelo a vypůjčil si ode mne patnáct sou, které jsem měla v kapse, a dal je matce Gerbaudové. Muž si zatím ničeho nevšímal. Už ani nemluvil a zdálo se, že je velmi unavený. Když chudinka stará Gerbaudka odešla, bratr se pomodlil. Poté se obrátil k muži a řekl mu:
+_Když už bylo skoro po večeři, byli jsme právě u fíků, zaklepal někdo na dveře. Byla to matka Gerbaudová s maličkým na ruce. Bratr políbil děcko na čelo a vypůjčil si ode mne patnáct sou, které jsem měla v kapse, a dal je matce Gerbaudové. Muž si zatím ničeho nevšímal. Už ani nemluvil a zdálo se, že je velmi unavený. Když chudinka stará Gerbaudka odešla, bratr se pomodlil. Poté se obrátil k muži a řekl mu:_
 
-„Jistě byste byl už nejraději v posteli.“
+_„Jistě byste byl už nejraději v posteli.“_
 
-Paní Magloirová velmi rychle sklidila se stolu. Pochopila jsem, že bude lépe, když odejdeme, aby pocestný mohl jít spát, a obě jsme vystoupily nahoru. Po chvilce jsem ale poslala paní Magloirovou znova dolů se srnčí kůží z Černého lesa, která bývá v mém pokojíčku, aby ji dala na jeho postel. Noci jsou ledové a taková kůže drží teplo. Škoda, že je ta kůže už stará; pouští chlupy. Můj bratr ji koupil kdysi v Německu, v Tottlingenu u dunajských pramenů, stejně jako nožík se střenkou ze slonové kosti, kterého používám při jídle.
+_Paní Magloirová velmi rychle sklidila se stolu. Pochopila jsem, že bude lépe, když odejdeme, aby pocestný mohl jít spát, a obě jsme vystoupily nahoru. Po chvilce jsem ale poslala paní Magloirovou znova dolů se srnčí kůží z Černého lesa, která bývá v mém pokojíčku, aby ji dala na jeho postel. Noci jsou ledové a taková kůže drží teplo. Škoda, že je ta kůže už stará; pouští chlupy. Můj bratr ji koupil kdysi v Německu, v Tottlingenu u dunajských pramenů, stejně jako nožík se střenkou ze slonové kosti, kterého používám při jídle._
 
-Paní Magloirová se vrátila téměř okamžitě, pomodlily jsme se v salóně, kde věšíváme prádlo, a potom jsme mlčky odešly do svých pokojíčků – – –
+_Paní Magloirová se vrátila téměř okamžitě, pomodlily jsme se v salóně, kde věšíváme prádlo, a potom jsme mlčky odešly do svých pokojíčků – – –_
 
 ## (5)  
 Klid
