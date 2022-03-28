@@ -3,7 +3,7 @@ title: KNIHA SEDMÁ Champmathieuův případ
 contentType: prose
 ---
 
-(1)  
+## (1)  
 Sestra Simplicie
 
   
@@ -443,39 +443,39 @@ Ať je tento sen jakýkoliv, historie oné noci by byla kusá, kdyby­chom jej o
 
 Zde je. Na obálce nacházíme tuto řádku: _Co se mi zdálo této noci_.
 
-Byl jsem na venkově. Širá smutná pláň, kde ani travička nerostla. Měl jsem dojem, že není ani den, ani noc.
+_Byl jsem na venkově. Širá smutná pláň, kde ani travička nerostla. Měl jsem dojem, že není ani den, ani noc._
 
-Procházel jsem se s bratrem, bratrem svých dětských let, s bratrem, na kterého – upřímně řečeno – nikdy nemyslím a na kterého se vlastně ani nepamatuji.
+_Procházel jsem se s bratrem, bratrem svých dětských let, s bratrem, na kterého – upřímně řečeno – nikdy nemyslím a na kterého se vlastně ani nepamatuji._
 
-Hovořili jsme a potkávali jsme chodce. Mluvili jsme o sousedce, která kdysi vedle nás bydlila a po dobu, co žila v naší ulici, pracovala u stále otevřeného okna. Jak jsme si tak povídali, z toho otevřeného okna na nás čišel chlad.
+_Hovořili jsme a potkávali jsme chodce. Mluvili jsme o sousedce, která kdysi vedle nás bydlila a po dobu, co žila v naší ulici, pracovala u stále otevřeného okna. Jak jsme si tak povídali, z toho otevřeného okna na nás čišel chlad._
 
-Stromů v té končině nebylo.
+_Stromů v té končině nebylo._
 
-Spatřili jsme tam člověka, který nás minul. Byl, jak ho pánbu stvořil, barvy popela a jel na hnědáku barvy země. Muž byl holohlavý; bylo mu vidět lebku a na ní vystouplé žíly.
+_Spatřili jsme tam člověka, který nás minul. Byl, jak ho pánbu stvořil, barvy popela a jel na hnědáku barvy země. Muž byl holohlavý; bylo mu vidět lebku a na ní vystouplé žíly._
 
-V ruce měl prut, prut pružný jako révový letorost a těžký jako ze železa. Jezdec nás minul a neřekl ani slovo.
+_V ruce měl prut, prut pružný jako révový letorost a těžký jako ze železa. Jezdec nás minul a neřekl ani slovo._
 
-Bratr řekl: Dejme se úvozem.
+_Bratr řekl: Dejme se úvozem._
 
-Úvozem, kde nebylo vidět ani křovíčka, ani kouska mechu. Všechno mělo barvu země – i obloha. Po několika krocích už nikdo neodpovídal na má slova. Všiml jsem si, že už bratr se mnou není.
+_Úvozem, kde nebylo vidět ani křovíčka, ani kouska mechu. Všechno mělo barvu země – i obloha. Po několika krocích už nikdo neodpovídal na má slova. Všiml jsem si, že už bratr se mnou není._
 
-Spatřil jsem vesnici a vešel do ní. Pomyslil jsem si, že to bude Romainville (proč právě Romainville?)[^88].
+_Spatřil jsem vesnici a vešel do ní. Pomyslil jsem si, že to bude Romainville (proč právě Romainville?)[^88]._
 
-První ulice, kudy jsem vstoupil do vesnice, byla prázdná. Zašel jsem do druhé. Za rohem, který ty dvě ulice tvořily, stál člověk opřený o zeď. Řekl jsem mu: Jak se jmenuje tenhle kraj? Kde to jsem? Muž neodpověděl. Viděl jsem otevřené domovní dveře a vstoupil jsem.
+_První ulice, kudy jsem vstoupil do vesnice, byla prázdná. Zašel jsem do druhé. Za rohem, který ty dvě ulice tvořily, stál člověk opřený o zeď. Řekl jsem mu: Jak se jmenuje tenhle kraj? Kde to jsem? Muž neodpověděl. Viděl jsem otevřené domovní dveře a vstoupil jsem._
 
-První pokoj byl prázdný. Vstoupil jsem do druhé místnosti. Za dveřmi toho pokoje stál muž opřený o stěnu. Zeptal jsem se: Čí je to dům? Kde jsem? Muž neodpověděl. Dům měl zahradu.
+_První pokoj byl prázdný. Vstoupil jsem do druhé místnosti. Za dveřmi toho pokoje stál muž opřený o stěnu. Zeptal jsem se: Čí je to dům? Kde jsem? Muž neodpověděl. Dům měl zahradu._
 
-Vyšel jsem z domu a vstoupil do zahrady. Zahrada byla prázdná. Za prvním stromem stál muž. Řekl jsem tomu muži: Čí je to zahrada? Kde jsem? Muž neodpověděl.
+_Vyšel jsem z domu a vstoupil do zahrady. Zahrada byla prázdná. Za prvním stromem stál muž. Řekl jsem tomu muži: Čí je to zahrada? Kde jsem? Muž neodpověděl._
 
-Bloudil jsem po vesnici a uvědomil jsem si, že je to město. Na ulici ani živáčka, všechny domovní dveře otevřené. Nikdo nebyl ani na ulici, ani v pokojích, ani v zahradách. Ale za každým rohem ulice, za každými dveřmi, za každým stromem stál muž a mlčel. A všichni se dívali, jak je míjím.
+_Bloudil jsem po vesnici a uvědomil jsem si, že je to město. Na ulici ani živáčka, všechny domovní dveře otevřené. Nikdo nebyl ani na ulici, ani v pokojích, ani v zahradách. Ale za každým rohem ulice, za každými dveřmi, za každým stromem stál muž a mlčel. A všichni se dívali, jak je míjím._
 
-Vyšel jsem z města a vykročil do polí.
+_Vyšel jsem z města a vykročil do polí._
 
-Za nějakou dobu jsem se otočil a spatřil obrovský dav, který šel za mnou. Poznal jsem v něm všechny lidi, které jsem spatřil v městě. Měli divné hlavy. Nezdálo se, že by pospíchali, a přece šli rychleji než já. Nebylo vůbec slyšet, že jdou. Jednu chvíli mě dav dohonil a obklíčil. Obličeje lidí měly barvu země.
+_Za nějakou dobu jsem se otočil a spatřil obrovský dav, který šel za mnou. Poznal jsem v něm všechny lidi, které jsem spatřil v městě. Měli divné hlavy. Nezdálo se, že by pospíchali, a přece šli rychleji než já. Nebylo vůbec slyšet, že jdou. Jednu chvíli mě dav dohonil a obklíčil. Obličeje lidí měly barvu země._
 
-Tu mi řekl muž, kterého jsem spatřil, když jsem vstoupil do města: Kam jdete? Nevíte, že jste už dávno mrtev?
+_Tu mi řekl muž, kterého jsem spatřil, když jsem vstoupil do města: Kam jdete? Nevíte, že jste už dávno mrtev?_
 
-Otevřel jsem ústa, abych mu odpověděl, a zpozoroval jsem, že kolem mne najednou nikdo není.“
+_Otevřel jsem ústa, abych mu odpověděl, a zpozoroval jsem, že kolem mne najednou nikdo není.“_
 
 Jean Valjean se probudil. Byl prokřehlý. Chladný vítr, jak bývá po ránu, pohyboval křídly okna, které zůstalo otevřeno. Oheň uhasl. Svíčka dohořívala. Byla pořád ještě černá noc.
 

@@ -3,7 +3,7 @@ title: KNIHA PÁTÁ Tichá štvanice
 contentType: prose
 ---
 
-(1)  
+## (1)  
 Strategické kličkování
 
   

@@ -3,7 +3,7 @@ title: KNIHA TŘETÍ Rok 1817
 contentType: prose
 ---
 
-(1)  
+## (1)  
 Rok 1817
 
   
@@ -178,7 +178,7 @@ vraťte nám našeho tatíčka._
 
 Houfy svátečně nastrojených obyvatel předměstí, tu a tam i s odznaky bourbonských lilií, jaké nosili měšťáci, se rozlévaly po velkém náměstí a po náměstí Marigny, házely kroužky, jezdily na kolotoči; někteří lidé popíjeli; jiní, jako sazečští učňové, měli papírové čáky; bylo slyšet jejich smích. Všechno se veselilo. Byl to čas nepopiratelného míru a hluboké bezpečnosti královské vlády; byla to doba, ve které důvěrné a zvláštní hlášení policejního prefekta Anglèse králi o pařížských předměstích končilo těmito řádky:
 
-„Uvážíme-li, Sire, dobře všechny okolnosti, není třeba se bát lidí. Jsou bezstarostní a neteční jako kočky. Prostý lid na venkově je nepokojný, obyvatelé Paříže nikoli. Jsou to všechno drobní lidé. Ze dvou, Vaše Veličenstvo, by se dal udělat jeden Váš granátník. Lůza hlavního města nebudí strach. Je nápadné, jak obyvatelstvo v posledních padesáti letech zakrnělo; lidé z předměstí Paříže jsou menší než před revolucí. Nejsou nebezpeční. Celkem je to neškodná holota.“
+_„Uvážíme-li, Sire, dobře všechny okolnosti, není třeba se bát lidí. Jsou bezstarostní a neteční jako kočky. Prostý lid na venkově je nepokojný, obyvatelé Paříže nikoli. Jsou to všechno drobní lidé. Ze dvou, Vaše Veličenstvo, by se dal udělat jeden Váš granátník. Lůza hlavního města nebudí strach. Je nápadné, jak obyvatelstvo v posledních padesáti letech zakrnělo; lidé z předměstí Paříže jsou menší než před revolucí. Nejsou nebezpeční. Celkem je to neškodná holota.“_
 
 Že by se kočka mohla proměnit ve lva, to považovali policejní prefekti za nemožné; ale stalo se to, a v tom je právě zázračná síla pařížského lidu. Ostatně kočka tak podceňovaná panem hrabětem Anglèsem byla uctívána v antických republikách; v očích jejich občanů ztělesňovala svobodu a jako protějšek k Minervině bezkřídlé soše v Pireu byla na veřejném náměstí v Korintě postavena ohromná bronzová kočka. Naivní policie z doby restaurace soudila pařížský lid příliš shovívavě. Ať si tomu věří, kdo chce a jak chce, není to „neškodná holota“. Pařížan je Francii tím, čím byl Athéňan Řecku; nikdo nespí tak dobře jako on, nikdo není upřímněji lehkomyslnější a línější než on, nikdo se neumí lépe přetvařovat, že zapomněl, než on, ale ať mu nikdo nevěří; je schopen si ničeho nevšímat, ale jde-li za slávou, je ve svém zápalu hoden obdivu. Dejte mu píku, a provede vám 10. srpen; dejte mu pušku, a máte Slavkov. Je oporou Napoleonovi a silou Dantonovou. Je vlast v sázce? Dá se naverbovat k vojsku. Jde o svobodu? Trhá dlažbu a staví barikády. Pozor! Jeho kštice srší hněvem jako v eposu; jeho halena se řasí v antickou řízu. Střezte se! Z první nahodilé uličky Greneta[^66] učiní kaudinskou soutěsku[^67]. Udeří-li hodina, človíček z předměstí vyroste, vstane, hrozivě se rozhlédne, jeho hlas zaburácí a z jeho ubohé hrudi vyrazí mocný dech, který srovná Alpy s rovinami. Díky mužům z pařížských předměstí dobyla revoluce v čele vojsk celé Evropy.
 
@@ -439,17 +439,17 @@ SLIBOVANÉ PŘEKVAPENÍ.
 
 Rychle roztrhla obálku, otevřela dopis a četla (uměla číst):
 
-Drahé milenky!
+_Drahé milenky!_
 
-Vězte, že máme rodiče. Rodiče, to je pro Vás trochu neznámý pojem. Podle občanského zákoníku, dětinského a počestného, se tak říká otcům a matkám. Nuže, tito rodičové naříkají, tito stařečkové si nás žádají, tito dobří mužové a hodné ženy nás nazývají ztracenými syny a přejí si, abychom se vrátili, a na naši počest chtějí zabít i nějaké to tele. Jsouce ctnostní, posloucháme je. Ve chvíli, kdy budete číst tyto řádky, bude nás už patero bujných koní odvážet k našim mamá a papá. Vyklízíme bojiště, jak říkal Bossuet. Odjíždíme, vlastně jsme už pryč. Prcháme v náručí Laffittově a na perutích Caillardových[^81]. Toulouský dostavník nás zachraňuje od propasti, a tou propastí jste Vy, naše malé krasavice! Vracíme se do společnosti, k povinnostem a k pořádku, a to tryskem, tři míle za hodinu. Vlasti na tom záleží, abychom se stali jako ostatní naši kamarádi prefekty, otci rodin, strážci rodné půdy a státními úředníky. Važte si nás. Obětujeme se. Rychle nás oplačte a brzy nás nahraďte. Drásá-li Vám dopis srdce, oplaťte mu to. Sbohem.
+_Vězte, že máme rodiče. Rodiče, to je pro Vás trochu neznámý pojem. Podle občanského zákoníku, dětinského a počestného, se tak říká otcům a matkám. Nuže, tito rodičové naříkají, tito stařečkové si nás žádají, tito dobří mužové a hodné ženy nás nazývají ztracenými syny a přejí si, abychom se vrátili, a na naši počest chtějí zabít i nějaké to tele. Jsouce ctnostní, posloucháme je. Ve chvíli, kdy budete číst tyto řádky, bude nás už patero bujných koní odvážet k našim mamá a papá. Vyklízíme bojiště, jak říkal Bossuet. Odjíždíme, vlastně jsme už pryč. Prcháme v náručí Laffittově a na perutích Caillardových[^81]. Toulouský dostavník nás zachraňuje od propasti, a tou propastí jste Vy, naše malé krasavice! Vracíme se do společnosti, k povinnostem a k pořádku, a to tryskem, tři míle za hodinu. Vlasti na tom záleží, abychom se stali jako ostatní naši kamarádi prefekty, otci rodin, strážci rodné půdy a státními úředníky. Važte si nás. Obětujeme se. Rychle nás oplačte a brzy nás nahraďte. Drásá-li Vám dopis srdce, oplaťte mu to. Sbohem._
 
-Dvě léta jsme Vás oblažovali. Vzpomínejte na nás v dobrém.
+_Dvě léta jsme Vás oblažovali. Vzpomínejte na nás v dobrém._
 
-Podepsáni:
+_Podepsáni:_
 
-Blachevelle, Fameuil, Listolier, Felix Tholomyès
+_Blachevelle, Fameuil, Listolier, Felix Tholomyès_
 
-Douška: Oběd je zaplacen.
+_Douška: Oběd je zaplacen._
 
 Čtyři dívky na sebe pohlédly.
 

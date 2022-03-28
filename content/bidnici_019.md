@@ -3,7 +3,7 @@ title: KNIHA ČTVRTÁ Gorbeauův barák
 contentType: prose
 ---
 
-(1)  
+## (1)  
 Mistr Gorbeau
 
   

@@ -1,7 +1,6 @@
 ---
-title: ''
+title: DÍL PRVNÍ Fantina
 contentType: prose
 ---
 
-DÍL PRVNÍ  
-Fantina
+
