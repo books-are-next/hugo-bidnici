@@ -52,7 +52,7 @@
             "filename": "bidnici_002.md",
             "xhtml": "bidnici_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -742,6 +742,6 @@
       "user": "books-are-next",
       "repo": "hugo-bidnici"
     },
-    "generatedAt": 1648456695858
+    "generatedAt": 1652351522252
   }
 }

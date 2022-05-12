@@ -1,22 +1,53 @@
 {
-  "author": "Victor Hugo",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "hugo-bidnici-i-68bf238",
-  "languagecode": "cs",
-  "modified": "2019-07-31T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Bídníci I",
-  "revision": "68bf238",
+  "author": "Victor Hugo",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "hugo-bidnici-i-f35e974",
+  "revision": "f35e974",
+  "readingOrder": [
+    "promo.html",
+    "bidnici_005.html",
+    "bidnici_006.html",
+    "bidnici_007.html",
+    "bidnici_008.html",
+    "bidnici_009.html",
+    "bidnici_010.html",
+    "bidnici_011.html",
+    "bidnici_012.html",
+    "bidnici_013.html",
+    "bidnici_014.html",
+    "bidnici_015.html",
+    "bidnici_016.html",
+    "bidnici_017.html",
+    "bidnici_018.html",
+    "bidnici_019.html",
+    "bidnici_020.html",
+    "bidnici_021.html",
+    "bidnici_022.html",
+    "bidnici_023.html",
+    "bidnici_024.html",
+    "bidnici_025.html",
+    "bidnici_026.html",
+    "bidnici_027.html",
+    "bidnici_028.html",
+    "bidnici_029.html",
+    "bidnici_030.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Mon Mar 28 2022 08:39:51 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648456791569
+    "date": "Thu May 12 2022 10:41:12 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352072297
   },
   "documents": [
     {
-      "title": "Bídníci I",
-      "file": "bidnici_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,15 +55,7 @@
       "order": 0,
       "prev": null,
       "next": "bidnici_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Bídníci I",
@@ -42,7 +65,7 @@
       "ideas": 3,
       "role": "chapter",
       "order": 1,
-      "prev": "bidnici_002.html",
+      "prev": "promo.html",
       "next": "bidnici_006.html",
       "toc": [
         {
@@ -55,7 +78,7 @@
       ]
     },
     {
-      "title": "DÍL PRVNÍ Fantina • Bídníci I",
+      "title": "DÍL PRVNÍ Fantina",
       "file": "bidnici_006.html",
       "words": 3,
       "chars": 17,
@@ -75,7 +98,7 @@
       ]
     },
     {
-      "title": "KNIHA PRVNÍ Člověk spravedlivý • Bídníci I",
+      "title": "KNIHA PRVNÍ Člověk spravedlivý",
       "file": "bidnici_007.html",
       "words": 17607,
       "chars": 109369,
@@ -194,7 +217,7 @@
       ]
     },
     {
-      "title": "KNIHA DRUHÁ Pád • Bídníci I",
+      "title": "KNIHA DRUHÁ Pád",
       "file": "bidnici_008.html",
       "words": 16690,
       "chars": 100466,
@@ -306,7 +329,7 @@
       ]
     },
     {
-      "title": "KNIHA TŘETÍ Rok 1817 • Bídníci I",
+      "title": "KNIHA TŘETÍ Rok 1817",
       "file": "bidnici_009.html",
       "words": 9266,
       "chars": 59654,
@@ -390,7 +413,7 @@
       ]
     },
     {
-      "title": "KNIHA ČTVRTÁ Na důvěru se často doplácí • Bídníci I",
+      "title": "KNIHA ČTVRTÁ Na důvěru se často doplácí",
       "file": "bidnici_010.html",
       "words": 3850,
       "chars": 23880,
@@ -432,7 +455,7 @@
       ]
     },
     {
-      "title": "KNIHA PÁTÁ Na šikmé ploše • Bídníci I",
+      "title": "KNIHA PÁTÁ Na šikmé ploše",
       "file": "bidnici_011.html",
       "words": 12396,
       "chars": 76384,
@@ -544,7 +567,7 @@
       ]
     },
     {
-      "title": "KNIHA ŠESTÁ Javert • Bídníci I",
+      "title": "KNIHA ŠESTÁ Javert",
       "file": "bidnici_012.html",
       "words": 3340,
       "chars": 20709,
@@ -579,7 +602,7 @@
       ]
     },
     {
-      "title": "KNIHA SEDMÁ Champmathieuův případ • Bídníci I",
+      "title": "KNIHA SEDMÁ Champmathieuův případ",
       "file": "bidnici_013.html",
       "words": 20528,
       "chars": 124854,
@@ -677,7 +700,7 @@
       ]
     },
     {
-      "title": "KNIHA OSMÁNásledek • Bídníci I",
+      "title": "KNIHA OSMÁNásledek",
       "file": "bidnici_014.html",
       "words": 5201,
       "chars": 31910,
@@ -733,7 +756,7 @@
       ]
     },
     {
-      "title": "DÍL DRUHÝ Cosetta • Bídníci I",
+      "title": "DÍL DRUHÝ Cosetta",
       "file": "bidnici_015.html",
       "words": 3,
       "chars": 17,
@@ -753,7 +776,7 @@
       ]
     },
     {
-      "title": "KNIHA PRVNÍ Waterloo • Bídníci I",
+      "title": "KNIHA PRVNÍ Waterloo",
       "file": "bidnici_016.html",
       "words": 16720,
       "chars": 108075,
@@ -907,7 +930,7 @@
       ]
     },
     {
-      "title": "KNIHA DRUHÁ Loď Orion • Bídníci I",
+      "title": "KNIHA DRUHÁ Loď Orion",
       "file": "bidnici_017.html",
       "words": 4354,
       "chars": 27174,
@@ -949,7 +972,7 @@
       ]
     },
     {
-      "title": "KNIHA TŘETÍ Vyplnění slibu daného mrtvé • Bídníci I",
+      "title": "KNIHA TŘETÍ Vyplnění slibu daného mrtvé",
       "file": "bidnici_018.html",
       "words": 15042,
       "chars": 92516,
@@ -1047,7 +1070,7 @@
       ]
     },
     {
-      "title": "KNIHA ČTVRTÁ Gorbeauův barák • Bídníci I",
+      "title": "KNIHA ČTVRTÁ Gorbeauův barák",
       "file": "bidnici_019.html",
       "words": 4777,
       "chars": 29664,
@@ -1103,7 +1126,7 @@
       ]
     },
     {
-      "title": "KNIHA PÁTÁ Tichá štvanice • Bídníci I",
+      "title": "KNIHA PÁTÁ Tichá štvanice",
       "file": "bidnici_020.html",
       "words": 9312,
       "chars": 56583,
@@ -1194,7 +1217,7 @@
       ]
     },
     {
-      "title": "KNIHA ŠESTÁ Klášter Petit-Picpus • Bídníci I",
+      "title": "KNIHA ŠESTÁ Klášter Petit-Picpus",
       "file": "bidnici_021.html",
       "words": 9284,
       "chars": 59727,
@@ -1292,7 +1315,7 @@
       ]
     },
     {
-      "title": "KNIHA SEDMÁ Vsuvka • Bídníci I",
+      "title": "KNIHA SEDMÁ Vsuvka",
       "file": "bidnici_022.html",
       "words": 3710,
       "chars": 23719,
@@ -1369,7 +1392,7 @@
       ]
     },
     {
-      "title": "KNIHA OSMÁ, Hřbitovy berou, co jim dáváme • Bídníci I",
+      "title": "KNIHA OSMÁ, Hřbitovy berou, co jim dáváme",
       "file": "bidnici_023.html",
       "words": 13706,
       "chars": 85473,
@@ -1453,7 +1476,7 @@
       ]
     },
     {
-      "title": "DÍL TŘETÍ Marius • Bídníci I",
+      "title": "DÍL TŘETÍ Marius",
       "file": "bidnici_024.html",
       "words": 3,
       "chars": 16,
@@ -1473,7 +1496,7 @@
       ]
     },
     {
-      "title": "KNIHA PRVNÍ Paříž pod mikroskopem • Bídníci I",
+      "title": "KNIHA PRVNÍ Paříž pod mikroskopem",
       "file": "bidnici_025.html",
       "words": 5975,
       "chars": 38154,
@@ -1585,7 +1608,7 @@
       ]
     },
     {
-      "title": "KNIHA DRUHÁ Velký měšťan • Bídníci I",
+      "title": "KNIHA DRUHÁ Velký měšťan",
       "file": "bidnici_026.html",
       "words": 3040,
       "chars": 19662,
@@ -1662,7 +1685,7 @@
       ]
     },
     {
-      "title": "KNIHA TŘETÍ Děd a vnuk • Bídníci I",
+      "title": "KNIHA TŘETÍ Děd a vnuk",
       "file": "bidnici_027.html",
       "words": 11016,
       "chars": 69793,
@@ -1739,7 +1762,7 @@
       ]
     },
     {
-      "title": "KNIHA ČTVRTÁ Přátelé abecedy • Bídníci I",
+      "title": "KNIHA ČTVRTÁ Přátelé abecedy",
       "file": "bidnici_028.html",
       "words": 9367,
       "chars": 59844,
@@ -1802,7 +1825,7 @@
       ]
     },
     {
-      "title": "KNIHA PÁTÁ Výtečnost neštěstí • Bídníci I",
+      "title": "KNIHA PÁTÁ Výtečnost neštěstí",
       "file": "bidnici_029.html",
       "words": 6157,
       "chars": 38260,
@@ -1865,7 +1888,7 @@
       ]
     },
     {
-      "title": "KNIHA ŠESTÁ Konjunkce dvou hvězd • Bídníci I",
+      "title": "KNIHA ŠESTÁ Konjunkce dvou hvězd",
       "file": "bidnici_030.html",
       "words": 5049,
       "chars": 30825,
@@ -1949,11 +1972,11 @@
       ]
     },
     {
-      "title": "Tiráž • Bídníci I",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 147,
-      "chars": 947,
-      "ideas": 23,
+      "words": 120,
+      "chars": 773,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "bidnici_030.html",
@@ -1971,9 +1994,9 @@
   ],
   "totals": {
     "all": {
-      "words": 206638,
-      "chars": 1288298,
-      "ideas": 6848
+      "words": 206611,
+      "chars": 1288124,
+      "ideas": 6840
     },
     "chapters": {
       "words": 206485,
