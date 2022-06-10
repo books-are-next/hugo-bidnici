@@ -6,8 +6,6 @@ contentType: prose
 ## (1)  
 Ulička Picpus číslo 62
 
-  
-
 Domovní vrata číslo 62 v uličce Picpus se před padesáti lety ničím zvláštním nelišila od ostatních obyčejných vrat. Vrata, pravidelně pootevřená, jako by co nejsrdečněji zvala kolemjdoucí, ukazovala dvě věci, na nichž nebylo nic pochmurného: dvůr se zdmi obrostlými révou a tvář lelkujícího vrátného. Za zdí se v pozadí rozkládaly koruny stromů. Když sluneční paprsek rozveselil nádvoří a sklenička vína rozjařila vrátného, bylo těžko, aby člověk, který míjel číslo 62 v uličce Picpus, si odtud neodnášel úsměvnou vzpomínku. A přesto místo, které jsme zahlédli, bylo smutné.
 
 Na prahu se dům usmíval; uvnitř se modlil a plakal.
@@ -56,8 +54,6 @@ A přece něco vítězilo nad stínem: světlo; v té smrti byl život. Ačkol
 
 ## (2)  
 Řehole Martina Vergy
-
-  
 
 Klášter, který byl v uličce Picpus už dávno před rokem 1824, patřil bernardinkám řehole Martina Vergy.
 
@@ -140,8 +136,6 @@ Tyto řeholnice nejsou nikdy veselé, růžové a svěží, jako bývají sestr
 ## (3)  
 Přísné povinnosti
 
-  
-
 Žena, která se uchází o přijetí do kláštera, musí čekat nejméně dvě až čtyři léta; čtyři další léta je novickou. Jen ve velmi vzácných případech se smí konečný řeholní slib skládat před dovršením třia­dvacátého nebo čtyřiadvacátého roku. Bernardinské benediktinky nepřijímají do svého řádu vdovy.
 
 V celách se oddávají umrtvování těla, o kterém nesmějí nikdy hovořit.
@@ -154,8 +148,6 @@ Až na umrtvování se chovanky podrobovaly všem klášterním pravidlům. Jsou
 
 ## (4)  
 Radosti
-
-  
 
 Přesto naplnily mladé dívky vážný dům půvabnými vzpomínkami.
 
@@ -207,6 +199,8 @@ Na drnovém sedátku v zahradě improvizovala jednou šestiletá růžová pusi
 
 A ještě jednu básničku:
 
+  
+
 „Přišla jednou rána holí.
 
 To uhodil Kašpárek kočičku.
@@ -214,6 +208,8 @@ To uhodil Kašpárek kočičku.
 To jí nedělalo dobře, to přece bolí.
 
 A tak ho tedy jedna paní vsadila do vězení.“
+
+  
 
 Zde se také ozvala něžná a srdcervoucí slova malého dívčího sirotka, nalezence, kterého vychovával klášter z útrpnosti. Holčička slyšela, jak ostatní děti vykládají o svých maminkách, a ve svém koutku si povzdechla:
 
@@ -249,8 +245,6 @@ Paní Campanová opakovala slova sedmileté „maličké“, která vyčtla šes
 
 ## (5)  
 Rozptýlení
-
-  
 
 Nad dveřmi refektáře byla napsána velkými černými písmeny modlitba, jež se jmenovala Bílý otčenáš a která uváděla lidi přímo do ráje:
 
@@ -303,8 +297,6 @@ Někdo v sousedství hrával na flétnu. A ta flétna hrála stále tutéž p�
 ## (6)  
 Malý klášter
 
-  
-
 Na ohrazeném místě kláštera Petit-Picpus stála tři dokonale odlišná stavení: velký klášter, který obývaly řeholnice, ústav chovanek, kde bydlely žákyně, a konečně to, čemu se tu říkalo malý klášter. Byla to obytná budova se zahradou, v níž bydlely staré jeptišky různých řádů, zbytky klášterů, zničených za revoluce; shromáždění všech možných černošedivobílých strakatin, sbírka všech možných odrůd církevních společností; mohli bychom to nazvat – je-li vůbec dovoleno tyto pojmy spojit – jakousi klášterní maškarádou.
 
 Už za doby císařství bylo dovoleno všem těm ubohým pannám, rozprchlým a zbaveným domova, aby hledaly útulek pod křídly benediktinských bernardinek. Vláda jim platila malou penzi; dámy z Petit-Picpus je přijaly s otevřenou náručí. Byla to podivná směs. Každá řeholnice žila podle pravidel svého řádu. Někdy bylo chovankám jako zvláštní osvěžení dovoleno, aby je navštívily; tím se stalo, že ty mladé dívčí mysli uchovaly mimo jiné i vzpomínku na matku Svatého Basilia, na matku Svatou Scholastiku a na matku Jakubu.
@@ -317,11 +309,15 @@ Kolem roku 1820 nebo 1821 požádala o přijetí do klášterního útulku v P
 
 Odcházejíc nechala po sobě stopu ve své cele. Paní de Genlis byla pověrčivá a latinářka. Tyto dva pojmy odhalují její povahu. Ještě po několika letech byly ve skřínce její cely, v níž skrývala své stříbro a šperky, nalepeny latinské verše vlastnoručně psané červeným inkoustem na žlutém papíře, verše, které, jak se paní de Genlis domnívala, měly moc vyplašit zloděje:
 
+  
+
 _Imparibus meritis pendent tria corpora ramis;  
 Dismas et Gesmas, media est divina potestas;  
 Alta petit Dismas, infelix, infima, Gesmas.  
 Nos et res nostras conservet summa potestas.  
 Hos versus dicas, ne tu furto tua perdas.[^122]_
+
+  
 
 Tyto verše psané latinou šestého století budí pochybnost, zda se oba lotři na Kalvárii jmenovali, jak se má za to, Dismas a Gestas, nebo Dismas a Gesmas. Takto psané jméno by asi bylo v minulém století mluvilo proti vikomtu Gestasovi, který si osoboval právo odvozovat svůj původ od lotra visícího po Kristově levici. Ostatně působivost připisovaná těmto veršům tvoří věroučný článek řehole milosrdných sester.
 
@@ -329,8 +325,6 @@ Klášterní chrám, zbudovaný tak, aby oddělil jako opravdový řez velký kl
 
 ## (7)  
 Několik siluet z onoho přítmí
-
-  
 
 Po šest let, které dělí rok 1819 od roku 1825, byla představenou kláštera Petit-Picpus slečna de Blemeur, řeholním jménem matka Innocentia. Pocházela z rodiny Markéty de Blemeur, která napsala _Život svatých řádu svatého Benedikta_. Byla opět zvolena. Malá a tlustá šedesátnice měla „hlas jako nakřáplý hrnec“, jak to o ní říkal dopis, o kterém jsme se už zmínili; ostatně to byla skvělá žena, jediná veselá bytost v klášteře, a proto ji všechny sestry zbožňovaly.
 
@@ -359,8 +353,6 @@ Takový byl ten podivný dům.
 ## (8)  
 „Post corda lapides“[^124]
 
-  
-
 Když jsme načrtli život kláštera po stránce duchovní, bude snad užitečné vylíčit několika slovy i poměry hmotné. Čtenář o nich už asi má jakous takous představu.
 
 Klášter Petit-Picpus-Saint-Antoine vyplňoval téměř úplně rozlehlý lichoběžník, který byl vytvořen ulicemi Polonceau, Droit-Mur, uličkou Picpus a zastavěnou uličkou, která se na starých plánech jmenuje Aumarais. Ty čtyři ulice obkličovaly lichoběžník jako příkopy. Klášter měl více stavení a zahradu. Hlavní budova ve svém celku byla soustavou přístavků, které z ptačí perspektivy dost jasně tvořily šibenici položenou na zemi. Hlavní rameno šibenice zabíralo celý úsek ulice Droit-Mur mezi uličkou Picpus a ulicí Polonceau; menší rameno tvořilo vysoké šedé přísné a zamřížované průčelí vedoucí do uličky Picpus; domovní vrata čísla 62 byla na konci. Uprostřed tohoto průčelí se pod nánosem prachu a popela bělala stará nízká nahoře zaoblená vrata, na nichž si pavouci spřádali sítě a která se otvírala jen na jednu nebo dvě hodiny v neděli a při vzácných příležitostech, když opouštěla klášter rakev nějaké jeptišky. Vrata sloužila jako veřejný vchod do kostela. K rohu šibenice přiléhal čtvercový sál, do něhož se ukládaly potraviny a jemuž jeptišky říkaly _zásobárna_. Ve velkém rameni se řadily cely matek, sester a novicek. V malém rameni byly umístěny kuchyně, refektář s křížovou chodbou a chrám. Mezi dvojími dveřmi čísla 62 a rohem zavřené uličky Aumarais stál ústav chovanek, zvenčí neviditelný. Zbytek lichoběžníku tvořila zahrada položená mnohem níže než ulice Poloneeau, a proto zdi vypadaly mnohem vyšší vevnitř než zvenku. Trochu zvlněná zahrada měla uprostřed mírného kopečku překrásnou zašpičatělou a kuželovitou jedli, od níž vycházely jako ze středu štítu čtyři hlavní aleje a dalších osm menších cest vždy po dvou; kdyby zahrada byla kruhová, vypadalo by to jako kříž položený na kole. Všechny cesty šly až k nepravidelně vzdáleným zdem, byly nestejně dlouhé a všechny vroubily rybízové keře. V pozadí zahrady vedla alej vysokých topolů od rozvalin starého kláštera v rohu ulice Droit-Mur k malému klášteru, který tvořil roh uličky Aumarais. Před malým klášterem se rozkládala takzvaná zahrádka. Připojme k tomuto celku dvůr, různá zákoutí, která vytvořily budovy uvnitř, nadto pak zdi jako ve vězení a výhled na samé dlouhé černé pruhy sousedních střech, vroubící druhou stranu ulice Poloneeau, a mohli bychom si udělat dokonalou představu o tom, jak před padesáti lety vypadal dům bernardinek z kláštera Petit-Picpus. Svaté místo bylo postaveno právě v místech bývalé míčovny, která tu byla od čtrnáctého do šestnáctého století a jíž říkali _herna jedenácti tisíc ďáblů._
@@ -369,8 +361,6 @@ Všechny tyto ulice patřily zřejmě k nejstarobylejším ulicím Paříže. J
 
 ## (9)  
 Století pod řeholní rouškou
-
-  
 
 A když jsme se pustili do podrobností o tom, jak kdysi vypadal klášter Petit-Picpus, a když jsme se už odvážili nahlédnout okénkem do toho mlčenlivého útulku, prosíme, aby nám čtenář dovolil ještě malé odbočení, nesouvisící s jádrem této knihy, nicméně svérázné a užitečné, neboť pomáhá pochopil, že i sám klášter má své zvláštní postavy.
 
@@ -387,8 +377,6 @@ Dobrá stařenka měla nerada světské návštěvy, _jelikož_, jak říkala, _
 ## (10)  
 Původ Ustavičného klanění
 
-  
-
 Ostatně hovorna podobná hrobce, jejíž obraz jsme se pokusili nastínit, byla jen místní záležitostí, neměla obdoby v jiných klášterech. Obzvlášť ne v klášteře v ulici Du Temple – ten ovšem patřil jinému řádu –, tam byly černé okenice nahrazeny hnědými záclonami a hovornou byl salón s parketami, v oknech visely bílé mušelínové záclony a na stěnách směly být obrazy, podobizna jakési benediktinky s odhaleným závojem, malované kytice a dokonce i hlava jakéhosi Turka. V klášterní zahradě v ulici du Temple rostl indický kaštan, který byl považován za nejkrásnější a největší kaštan ve Francii a dobrý lid osmnáctého století jej pokládal za _otce všech kaštanů v království_.
 
 Řekli jsme, že klášter du Temple byl obsazen benediktinkami Ustavičného klanění, zcela jinými benediktinkami, než byly sestry, které patřily klášteru v Cîteaux. Řád Ustavičného klanění není tak starobylý a neuplynulo ještě ani dvě stě let od jeho vzniku. V roce 1649 byla Nejsvětější svátost oltářní zneuctěna dvakrát v několika dnech za sebou ve dvou pařížských chrámech, v Saint-Sulpice a Saint-Jean en Grève, a tento tak málokdy se vyskytující svatokrádežný čin poděsil a dojal celé město. Pan převor a generální vikář v kostele Saint-Germain-des-Prés nařídil slavnostní procesí všeho kněžstva, při kterém sloužil mši svatou papežský nuncius. Ale obřad pokání a očisty nestačil dvěma ctihodným ženám, paní Courtinové, markýze Boucsové a komtese Châteauvieuxové. Pohanění spáchané na „Nejvznešenější svátosti oltářní“ nedalo těm dvěma zbožným duším pokoj, zdálo se jim, že může být odčiněno jen „ustavičným klaněním“ v některém z ženských klášterů. Obě, jedna v roce 1652 a druhá v roce 1653, složily pozoruhodné částky do rukou benediktinky matky Kateřiny de Bar, řeholním jménem Nejsvětější svátost oltářní, a požádaly ji, aby založila k tomu zbožnému cíli klášter řádu svatého Benedikta; první svolení se dostalo matce Kateřině de Bar od pana de Metz, saintgermainského opata, pod podmínkou, „že do kláštera může být přijata jen dívka, která přinese tři sta liber důchodu, to znamená kapitál šest tisíc liber“. Po saintgermainském opatovi dal své svolení i král a všechno, listinu opatskou a královské listiny, schválil účetní kabinet a parlament v roce 1654.
@@ -401,8 +389,6 @@ Lišil se značně od řádu bernardinek z Petit-Picpus, jehož vnitřek jsme u
 
 ## (11)  
 Konec kláštera Petit-Picpus
-
-  
 
 Klášter Petit-Picpus upadal od počátku restaurace; úpadek souvisel s postupným a hromadným odumíráním řádu, který se po osmnáctém století ztrácí jako mnoho jiných řeholních ústavů. Rozjímání stejně jako modlitba je potřebou lidstva; ale mění se jako všechno, čeho se revoluce dotkla, a jako se dříve stavělo nepřátelsky k pokroku, je mu dnes nakloněno.
 

@@ -6,8 +6,6 @@ contentType: prose
 ## (1)  
 V jakém zrcadle si pan Madeleine prohlíží vlasy
 
-  
-
 Začalo se rozednívat. Fantina strávila noc v horečce a bez spánku, ale v příjemných vidinách; k ránu usnula. Sestra Simplicie, která u ní bděla, využila jejího spánku a šla připravit novou dávku chininu. Ctihodná sestra byla již chvíli v nemocniční laboratoři a skláněla se nad léky a lahvičkami; dívala se na ně hodně zblízka, protože jí vadilo kalné šero, které úsvit rozlévá po předmětech. Náhle otočila hlavu a lehce vykřikla. Před ní stál pan Madeleine. Právě tiše vstoupil.
 
 „To jste vy, pane starosto?“ zvolala.
@@ -70,8 +68,6 @@ Fantina otevřela oči, spatřila ho a pokojně, s úsměvem řekla:
 
 ## (2)  
 Fantina je šťastná
-
-  
 
 Nedala najevo ani překvapení ani radost; byla radost sama. Tu prostou otázku: „A Cosetta?“ vyslovila s radostí tak hlubokou, s takovou jistotou a bez nejmenšího nepokoje nebo pochybnosti, že nemohl promluvit. Fantina pokračovala:
 
@@ -156,8 +152,6 @@ Pan Madeleine se otočil a spatřil Javerta.
 ## (3)  
 Javert je spokojen
 
-  
-
 Podívejme se, co se stalo. Když pan Madeleine vyšel z porotní síně v Arrasu, odbilo právě půl jedné. Vrátil se do své zájezdní hospody zrovna včas, aby mohl odjet dostavníkem, v němž si, jak si vzpomínáme, zamluvil místo. Nedlouho před šestou hodinou ráno dojel do Montreuil-sur-Mer a jeho první starostí bylo, aby hodil na poštu svůj dopis panu Laffittovi; nato zašel do nemocnice, aby se podíval na Fantinu.
 
 Sotva opustil soudní síň, ujal se slova státní zástupce, který se vzpamatoval první; politoval záchvat šílenství ctihodného starosty montreuilského a prohlásil, že ta podivná příhoda, která se osvětlí později, nikterak nezviklala jeho přesvědčení, a znovu žádal, aby soud odsoudil Champmathieua, nepochybně pravého Jeana Valjeana. Naléhání státního zástupce bylo zřejmě v rozporu s názorem všech, veřejnosti, soudce i poroty. Obhájce snadno vyvrátil jeho řeč a prohlásil, že doznání pana Madeleina, to jest pravého Jeana Valjeana, docela mění podstatu celého případu, a že porota má před sebou nevinného člověka. Advokát z toho vytěžil několik řečnických obratů – naneštěstí málo nových – o soudních omylech atd., prezident se ve svém závěru připojil k obhájci a porota v několika minutách prohlásila, že Champmathieu je nevinen.
@@ -202,8 +196,6 @@ Poctivost, upřímnost, nevinnost, přesvědčení, smysl pro povinnost jsou vla
 
 ## (4)  
 Moc se ujímá svých práv
-
-  
 
 Fantina neviděla Javerta ode dne, kdy ji pan starosta vyrval z jeho rukou. Její nemocný mozek nic nevnímal, ale Fantina nepochybovala, že jde pro ni. Nemohla snést tu hroznou tvář, měla dojem, že umírá, zakryla si obličej oběma rukama a úzkostlivě vykřikla:
 
@@ -325,8 +317,6 @@ Potom se vztyčil, obrátil se k Javertovi a řekl:
 
 ## (5)  
 Vhodný hrob
-
-  
 
 Javert dopravil Jeana Valjeana do městské věznice.
 

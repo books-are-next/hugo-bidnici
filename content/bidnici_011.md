@@ -6,8 +6,6 @@ contentType: prose
 ## (1)  
 O pokroku ve výrobě ozdob z černého skla
 
-  
-
 Co se stalo s matkou, která podle vyprávění lidí v Montfermeil opustila své dítě? Kde byla? Co dělala?
 
 Když nechala malou Cosettu u Thénardierových, pokračovala v cestě a došla do Montreuil-sur-Mer.
@@ -36,8 +34,6 @@ Když přišel do Montreuil-sur-Mer, byl oblečen, choval se a mluvil jako děl
 
 ## (2)  
 Madeleine
-
-  
 
 Byl to asi padesátiletý muž, vypadal ustaraně a byl to dobrý člověk. To je všechno, co se o něm dalo říci.
 
@@ -72,8 +68,6 @@ To byl třetí stupeň jeho vzestupu. Otec Madeleine se stal panem Madeleinem; p
 ## (3)  
 Peníze uložené u Laffitta
 
-  
-
 Jinak zůstal stejně prostý, jako byl prvního dne. Měl šedivé vlasy, vážný pohled, osmahlou pleť dělníka, zamyšlenou tvář filozofa. Obyčejně nosil klobouk se širokým okrajem a dlouhý redingot z těžkého sukna, zapnutý až k bradě. Plnil své starostenské povinnosti, ale jinak žil samotářsky. S málokým promluvil. Vyhýbal se zdvořilostem, zdravil plaše, rychle unikal před lidmi, usmíval se, aby nemusil hovořit, jako by se úsměvem omlouval. Ženy o něm říkaly: „To je dobrácký medvěd!“ Jeho radostí byly procházky v polích.
 
 Jídával vždycky sám a při tom míval před sebou knihu. Měl docela pěknou knihovničku. Miloval knihy; knihy jsou klidní a spolehliví přátelé. Se vzrůstem bohatství se dostavilo víc volného času, a jak se zdá, pan Madeleine ho využíval k tříbení ducha. Lidé pozorovali, že se od příchodu do Montreuil-sur-Mer rok co rok vyjadřuje zdvořileji, uhlazeněji a vlídněji.
@@ -103,8 +97,6 @@ Stejně si lidé šeptali, že má „ohromné“ peníze uložené u Laffitta 
 ## (4)  
 Pan Madeleine nosí smutek
 
-  
-
 Na počátku roku 1821 přinesly noviny zprávu o smrti Myriela, biskupa v Digne, kterého lid nazýval _monsignorem_ _Lidumilem_ a který zemřel jako světec ve věku dvaaosmdesáti let.
 
 Abychom byli podrobnější než noviny, dodejme, že dignský biskup několik roků před svou smrtí oslepl a byl ve své slepotě spokojen, neboť měl u sebe svou sestru.
@@ -129,8 +121,6 @@ A ještě něčeho si lidé všimli; kdykoli totiž prošel městem nějaký po
 
 ## (5)  
 Neurčité blýskání na obzoru
-
-  
 
 Časem všechny námitky pomalu mizely. Podle zákona, kterému podléhají všichni, kdo se povznesli, i pana Madeleina zprvu očerňovali a pomlouvali, pak ho jen svévolně uráželi, později ho obmýšleli zlomyslnostmi, které se nakonec rozplynuly vniveč; pan Madeleine si vydobyl úctu všech, úctu úplnou a srdečnou, a přišla chvíle, kolem roku 1821, kdy slůvko ‚pan starosta‘ se v Montreuil-sur-Mer vyslovovalo téměř s takovým přízvukem, jako se ‚Jeho biskupská Milost‘ vyslovovalo v Digne v roce 1815. Z okolí na deset mil kolem dokola přicházeli lidé na poradu k panu Madeleinovi. Srovnával spory, radil k zastavení procesů, smiřoval nepřátele. Každý ho právem považoval za soudce. Zdálo se, že má v duši knihu přirozených zákonů. Byla to přímo nákaza úcty, která v šesti nebo sedmi letech čím dál tím víc zachvacovala celý kraj.
 
@@ -208,8 +198,6 @@ A přece se jednou zdálo, že jeho podivné způsoby na pana Madeleina zaúči
 
 ## (6)  
 Starý Fauchelevent
-
-  
 
 Jednou zrána procházel pan Madeleine nedlážděnou uličkou v Montreuil-Sur-Mer. Zaslechl hluk a po několika krocích spatřil hlouček lidí. Zamířil k nim. Právě tam padl kůň a strhl pod vůz starce, který ho vedl, jakéhosi Faucheleventa.
 
@@ -316,8 +304,6 @@ Madeleine se zvedl. Byl na smrt bledý a lil se z něho pot. Šaty měl roztrh
 ## (7)  
 Fauchelevent se stává zahradníkem v Paříži
 
-  
-
 Fauchelevent si pádem vyvrtl koleno. Otec Madeleine ho dal dopravit do nemocnice, kterou založil pro své dělníky přímo v budově továrny a v níž dvě milosrdné sestry zastávaly ošetřovatelskou službu. Druhý den ráno našel stařík na svém nočním stolku tisícifrankovou bankovku s poznámkou psanou rukou otce Madeleina: _Kupuji od vás vůz i koně_. Vůz byl polámaný a kůň zdechl. Fauchelevent se uzdravil, ale koleno zůstalo ztuhlé. Prostřednictvím sester a pana faráře umístil Madeleine dědu jako zahradníka v jednom ženském klášteře ve čtvrti Saint-Antoine v Paříži.
 
 Za nějaký čas byl Madeleine jmenován starostou. Když Javert poprvé spatřil Madeleina opásaného šerpou, odznakem svrchované moci nad městem, projelo jím chvění, jaké asi cítí doga větřící pod oděvem svého pána vlka. Od té chvíle se mu vyhýbal, jak jen mohl. Když ho služební záležitosti důtklivě nutily a když se setkání se starostou nemohl vyhnout, mluvil s ním nesmírně uctivě.
@@ -329,8 +315,6 @@ Tak vypadaly hospodářské poměry v kraji, když se Fantina vrátila. Nikdo s
 ## (8)  
 Paní Victurnienová vydává pětatřicet franků  
 na mravopočestnost
-
-  
 
 Fantina měla radost, když zjistila, že se uživí. Jaká milost nebes, moci žít počestně z práce! Vrátila se jí skutečně chuť k práci. Koupila si zrcadlo; měla radost, že v něm shledává své mládí, krásné vlasy a zuby jako perličky, zapomněla na mnoho věcí, vzpomínala jen na Cosettu, malovala si růžovými barvami budoucnost a byla téměř šťastná. Najala si pokojíček a zařídila se nábytkem na účet svého budoucího výdělku; byl to pozůstatek jejích lehkomyslných zvyků.
 
@@ -370,8 +354,6 @@ Neměla sílu se bránit. Radili jí, aby navštívila pana starostu; netroufala
 
 ## (9)  
 Úspěch paní Victurnienové
-
-  
 
 Vdova po mnichovi přece jen ještě něco dokázala.
 
@@ -422,8 +404,6 @@ Ale ráno, když vylámaným hřebenem pročesávala své krásné vlasy, které
 ## (10)  
 Další úspěch
 
-  
-
 Byla propuštěna ke konci zimy; léto minulo a nastala znova zima. Krátké dni, méně práce. Zima, žádné teplo, žádné světlo, žádné poledne, večer splývá s ránem, mlha, soumrak, šedé okno, není vidět. Nebe je sklepní okénko. Celý den je sklepením. Slunce vyhlíží jako chuďas. Strašná roční doba! Zima změní v kámen i nebeskou vláhu i lidské srdce. Věřitelé na Fantinu dotírali.
 
 Fantina vydělávala příliš málo. Její dluhy rostly. Špatně placení Thénardierovi jí psali každou chvíli dopisy, jejichž obsah ji zarmucoval a jejichž poštovné ji ožebračovalo. Jednou jí napsali, že Cosetta je úplně nahá, že do mrazu potřebuje vlněnou sukni a že je třeba, aby matka poslala nejméně deset franků. Fantina dostala dopis a celý den jej mačkala v rukou. Večer vstoupila k holiči, který bydlil na rohu ulice, a vytáhla z vlasů hřeben. Zlaté vlasy budící obdiv jí splývaly až k pasu.
@@ -460,7 +440,11 @@ Zbožňovala své dítě.
 
 Jednou dostala od Thénardierových dopis tohoto obsahu:
 
+  
+
 _Cosetta onemocněla nemocí, která řádí v našem kraji. Říkají tomu spalničky. Potřebuje drahé léky. To nás ničí, my už víc platit nemůžeme. Nepošlete-li nám do týdne čtyřicet franků, Cosetta umře._
+
+  
 
 Fantina se rozesmála jako šílená a řekla své staré sousedce:
 
@@ -577,8 +561,6 @@ Nešťastnice se stala nevěstkou.
 ## (11)  
 Christus nos liberavit[^85]
 
-  
-
 O čem nám vypravuje Fantinin příběh? O tom, jak společnost kupuje otrokyni.
 
 Od koho? Od bídy.
@@ -601,8 +583,6 @@ Je jediný. Je to Bůh.
 
 ## (12)  
 Zahálka pana Bamataboise
-
-  
 
 Ve všech maloměstech, a v Montreuil-sur-Mer obzvláště, jsou mladíci, kteří ohlodávají svou rentičku patnácti set franků právě s takovým vzezřením, jako jim podobní shltnou v Paříži dvě stě tisíc franků ročně. Jsou to tvorové nevyhraněných charakterů a je jich mnoho; trubci, nevychovanci, příživníci, povaleči, kteří mají pozemky, jsou trochu hloupí a trochu vtipní, kteří by se v salóně chovali jako hulváti a v hospodě si myslí, že jsou kavalíři, a kteří říkají: mé louky, mé lesy, mí sedláci, v divadle vypískávají herečky, aby dokázali, že mají vkus, vyzývají na souboj důstojníky místní posádky, aby ukázali svou chrabrost, chodí na hon, kouří, zívají, pijí, čpí tabákem, hrají kulečník, civí na cestující, kteří vystupují z dostavníku, celý život prosedí v kavárně, obědvají v hospodě, mají psa, který ožírá kosti pod stolem, a milenku, která je hostí, nevydají zbytečně ani groše, přehánějí módu, obdivují se tragédii, opovrhují ženami, nosí boty, dokud z nich nespadnou, napodobují Londýn podle Paříže a Paříž podle městečka Pont-à-Mousson, k stáří blbnou, nepracují, nejsou k ničemu, a celkem ani neškodí.
 
@@ -635,8 +615,6 @@ Pojednou z davu rázně vystoupil muž vysoké postavy, chytil ženu za poblác
 ## (13)  
 Rozluštění některých sporných otázek  
 městské policie
-
-  
 
 Javert odstrčil diváky, prorazil kruh a dal se směrem k policejnímu úřadu, který je na konci náměstí; ubožačku vlekl za sebou. Šla za ním jako stroj. Ani jeden z nich nepronesl slovo. Dav rozběsněných zevlounů se táhl za nimi a vykřikoval nepodařené vtipy. Svrchované neštěstí poskytuje nejlepší příležitost k hrubostem.
 

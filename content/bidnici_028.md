@@ -6,8 +6,6 @@ contentType: prose
 ## (1)  
 Skupina, která se málem stala historickou
 
-  
-
 V té zdánlivě netečné době se šířilo nenápadně jakés revoluční chvění. Ve vzduchu byly závany přicházející z hloubek roku 1789 a 1792. Mládež se právě dostávala do pohybu. Lidé se měnili, aniž si toho byli vědomi, již pouhým dechem času. Ručička pohybující se na číselníku se pohybuje také v duších. Každý pokročil právě o tolik vpřed, o kolik měl pokročit. Roajalisté se měnili v liberály a liberálové v demokraty.
 
 Podobalo se to přílivu spojenému s tisícerým odlivem, při němž se přirozeně všechno promíchává; vznikala z toho nejpodivnější myšlenková spojení. Lidé zbožňovali současně Napoleona i svobodu. Tak se tvoří dějiny. To byly přeludy tehdejší doby. Názory procházejí obměnami. Voltairiánský roajalismus, ta podivná zrůda, měl neméně podivný protipól, bonapartistický liberalismus.
@@ -68,8 +66,6 @@ Věřící Enjolras opovrhoval skeptikem a střídmý Enjolras opilcem. Poskyto
 
 ## (2)  
 Bossuetova pohřební řeč nad hrobem Blondeauovým
-
-  
 
 Jednoho odpoledne opíral se Laigle de Meaux lenivě o veřeje kavárny Musain. Vypadal jako karyatida na prázdninách; nesl však jen své sny. Díval se na náměstí Saint-Michel. Opírat se je vlastně způsob ležení vstoje, což ti, kdo sní, nikterak nezavrhují. Laigle de Meaux beze smutku vzpomínal na malou nehodu; přihodila se předevčírem na právnické fakultě a pozměnila jeho plány do budoucnosti, které ostatně nikdy nebyly příliš jasné.
 
@@ -176,8 +172,6 @@ Téhož večera se Marius ubytoval v hotelu Porte-Saint-Jacques v pokoji vedle
 ## (3)  
 Mariův úžas
 
-  
-
 Za několik dnů se Marius spřátelil s Courfeyracem. Mládí je doba, kdy se rány dobře hojí a jizvy zacelují. Marius vedle Courfeyraca, který měl velký roční důchod, asi tři tisíce franků. Měl selské rodiče, kterým dovedl vnuknout úctu k vlastnímu synovi.
 
 Říkával o nich: „Jsou venkované, a ne měšťáci, a proto jsou tak bystří.“
@@ -264,8 +258,6 @@ Marius trochu žasl. _Initium sapientiae_[^202].
 
 ## (4)  
 Zadní místnost kavárny Musain
-
-  
 
 Jedna z rozmluv těch mladých mužů, při nichž býval Marius přítomen, ale do kterých zasahoval jenom někdy, vážně otřásla jeho duší.
 
@@ -362,8 +354,6 @@ A sarkasmy, šlehy, slovní hříčky, živá francouzská veselost i anglick�
 ## (5)  
 Rozšíření obzoru
 
-  
-
 Srážky mladých myslí jsou podivuhodné, protože nikdy neuhodneme, kdy se zajiskří ani kdy sjede blesk. Co vytryskne teď? To nikdo neví. Smích ve chvíli dojetí. Do směšného okamžiku vstupuje vážná myšlenka. Podnět dává nahodilé slovo. Letora je svrchovaným pánem každého jednotlivce. Vtip stačí, aby otevřel pole čemusi nenadálému. Rozhovory se prudce stáčejí a naráz se mění perspektiva. Hybnou pákou rozhovorů je náhoda.
 
 Vážná myšlenka, která bizarně vzlétla ze slovní potyčky, projela náhle spletí hlasů, ve které se Grantaire, Prouvaire, Bossuet, Combeferre a Courfeyrac zmateně potírali.
@@ -406,6 +396,8 @@ Všichni mlčeli a Enjolras sklonil hlavu. Mlčení vždycky činí dojem souhl
 
 Teď zase Marius svěsil hlavu. Ta prostá a chladná slova přeťala jako ostří oceli jeho epické nadšení; cítil, že z něho vyprchává. Když pozdvihl oči, Combeferre byl už pryč. Pravděpodobně byl spokojen se svou odpovědí na apoteózu a odešel; všichni, vyjma Enjolrase, ho následovali. Místnost se vyprázdnila. Enjolras zůstal s Mariem a vážně se na něho zadíval. Marius, který zatím sebral myšlenky, se necítil nikterak poražen. Zbylo v něm ještě trochu vření, které se chystalo propuknout v pokus přesvědčit Enjolrase. Tu však zaslechl na schodech zpěv někoho z odcházejících. Byl to Combeferre a zpíval toto:
 
+  
+
 _Kdyby děl král: Moc, zlato,  
 šperk z drahých kamínků  
 si vezmi, ale zato  
@@ -414,6 +406,8 @@ zraď svoji maminku,
 nech si své senešaly  
 mám radš svou maminku, o jé,  
 mám radš svou maminku.[^209]_
+
+  
 
 Něžným a vážným důrazem, s nímž Combeferre zpíval, nabýval popěvek podivné vznešenosti.
 
@@ -425,8 +419,6 @@ V téže chvíli ucítil na rameni Enjolrasovu ruku.
 
 ## (6)  
 „Res angusta“[^210]
-
-  
 
 Ten večer Maria hluboce rozechvěl a zanechal mu v duši smutnou temnotu. Marius cítil to, co asi cítí země, když ji oře pluh, aby do ní hospodář mohl uložit zrno; cítí jen bolest; záchvěvy klíčení a radost plodu přicházejí později.
 

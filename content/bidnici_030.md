@@ -6,8 +6,6 @@ contentType: prose
 ## (1)  
 Přezdívka: způsob, jak se tvoří příjmení
 
-  
-
 V té době byl Marius hezký mladík prostřední postavy; měl černé husté vlasy, vysoké a inteligentní čelo, otevřené a vášnivé chřípí, upřímné a klidné vzezření a ve tváři cosi hrdého, zamyšleného a nevinného. Mariův profil, jehož rysy se zakulatily, aniž ztratily pevnost, měl germánskou měkkost, která pronikla do francouzské fyziognomie z Alsaska a Lotrinska, a naprosto v něm chyběla ona hranatost, podle níž se ihned poznali Sikambrové mezi Římany a která odlišuje rasu lví od rasy orlí. Byl v tom životním období, kdy se duch myslících lidí skládá téměř rovným dílem z hloubky i prostomyslnosti. Byl schopen i ve vážném postavení provést hloupost a hned nato dovedl být vznešený. Jeho chování bylo upjaté, chladné, zdvořilé a málo otevřené. Protože měl krásná ústa, rudé rty a nejbělejší zuby pod sluncem, mírnil úsměvem přísnost svého zevnějšku. Cudné čelo a smyslné rty působily chvílemi podivným kontrastem. Oči měl malé, pohled bystrý.
 
 V době nejhorší bídy si všiml, že se za ním otáčejí dívky; utíkával a skrýval se zahanben až do hloubi duše. Domníval se, že si ho prohlížejí pro starý oblek, že se mu posmívají; ve skutečnosti se na něho dívaly proto, že byl hezký, a snily o něm.
@@ -43,8 +41,6 @@ První rok je Marius vídal denně pokaždé v tutéž hodinu. Muž se mu líbi
 ## (2)  
 „Lux facta est“
 
-  
-
 Druhým rokem, právě v okamžiku našeho vypravování, Marius procházky v Lucemburské zahradě přerušil, a půl roku, aniž vlastně věděl proč, do oblíbené aleje nevkročil. Jednoho dne se tam konečně vrátil. Bylo jasné letní dopoledne. Marius byl veselý, jako člověk bývá, je-li krásné počasí. Zdálo se, že mu všichni ptáci, které slyšel, zpívají v srdci a že všechny kousky modré oblohy, které zahlédl mezi listím stromů, patří jen jemu.
 
 Šel přímo do „své aleje“, a když se octl na konci, spatřil na lavičce známou dvojici. Jak se však přiblížil, viděl, že starý pán je stále stejný, ale zdálo se mu, že dívka se změnila. Viděl nyní krásné velké stvoření; mělo všechny tvary okouzlující ženy a k tomu nejroztomilejší půvab dítěte; prchavá a čistá chvíle, kterou můžeme určit dvěma slovy: patnáct let. Měla báječné kaštanové vlasy, odstíněné zlatými lesky, čelo jako z mramoru, tváře jako růžové lístky – pobledlý karafiát a zarůžovělý sníh, nádherná ústa, na nichž zářily úsměvy a zpívala slova, obličej, jaký by byl Raffael přimaloval Marii, a šíji, kterou by byl Jean Goujon[^213] přisoudil Venuši. A aby té roztomilé dívce nic nechybělo, neměla nos krásný, ale hezký; ani přímý, ani zahnutý, ani římský, ani řecký; byl to nos pařížský – oduševnělý, jemný, nepravidelný a čistý, nos, jaký je postrachem malířů a jaký okouzluje básníky.
@@ -76,8 +72,6 @@ Nemyslil na ni více teď, když byla krásná, než když byla ošklivá. Chod�
 ## (3)  
 Účinek jara
 
-  
-
 Jednoho dne vál vlahý vzduch, Lucemburská zahrada byla zaplavena stínem i sluncem a nebe bylo čisté, jako by je andělé ráno umyli. Vrabci povykovali v hustých kaštanech. Marius otevřel duši přírodě, nemyslil na nic, jen žil a dýchal, šel mimo lavičku, dívka se na něho podívala a jejich pohledy se střetly.
 
 Co bylo tentokráte v pohledu mladé dívky? Marius nevěděl. Nebylo v něm nic, a přece v něm bylo všechno. Zvláštní záblesk.
@@ -96,8 +90,6 @@ Když se Marius večer vrátil do podkrovní světničky, prohlédl svůj oblek 
 
 ## (4)  
 Začátek těžké nemoci
-
-  
 
 Druhého dne v obvyklou hodinu vytáhl Marius ze skříně nový kabát, nové kalhoty, nový klobouk a nové boty; vystrojil se, navlékl rukavice, což bylo marnotratným přepychem, a vyšel si do Lucemburské zahrady.
 
@@ -134,8 +126,6 @@ Ulehl, teprve když vykartáčoval nový oblek a pečlivě jej uložil.
 ## (5)  
 Na matku Bručavou dopadají hromové rány
 
-  
-
 Nazítří matka Bručavá – jak Courfeyrac říkal staré domovnici, paní domácí, nájemnici a posluhovačce Gorbeauova baráku v jedné osobě, ženě, která se vlastně jmenovala Burgonová, ale neuctivému Courfeyracovi nic nebylo svaté – tedy matka Bručavá s hrůzou zpozorovala, že pan Marius opět odchází v novém obleku.
 
 Zamířil k Lucemburské zahradě, ale tentokrát došel v aleji jenom ke své lavičce. Usedl jako minule, z dálky pozoroval a zřetelně spatřil bílý klobouk, černé šaty a hlavně namodralou zář. Nehnul se a vrátil se domů, teprve když se brány parku zavíraly. Neviděl pana Leblanca s dcerou odcházet a usoudil, že vyšli vraty do Západní ulice. Když na to myslil o několik týdnů později, nemohl si vzpomenout, kde tehdy večeřel.
@@ -156,8 +146,6 @@ Dívka byla ovšem zázračně krásná. Jediné, co bychom mohli poznamenat a 
 
 ## (6)  
 V zajetí
-
-  
 
 Jednoho z posledních dnů druhého týdne seděl Marius na své lavičce a držel v ruce otevřenou knihu, ve které již dvě hodiny neobrátil ani stránku. Náhle se zachvěl. Na konci stromořadí se stalo něco neobvyklého. Pan Leblanc s dcerou právě opustili lavičku a zavěšeni pomalu vykročili ke středu stromořadí, kde seděl Marius. Marius zavřel knihu, pak ji zase otevřel a pokusil se číst. Třásl se. Záře mířila přímo k němu. „Ach, Panebože, už nebudu mít kdy, abych zaujal pěknou pózu.“ Zatím bělovlasý muž s dívkou přicházeli blíž. Mariovi se zdálo, že to trvá celou věčnost, ačkoliv šlo o pouhou vteřinu. Půjdou snad tudy? ptal se sám sebe. Jakže! Ona bude kráčet po tomto písku, v tomto stromořadí, na dva kroky ode mne! Byl rozčilen; byl by si přál, aby byl krásný, aby měl kříž Čestné legie. Slyšel, jak se blíží stejnoměrný šelest kroků. Představoval si, že na něho pan Leblanc vrhá hněvivý pohled. Osloví mě ten pán? myslil si. Sklonil hlavu; když ji konečně pozdvihl, byli už docela blízko. Dívka přešla a pohleděla na Maria. Zadívala se na něho upřeně, a přitom tak zamyšleně a něžně; Marius se zachvěl od hlavy až k patě. Připadalo mu, že mu vyčítá, proč tak dlouho nepřišel až k ní, a že mu říká: Přicházím tedy já. Marius byl oslněn zornicemi plnými paprsků a propastí.
 
@@ -200,8 +188,6 @@ Pohled ženy se podobá ohromnému, zdánlivě klidnému, ale nebezpečnému str
 ## (7)  
 Domněnky o písmenu U
 
-  
-
 Osamocenost, odloučení ode všech, nezávislost, záliba v přírodě, nedostatek pravidelné fyzické činnosti, vnitřní život, tajné zápasy cudnosti a ochotné nadšení pro veškeré tvorstvo uvedlo Maria do stavu, který nazýváme vášní. Kult otce se mu pomalu stal náboženstvím, a jako každé náboženství sestoupil na dno duše. Bylo třeba, aby se něco dostalo do popředí. Přišla láska.
 
 Uběhl měsíc ode dne, kdy Marius počal chodit do Lucemburské zahrady. Jakmile přišla určitá hodina, nic ho nezadrželo. Má službu, říkával Courfeyrac. Marius žil u vytržení. Bylo jisté, že se dívka na něho už podívala.
@@ -220,8 +206,6 @@ Několik dnů po tomto nálezu se objevil v Lucemburské zahradě a líbal kap
 
 ## (8)  
 Také invalidi mohou být šťastni
-
-  
 
 Protože jsme pronesli slovo cudnost a nechceme nic tajit, musíme říci, že v době milostného vytržení mu „jeho Uršula“ přece jen způsobila vážnou bolest. Bylo to jednoho dne, kdy přiměla pana Leblanka, aby opustil lavici a šel se procházet stromořadím. Vál svěží letní větřík a pohyboval vrcholky platanů. Otec a dcera se vedli pod paží a minuli Mariovu lavičku. Když přešli, Marius povstal a sledoval je pohledem, jak se sluší při podobné příležitosti, je-li duše plná nezměrné a horoucí lásky.
 
@@ -243,8 +227,6 @@ A přesto a právě proto Mariova láska rostla až do pošetilosti.
 
 ## (9)  
 Zatmění
-
-  
 
 Zrovna jsme viděli, jak Marius zjistil, nebo se domníval, že zjistil, že Ona se jmenuje Uršula.
 

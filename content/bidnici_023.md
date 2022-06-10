@@ -6,8 +6,6 @@ contentType: prose
 ## (1)  
 Jak je možno vniknout do kláštera
 
-  
-
 A do toho domu Jean Valjean jako by „spadl z nebe“, řekl Fauchelevent.
 
 Přelezl zahradní zeď, která tvořila kout v ulici Polonceau. Andělský chorál, který zaslechl uprostřed noci, bylo matutinum, jitřní zpěv jeptišek; síň, kterou zahlédl ve tmě, byla kaple; přízrak, který viděl ležet na dlažbě, byla sestra konající pokání; rolnička, která ho svým zvoněním tak podivně vzrušila, byl zvonek, připevněný ke kolenu zahradníka Faucheleventa.
@@ -159,8 +157,6 @@ Dveře vedly do zvláštní hovorny, v níž se projednávaly služební zále�
 ## (2)  
 Fauchelevent se setkává s obtížemi
 
-  
-
 Pro určité povahy a pro určitá povolání, zejména pro kněze a řeholníky, je příznačné, že za pohnutých okolností berou na sebe důstojné a důležité vzezření. Ve chvíli, kdy Fauchelevent vstoupil do hovorny, bylo toto dvojí rozpoložení vepsáno do tváře představené kláštera, kterou byla půvabná a učená slečna de Blemeur, obvykle veselá matka Neposkvrněné početí.
 
 Zahradník bázlivě pozdravil a zůstal stát na prahu cely. Představená, která přebírala zrnka růžence, zvedla oči a pravila:
@@ -203,8 +199,6 @@ Matka představená vstala a bez dalšího slova odešla do sousedního pokoje,
 
 ## (3)  
 Matka Neposkvrněné početí
-
-  
 
 Uběhlo asi čtvrt hodiny. Představená se vrátila a usedla opět na židli.
 
@@ -597,8 +591,6 @@ Doposavad zachmuřený a vážný obličej představené se rozjasnil. Milostiv
 ## (4)  
 Vypadá to docela tak, jako by byl Jean Valjean četl Austina Castilleja
 
-  
-
 Kroky kulhavého člověka jsou jako zamilované pomrkávání jednookého; oba nejdou k cíli rychle. Fauchelevent byl všecek zmaten. Trvalo mu aspoň čtvrt hodiny, než se vrátil k zahradnímu domku. Cosetta byla už vzhůru. Jean Valjean ji usadil u ohně. Ve chvíli, kdy Fauchelevent vstoupil, ukazoval jí Jean Valjean zahradnickou nůši pověšenou na zdi a povídal jí:
 
 „Poslouchej mě dobře, Cosetto! Budeme nuceni odejít z tohoto domu, ale znova se sem vrátíme a bude nám tu dobře. Ten starý hodný pán tě odsud odnese na zádech v tamté košatince. Ty na mě počkáš u jedné paní. Přijdu si pro tebe. Jestli nechceš, aby si tě vzala Thénardierová nazpátek, poslouchej a mlč jako ryba!“
@@ -792,8 +784,6 @@ Jean Valjean mu podal ruku, po které se Fauchelevent rozehnal s dojemnou venko
 ## (5)  
 K nesmrtelnosti nestačí být opilý
 
-  
-
 Nazítří při západu slunce smekali nečetní chodci na bulváru Maine, když kolem nich ujížděl starodávný pohřební vůz, ozdobený lebkami, hnáty a stylizovanými slzami. Ve voze byla rakev pokrytá bílým suknem a na něm veliký rozložitý černý kříž podobný obrovské ženě se spuštěnýma rukama. A za ním smuteční kočár a v něm kněz v komži a ministrantík v červené čepičce. Po pravé i levé straně pohřebního vozu kráčeli dva a dva nosiči v šedých uniformách s černými výložkami. Za nimi stařec v pracovních šatech, který napadal na nohu. Průvod se ubíral k vaugirardskému hřbitovu.
 
 Z kapsy starého muže vyčnívala rukověť kladiva, kovová část dláta a kleště.
@@ -955,8 +945,6 @@ Jedno z předních kol vozu stálo na kopečku země a za ním bylo vidět ote
 ## (6)  
 Mezi čtyřmi prkny
 
-  
-
 Kdo byl v té rakvi? Víme to. Jean Valjean.
 
 Jean Valjean se tam směstnal, jak jen mohl, a obstojně dýchal.
@@ -1027,8 +1015,6 @@ Na světě jsou někdy silnější události než nejsilnější člověk. Jean 
 
 ## (7)  
 Jak vzniklo rčení „vyzrát na někoho“
-
-  
 
 Slyšme, co se odehrálo nad rakví, ve které byl Jean Valjean. Když pohřební vůz odjel, když kněz s ministrantem vstoupili do kočáru, Fauchelevent, který nespouštěl z hrobníka oči, zahlédl, jak se sklání a chápe se lopaty, která byla kolmo zaražena do hromady hlíny.
 
@@ -1301,8 +1287,6 @@ A položil lopatu a rýč na podlahu.
 ## (8)  
 Zdařilý výslech
 
-  
-
 O hodinu později, když už byla úplná tma, stanuli před číslem 62 v uličce Picpus dva muži a jedno děvčátko. Starší z obou mužů zvedl klepátko a zaťukal.
 
 Byli to Fauchelevent, Jean Valjean a Cosetta.
@@ -1402,8 +1386,6 @@ Celá ta událost povznesla starého dobráka Faucheleventa; měl trojí úspěc
 ## (9)  
 Život v ústraní
 
-  
-
 Cosetta mlčela i v klášteře.
 
 Považovala se docela přirozeně za dceru Jeana Valjeana. Ostatně, protože nic nevěděla, nemohla nic říci, a potom, nikdy by nic nebyla prozradila. Před chvílí jsme poznamenali, že neštěstí nejlépe vychovává děti k mlčenlivosti. Cosetta tolik trpěla, že se bála všeho, dokonce i mluvit a dýchat. Pro jediné slůvko se často na ni řítila celá lavina. Od té doby, co žila s Jeanem Valjeanem, se pomalu uklidňovala. Stýskalo se jí jenom po Kateřině, ale netroufala si to říci. Jednou však přece jen řekla Jeanu Valjeanovi:
@@ -1428,7 +1410,14 @@ Duše mu okřívala.
 
 Bydlil se starým Faucheleventem v domku na konci zahrady. Baráček postavený z mizerné suti – stál ještě v roce 1845 – měl, jak víme, tři místnosti, jejichž holé zdi zely prázdnotou. Nejlepší z nich postoupil Fauchelevent Jeanu Valjeanovi, musil mu ji vnutit, Jean Valjean se marně bránil. Stěna této místnosti, mimo dva hřebíky, na které se věšely pásky s rolničkou a nůše, byla ozdobena roajalistickou bankovkou z roku 1793; byla připevněna nad krbem a zde je její přesná reprodukce:
 
+  
+  
+
 ![obr_01.jpg](./resources/obr_01_fmt.png)
+
+  
+
+  
 
 Tento vendéský asignát přibil na zeď předešlý zahradník, bývalý šuan, který zemřel v klášteře a po němž nastoupil Fauchelevent.
 

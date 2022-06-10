@@ -6,8 +6,6 @@ contentType: prose
 ## (1)  
 Rok 1817
 
-  
-
 Rok 1817 nazval Ludvík XVIII. s královskou troufalostí, která nepostrádala pýchy, dvaadvacátým rokem svého panování. V tom roce se proslavil pan Bruguière de Sorsum[^33]. Všechny vlásenkářské závody, které doufaly v návrat pudru a rajek, byly natřeny bleděmodrou barvou a posety bourbonskými liliemi. Byla to nevinná doba, kdy hrabě Lynch usedal každou neděli jako zádušní starosta v lavici hodnostářů v chrámu Saint-Germain-des-Prés v oděvu francouzského paira s červenou řádovou stužkou, dlouhým nosem a s důstojným profilem člověka, který vykonal něco vskutku mimořádného. Mimořádný čin, kterým se pan Lynch proslavil, byl tento: jako starosta města vydal Bordeaux 12. března 1814 trochu nakvap do rukou vévody angoulêmského. Za to se stal pairem. Móda roku 1817 utápěla čtyřleté až šestileté chlapečky v ohromných čepicích ze safiánu a s klapkami na uších, které vypadaly jako beranice Eskymáků. Francouzské vojsko bylo oděno bíle podle rakouského vzoru; plukům se říkalo legie a neoznačovaly se čísly, ale jmény departementů. Napoleon byl na Svaté Heleně, a protože mu Anglie odepřela zelené sukno, dával, si obracet staré kabáty. V roce 1817 zpíval Pellegrini a slečna Bigottiniová tančila; vládl Potier; Odry[^34] se ještě neobjevil. Paní Saquiová vystřídala Foriosa[^35]. Prušáci byli ještě ve Francii. Pan Delatot[^36] hrál velkou roli. Legitimita královského rodu se upevnila, když uťala nejprve ruku a potom hlavu Pleignierovi, Carbonneauovi a Tolleronovi[^37]. Kníže Talleyrand, nejvyšší komoří, a abbé Louis, vyhlédnutý ministr financí, se na sebe významně usmívali jako dva proroci; oba sloužili 14. července 1790 slavnou mši Federace na Martově poli; Talleyrand ji sloužil jako biskup a Louis přisluhoval jako jáhen. Roku 1817 bylo v tamních alejích vidět velké dřevěné sloupy, natřené na modro a se stopami zlatých orlů a včel, které se povalovaly v trávě a hnily v dešti. Byly to sloupy, které před dvěma lety podpíraly císařskou estrádu na májovém shromaždišti lidu. Tu a tam byly ožehnuty od táborových ohňů Rakušanů, ubytovaných poblíž Gros-Caillou. Dva nebo tři z těch sloupů zmizely ve strážných ohních, které zahřívaly široké ruce „císařských“. Slavnost májového shromáždění byla pozoruhodná tím, že byla pořádána v červnu a na Champ de Mars. V roce 1817 byly v oblibě dvě věci: Voltaire-Touquet a tabatěrka „à la Charte“[^38]. Nezapomenutelné vzrušení způsobila vražda spáchaná jakýmsi Dautunem, který vhodil hlavu svého bratra do kašny na trhu des Fleurs. V ministerstvu námořnictví bylo zahájeno vyšetřování o nešťastné fregatě Medúze[^39], které Chaumareixe pokrylo hanbou a Géricaulta slávou. Plukovník Selves odešel do Egypta a stal se tam mocným pašou Solimanem. Palác Thermes v ulici La Harpe byl proměněn v bednářskou dílnu. Na ploché střeše osmihranné věže Clunyjského paláce bylo vidět prkennou budku, která sloužila za observatoř Messierovi, námořnímu hvězdáři za vlády Luvíka XVI. Ve svém salóně se starobylým nábytkem, který měl zkřížené nožky a byl potažen modrým atlasem, předčítala vévodkyně Durasová třem nebo čtyřem přátelům[^40] své nevydané dílo _Ourika_. Na Louvru seškrabovali všechna N. Slavkovský most přišel o jméno a byl přezván na most Královské obory, – dvojí záhada, která zakuklila jednou ranou Slavkovský most i Botanickou zahradu. Zaznamenávaje si nehtem v Horatiovi, četl Ludvík XVIII. bedlivě o hrdinech, kteří se stali císaři, a o příštipkářích, kteří se prohlašovali za následníky, a měl dvě starosti: Napoleona a Mathurina Bruneaua[^41]. Francouzská akademie vypsala soutěž na námět _Radost, kterou přináší studium_. Pan Bellart[^42] byl obřadně výmluvný. V jeho stínu jsme viděli klíčit budoucího generálního prokurátora de Broë, který byl osudem předurčen za terč úšklebků Paul Louis Couriera. Tehdy se vyskytl falešný Chateaubriand jménem Marchangy, než se měl objevit i nepravý Marchangy jménem D’Arlincourt. _Claire d’Albe_ a _Malek–Adel_ platila za mistrovská díla a paní Cottinová byla tudíž prohlášena za přední spisovatelku své doby. Institut dal vyškrtnout ze seznamu členů akademika Napoleona Bonaparta. V Angoulêmu byla královským nařízením vybudována námořní škola, neboť vévoda angoulêmský byl velkoadmirál Francie, a tudíž bylo zřejmo, že město Angoulême má právo na všechny výhody námořního přístavu, nemají-li být poškozeny monarchistické zájmy. V ministerské radě se přetřásala otázka, mají-li se trpět plakáty, které zobrazují krkolomné kousky krasojezdce Franconiho, když se před nimi shlukují tlupy uličníků. Pan Paër, skladatel _Anežky_, dobrák s hranatým obličejem a bradavicí, řídil malé domácí koncerty, pořádané paní markýzou Sassenayovou v ulici Ville-l’Évêque. Všechna tehdejší děvčata zpívala _Saintavell­ského poustevníka_ na slova Edmonda Gérauda. V tisku _Žlutého trpaslíka_ vystřídalo _Zrcadlo_. Kavárna Lemblin byla pro císaře, na rozdíl od hostů kavárny Valois, kteří byli pro Bourbony. Vévoda Berry, na kterého už číhal vrah Louvel, se oženil se sicilskou princeznou. Paní de Staël byla už rok mrtvá. Královští gardisté vypískali slečnu Marsovou. Denní listy zmenšily svůj formát. Formát byl omezený, ale volnost veliká. _Le Constitutionnel_ byl konstituční. _La Minerve_ psala Chateaubrianda Chateaubriant. Tím _t_ si měšťáci tropili šašky z velkého spisovatele. V zaprodaných denících tupili úplatní novináři vyhnance z roku 1815; David podle nich už neměl talent, Arnault[^43] nebyl již duchaplný, Carnot[^44] poctivý, Soult nevyhrál žádnou bitvu; a je jisté, že Napoleon nebyl žádný génius. Ví se, že zřídkakdy dojde poštou dopis adresovaný vyhnanci, protože policie si vytkla za svatou povinnost každý zachytit. Ale to není nic nového; na to si stěžoval už i vypovězený Descartes. A když se David v jistém belgickém časopise rozhorlil, že nedostává dopisy, které mu známí píšou, zdálo se to roajalistickým listům velmi žertovné a při té příležitosti psance důkladně pošpinily. Výrazy _královrazi_ na jedné straně a _členové Konventu_ na druhé, _nepřátelé_ nebo _spojenci_, _Napoleon_ nebo _Buonaparte_ – oddělovala od sebe víc než propast. Všichni lidé dobré vůle se shodovali v mínění, že se revoluční období navždycky uzavřelo nástupem Ludvíka XVIII., kterému říkali „nesmrtelný původce charty“. Na náspu Pont-Neuf vytesali slovo _Redivivus_[^45] na podstavec, který byl přichystán pro sochu Jindřicha IV. Pan Piet[^46] založil v ulici Thérèse, číslo 4, tajné sdružení pro upevnění monarchie. Při vážných příležitostech říkávali vůdcové pravice: „Musíme napsat Bacotovi“[^47]. Pánové Canuel, O’Mahony a de Chappedelaine osnovali za tichého souhlasu králova bratra spiknutí, ale jejich podnik nakonec selhal. Spolek Černá jehlice kul pikle na vlastní pěst. Delaverderie se tajně smlouval s Trogovem. Veřejné mínění ovládal pan Decazes[^48], duch do určité míry svobodomyslný. Chateaubriand stával každé ráno v dlouhých kalhotách a trepkách v ulici Saint-Dominique číslo 27 u okna, na prošedivělých vlasech madrasový šátek, oči upíral do zrcátka, a maje před sebou skříňku s úplným nářadím zubního lékaře, čistil si překrásné zuby a přitom diktoval svému tajemníkovi, panu Pilorgeovi, změny v díle _Monarchie podle charty_. Kritika, která si osobovala právo rozhodovat, dávala přednost Lafonovi před Talmou. Pan de Féletz podpisoval své články písmenem A; pan Hoffmann písme­nem Z. Charles Nodier psal své dílo _Thérèse Aubert_. Rozvody byly zrušeny. Lycea se nazývala kolejemi. Studenti kolejí měli na límci bourbonskou zlatou lilii, ale prali se pro krále římského. Tajná zámecká policie donesla Její královské Výsosti, že je všude vystavována podobizna vévody Orleánského, který ve stejnokroji husarského plukovníka vypadá lépe než vévoda berryjský v uniformě dragounského plukovníka; to bylo vskutku nepříjemné. Pařížská obec dala na svůj náklad znovu pozlatit kupoli dómu Invalidů. Vážní lidé se tázali, co by v tom nebo v onom případě učinil pan de Trinquelague[^49]; pan Clausel de Montais se v několika bodech nepohodl s panem Clauselem de Coussergues[^50]; pan de Salaberry[^51] nebyl spokojen. Herec Picard, člen Akademie, která nepřijala Molièra, hrál _Dva Philiberty_ v divadle Odéon, na jehož průčelí byl dosud, i po stržení písmen, patrný nápis DIVADLO CÍSAŘOVNINO. Lidé byli pro i proti Cugnetovi de Montarlot[^52]. Fabvier[^53] se bouřil; Bavoux[^54] byl revolucionář. Nakladatel Pélicier vydával Voltaira pod názvem _Spisy Voltaira, člena Francouzské akademie_. „To naláká kupce,“ říkával prostoduchý nakladatel. Vládl všeobecný názor, že se pan Charles Loyson[^55] stane géniem století; ze závisti ho začali napadat, což je znamením slávy; napsali na něho tento verš:
 
 _I když Loyson létá, je vidět, že má nohy?[^56]_
@@ -20,8 +18,6 @@ A v tom roce 1817 si čtyři mladí Pařížané ztropili „povedený žert�
 
 ## (2)  
 Dvě čtveřice
-
-  
 
 Jeden z těch Pařížanů byl z Toulouse, druhý z Limoges, třetí z Cahorsu a čtvrtý z Montaubanu; byli to však studenti, a kdo v Paříži studuje, stane se brzo Pařížanem.
 
@@ -82,8 +78,6 @@ Výsledkem tohoto spiknutí byl oslňující výlet určený na příští nedě
 ## (3)  
 Čtyři a čtyři
 
-  
-
 Jen ztěžka si dnes umíme představit výlet studentů s grizetkami do přírody před pětačtyřiceti lety. Paříž už nemá své bývalé okolí; za půl století se úplně změnil vzhled toho, co bychom mohli nazvat život za branami Paříže. Tam, kde jezdívaly dvojkolky, jezdí vozy; tam, kde pluly čluny, plují teď parníky; dnes je Fécamp tím, čím byl tehdy Saint-Cloud. Paříž z roku 1862 je město, jehož předměstím je celá Francie.
 
 Naše čtyři milenecké dvojice provedly svědomitě všechny tehdy možné pošetilůstky, které skýtal výlet do přírody. Prázdniny právě začínaly a byl horký a jasný letní den. V předvečer výletu napsala Tholomyèsovi Favourita, která jediná z děvčat uměla psát: „Ranní ptáče dál doskáče.“ A proto vstali v pět ráno. Dostavníkem se dostali do Saint-Cloud, kde si prohlédli vyschlou fontánu a zvolali: „Je asi moc krásná, když je v ní voda!“ Snídali v hostinci _U mouřenína_, jejž tehdy ještě nenavštívil Castaing[^62], zaplatili si jednu hru v kroužky v křížovém stromořadí u velkého rybníka, vstoupili do Diogenovy lucerny, zahráli si o bonbónky v ruletě u Sèvreského mostu, natrhali kytice květin v Puteaux, nakoupili zákusky v Neuilly, všude jedli jablečné dortíčky a byli dokonale šťastni.
@@ -114,8 +108,6 @@ Láska je hřích; budiž. Fantina byla nevinnost, kterou hřích nepošpinil.
 Tholomyès má takovou radost,  
 že zpívá španělskou píseň
 
-  
-
 Celý den byl od rána až do večera spředen z jitřních červánků. Jako by celá příroda měla svátek a smála se. Květinové záhony v Saint-Cloud vydechovaly vůně; vánek od Seiny načechrával listí, stromy mávaly větvemi ve větru; včely plenily jasmín; cháska motýlů se vrhla na řebříček, jetel a ovsíř; ve vznešeném parku francouzských králů byla spousta ptáků tuláků.
 
 Čtyři šťastné mladé párky jen zářily, okouzleny sluncem, volnou přírodou, květy, stromovím.
@@ -134,12 +126,16 @@ Když si prohlédli stromek, zvolal Tholomyès:
 
 Když ujednal poplatek s oslařem, vrátili se přes Vanves a Issy. V Issy se zastavili. Park, dnes národní majetek, který tehdy patřil zbrojaři Bourguinovi, byl náhodou otevřen. Prošli branou, navštívili sochu poustevníka v jeskyni, vyzkoušeli různé tajemné hříčky pověstného zrcadlového salónu, chlípné zbytečnosti hodné satyra, který se stal milionářem, nebo Turcareta[^64] proměněného v Priapa. Důkladně se pohoupali ve velké síti, přivázané ke dvěma kaštanům, které proslavil abbé de Bernis ve svých básních. Zatímco za vše­obecného smíchu mládenci houpali jednu krasavici po druhé, až děvčatům poletovaly sukně, že by si i Greuze přišel na své, zanotoval Tholomyès, tak trochu Španěl, neboť Toulouse je sestřenicí Tolosy, melancholický nápěv staré písně _gallegy_, pravděpodobně inspirované spanilou dívkou, míhající se v prudce rozhoupané houpačce mezi dvěma stromy:
 
+  
+
 _Soy de Badajoz.  
 Amor me flama.  
 Toda mi alma  
 Es en mi ojos  
 Porque enseñas  
 A tus piemas.[^65]_
+
+  
 
 Jediná Fantina se nechtěla dát houpat.
 
@@ -158,14 +154,16 @@ Co chvíli se Favourita ptala:
 ## (5)  
 U Bombardy
 
-  
-
 Když dostatečně užili ruské skluzavky, pomyslili na oběd; a rozjařená osma, konečně trochu unavená, uvázla v hospůdce, kterou zařídil na Champs-Elysées slavný hostinský Bombarda, jehož hlavní závod byl v ulici Rivoli vedle průchodu Delorme.
 
 Velký, ale ošklivý pokoj s přístěnkem a postelí vzadu (protože v neděli byl hostinec přeplněný, musili vzít zavděk tímto pelechem); dvěma okny mohli za jilmy pozorovat nábřeží a řeku; nádherný srpnový paprsek lehce klouzal po oknech; dva stoly; na jednom pyšná hora kytic pomíchaných s dámskými a pánskými klobouky; za druhým usedly čtyři dvojice kolem lákavého nakupení mis, talířů, sklenic a lahví; džbánky piva se pletly mezi lahvemi vína; málo pořádku na stole a pod ním nepořádek:
 
+  
+
 _zpod stolu vycházel hluk,  
 jako když ryčným pochodem hlomozí pluk,_
+
+  
 
 jak říká Molière.
 
@@ -173,12 +171,20 @@ Tak vypadala kolem půl páté večer selanka, která začala o páté ranní. 
 
 Champs-Elysées, plné slunce a davu, byly jen zář a prach, dvě věci, z nichž se skládá sláva. Obě mramorová sousoší „koní z Marly“ se vzpínala a řičela v zlatisté mlze. Kočáry projížděly sem tam. Škadrona skvělé osobní stráže s trubačem v čele kráčela po třídě Neuilly; bílý prapor, lehce zarůžovělý září zapadajícího slunce, se třepotal na báni Tuilerií. Náměstí Svornosti, které se opět stalo náměstím Ludvíka XV., překypovalo procházejícími se spokojenými lidmi. Nemálo z nich mělo stříbrnou lilii na bílé moaré stužce, která v roce 1817 ještě docela nezmizela z knoflíkových dírek. Sem tam uprostřed přizvukujících hloučků zpívaly malé holčičky, točící se v kole, bourbonskou písničku, která byla tehdy velice oblíbená, protože pomáhala zesměšňovat stodenní vládu, a která končila opakováním věty:
 
+  
+
 _Vraťte nám z Gentu našeho otce,  
 vraťte nám našeho tatíčka._
 
+  
+
 Houfy svátečně nastrojených obyvatel předměstí, tu a tam i s odznaky bourbonských lilií, jaké nosili měšťáci, se rozlévaly po velkém náměstí a po náměstí Marigny, házely kroužky, jezdily na kolotoči; někteří lidé popíjeli; jiní, jako sazečští učňové, měli papírové čáky; bylo slyšet jejich smích. Všechno se veselilo. Byl to čas nepopiratelného míru a hluboké bezpečnosti královské vlády; byla to doba, ve které důvěrné a zvláštní hlášení policejního prefekta Anglèse králi o pařížských předměstích končilo těmito řádky:
 
+  
+
 _„Uvážíme-li, Sire, dobře všechny okolnosti, není třeba se bát lidí. Jsou bezstarostní a neteční jako kočky. Prostý lid na venkově je nepokojný, obyvatelé Paříže nikoli. Jsou to všechno drobní lidé. Ze dvou, Vaše Veličenstvo, by se dal udělat jeden Váš granátník. Lůza hlavního města nebudí strach. Je nápadné, jak obyvatelstvo v posledních padesáti letech zakrnělo; lidé z předměstí Paříže jsou menší než před revolucí. Nejsou nebezpeční. Celkem je to neškodná holota.“_
+
+  
 
 Že by se kočka mohla proměnit ve lva, to považovali policejní prefekti za nemožné; ale stalo se to, a v tom je právě zázračná síla pařížského lidu. Ostatně kočka tak podceňovaná panem hrabětem Anglèsem byla uctívána v antických republikách; v očích jejich občanů ztělesňovala svobodu a jako protějšek k Minervině bezkřídlé soše v Pireu byla na veřejném náměstí v Korintě postavena ohromná bronzová kočka. Naivní policie z doby restaurace soudila pařížský lid příliš shovívavě. Ať si tomu věří, kdo chce a jak chce, není to „neškodná holota“. Pařížan je Francii tím, čím byl Athéňan Řecku; nikdo nespí tak dobře jako on, nikdo není upřímněji lehkomyslnější a línější než on, nikdo se neumí lépe přetvařovat, že zapomněl, než on, ale ať mu nikdo nevěří; je schopen si ničeho nevšímat, ale jde-li za slávou, je ve svém zápalu hoden obdivu. Dejte mu píku, a provede vám 10. srpen; dejte mu pušku, a máte Slavkov. Je oporou Napoleonovi a silou Dantonovou. Je vlast v sázce? Dá se naverbovat k vojsku. Jde o svobodu? Trhá dlažbu a staví barikády. Pozor! Jeho kštice srší hněvem jako v eposu; jeho halena se řasí v antickou řízu. Střezte se! Z první nahodilé uličky Greneta[^66] učiní kaudinskou soutěsku[^67]. Udeří-li hodina, človíček z předměstí vyroste, vstane, hrozivě se rozhlédne, jeho hlas zaburácí a z jeho ubohé hrudi vyrazí mocný dech, který srovná Alpy s rovinami. Díky mužům z pařížských předměstí dobyla revoluce v čele vojsk celé Evropy.
 
@@ -188,8 +194,6 @@ Po této poznámce, kterou jsme napsali na okraj hlášení pana Anglèse, vrať
 
 ## (6)  
 Kapitola plná zbožňování
-
-  
 
 Rozmluvy u stolu a rozmluvy milenců; ani jedny ani druhé nelze zachytit; slova lásky jsou obláčky, povídání u stolu je dým.
 
@@ -221,8 +225,6 @@ Favourita za chvilku pokračovala:
 
 ## (7)  
 Tholomyèsova moudrost
-
-  
 
 Zatímco jedni zpívali, druzí hlučně mluvili jeden přes druhého; byla z toho vřava. Tholomyès zakročil:
 
@@ -278,6 +280,8 @@ Tholomyès se odmlčel.
 
 V téže chvíli Blachevelle opřený o Listoliera a Fameuile zanotoval žalostný nápěv písničky, která vzniká při práci a je složená ze slov, která namátkou přijdou na mysl, s bohatým rýmem anebo vůbec bez rýmu, a bez smyslu, jako jsou pohyby větví stromů a hukot větru, písničky, která se rodí v dýmu dýmky a s dýmem se rozplyne a rozptýlí. Společnost odpověděla na Tholomyèsovo řečnění touto písničkou:
 
+  
+
 _Propána, to byla rána.  
 Konšelíci – konšelé  
 dali brachu plno prachů,  
@@ -292,6 +296,8 @@ A tak musil zlostný brášek
 vrátit pánům zlatý prášek,  
 nebylo mu vesele._
 
+  
+
 To však neuklidnilo Tholomyèsovu improvizační horečku; vyprázdnil skleničku, nalil si novou a pokračoval:
 
 „Pryč s moudrostí! Zapomeňte na to, co jsem vám řekl. Nebuďme ani upejpaví, ani šosáčtí. Připíjím veselosti; buďme veselí! Doplňujme svá právnická studia pošetilostí a jídlem. Spojme indigesci (špatné trávení) a digesty (sbírka zákonů). Justinián ať je samcem a Žranice samičkou. Radosti v hlubinách! Žij, ó stvoření! Svět je veliký démant. Jsem šťasten. Ptáci jsou obdivuhodní. Jaký to svátek všude! Slavík je jako náš zpěvák Elleviou, ale zpívá zadarmo. Zdravím tě, léto! Ó Lucemburská zahrado! Ó selanky z ulice Madame a z alejí de l’Observatoire! Ó zasnění vojáčkové! Ó vy všechny půvabné chůvičky, které se při hlídání cizích dětí bavíte tím, jak byste získaly vlastní! Americké pampy by se mi líbily, kdybych neměl podloubí Odéonu. Má duše zalétá do pralesů a stepí. Všechno je krásné. Mouchy bzučí v slunečních paprscích. Slunce kýchlo a vykýchlo kolibříka. Obejmi mě, Fantino!“
@@ -300,8 +306,6 @@ Zmýlil se a objal Favouritu.
 
 ## (8)  
 Smrt koně
-
-  
 
 „U Édona se jí lépe než u Bombardy,“ zvolala Zefina.
 
@@ -353,10 +357,14 @@ Ještě poslední slovo. Víte, kdo to byla Aspasie, mé dámy? Ačkoliv žila z
 
 Tholomyès, jednou v rozběhu, by se byl těžko zarazil, kdyby na nábřeží právě nebyl klesl kůň. Náraz, a vůz i řečník uvízli. Byla to klisna z Beauce, stará hubená klisna, která patřila už rasovi a táhla příliš těžkou káru. Když se vyčerpané a zmořené zvíře dovleklo až před Bombardův hostinec, odmítlo jít dál. Příhoda vyvolala sběh lidí. Rozhořčený vozka měl sotva čas vyslovit s patřičnou energií nadávku _mrcho!_, zdůrazněnou nesmiřitelným šlehnutím biče, když ubohá herka klesla a už nevstala. Vyrušeni hlukem z ulice, Tholomyèsovi rozdovádění posluchači se obrátili k oknu a Tholomyès toho použil, aby skončil svou řeč touto melancholickou slokou:
 
+  
+
 _Žila si na světě, kde kočár, ba i kára  
 má osud podobný.  
 Jsouc herkou, dřela se. A když už byla stará,  
 vzal si ji pohodný._
+
+  
 
 „Ubohý kůň,“ vzdychla Fantina.
 
@@ -384,8 +392,6 @@ Favourita provázela jejich odchod potleskem.
 
 ## (9)  
 Veselé zakončení radosti
-
-  
 
 Když dívky osaměly, podepřely se lokty dvě a dvě o okenní předprseň, vyklonily se a hovořily spolu z okna do okna.
 
@@ -439,6 +445,8 @@ SLIBOVANÉ PŘEKVAPENÍ.
 
 Rychle roztrhla obálku, otevřela dopis a četla (uměla číst):
 
+  
+
 _Drahé milenky!_
 
 _Vězte, že máme rodiče. Rodiče, to je pro Vás trochu neznámý pojem. Podle občanského zákoníku, dětinského a počestného, se tak říká otcům a matkám. Nuže, tito rodičové naříkají, tito stařečkové si nás žádají, tito dobří mužové a hodné ženy nás nazývají ztracenými syny a přejí si, abychom se vrátili, a na naši počest chtějí zabít i nějaké to tele. Jsouce ctnostní, posloucháme je. Ve chvíli, kdy budete číst tyto řádky, bude nás už patero bujných koní odvážet k našim mamá a papá. Vyklízíme bojiště, jak říkal Bossuet. Odjíždíme, vlastně jsme už pryč. Prcháme v náručí Laffittově a na perutích Caillardových[^81]. Toulouský dostavník nás zachraňuje od propasti, a tou propastí jste Vy, naše malé krasavice! Vracíme se do společnosti, k povinnostem a k pořádku, a to tryskem, tři míle za hodinu. Vlasti na tom záleží, abychom se stali jako ostatní naši kamarádi prefekty, otci rodin, strážci rodné půdy a státními úředníky. Važte si nás. Obětujeme se. Rychle nás oplačte a brzy nás nahraďte. Drásá-li Vám dopis srdce, oplaťte mu to. Sbohem._
@@ -450,6 +458,8 @@ _Podepsáni:_
 _Blachevelle, Fameuil, Listolier, Felix Tholomyès_
 
 _Douška: Oběd je zaplacen._
+
+  
 
 Čtyři dívky na sebe pohlédly.
 

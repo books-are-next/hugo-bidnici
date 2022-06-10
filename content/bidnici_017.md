@@ -6,8 +6,6 @@ contentType: prose
 ## (1)  
 Číslo 24 601 se stává číslem 9430
 
-  
-
 Jean Valjean byl znovu dopaden a uvězněn.
 
 Jistě nám budete vděčni, ušetříme-li vás bolestných podrobností. Opíšeme jen dva články, které se za pár měsíců vrátily k tomu, co se tak překvapivě událo v Montreuil-sur-Mer.
@@ -16,17 +14,29 @@ Jistě nám budete vděčni, ušetříme-li vás bolestných podrobností. Opí�
 
 První článek si vypůjčujeme z _Drapeau blanc_. Je z 25. července 1823:
 
+  
+
 > _Jeden z okresů Pas-de-Calais byl nedávno jevištěm málo obvyklé události. Muž, který nepocházel z departementu a jmenoval se Madeleine, zvelebil zakrátko novými vynálezy starý místní průmysl, výrobu žetu a černého skla, a obohatil tak sebe i celý okres. Za své zásluhy byl jmenován městským starostou. Policie však vypátrala, že Madeleine je bývalý trestanec, který se nedovoleně vzdálil z místa svého vyhnanství, kam byl v roce 1796 odsouzen pro krádež, a který se vlastně jmenuje Jean Valjean. Po rozsudku byl Jean Valjean znovu dopraven na galeje. Zdá se, že se mu před zatčením podařilo vybrat si částku větší než půl milionu, kterou měl uloženou u pana Laffitta a kterou si, jak lidé říkají, poctivě vydělal ve svém závodě. Nebylo možno vypátrat, kam Jean Valjean peníze ukryl, než se dostal znovu na galeje v Toulonu._
+
+  
 
 Druhý článek, trochu podrobnější, je vyňat z pařížského Journalu z téhož dne.
 
+  
+
 > _Bývalý propuštěný trestanec Jean Valjean se dostal před porotu ve Var za okolností, které vzbudily všeobecnou pozornost. Ničemovi se povedlo oklamat bdělost policie; změnil jméno a domohl se úřadu starosty v jednom z našich severních městeček. V tomto městě značně pozdvihl obchod. Díky neúnavné píli státního zastupitelství byl konečně odhalen a zatčen. Jeho souložnicí byla nevěstka, která zemřela rozčilením v okamžiku, kdy ho zatýkali. Bídníkovi, který je nadán herkulovskou silou, se podařilo uprchnout; ale za tři nebo čtyři dny ho policie opět dopadla přímo v Paříži, když nastupoval do jednoho z dostavníků, které jezdí z hlavního města do vesnice Montfermeil v departementu Seine-et-Oise. Říká se, že tří čtyř dní volnosti využil k tomu, aby si vybral značnou částku, kterou si uložil u jednoho z našich předních bankéřů. Částku odhadnutou na šest až sedm set tisíc franků si prý podle tvrzení žaloby zahrabal na místě jenom jemu známém a nebylo možno se jí tedy zmocnit. Ať je tomu jakkoliv, Jean Valjean byl postaven před porotu ve Var a obžalován z loupeže, které se dopustil asi před osmi lety na jednom z těch poctivých chlapců, kteří, jak v nesmrtelných verších řekl ferneyský patriarcha,_
+
+  
 
 _… až ze Savojska rok co rok  
 si přivydělat přichází  
 a komíny nám čistí od sazí._
 
+  
+
 _Lupič se odmítl hájit. Obratný a výmluvný člen státního návladnictví však dokázal, že darebák měl pomocníky a byl členem zlodějské tlupy z jihu. Porota uznala, že Jean Valjean je vinen, a odsoudila ho k trestu smrti. Zločinec odmítl podat odvolání. Král ve své nevyčerpatelné blahovůli ráčil zmírnit trest smrti v doživotní nucené práce. Jean Valjean byl ihned odeslán na galeje v Toulonu._
+
+  
 
 Nezapomněli jsme, že Jean Valjean žil v Montreuilsur-Mer velmi zbožně. Některé noviny, mezi nimi i _Constitutionnel_, vykládaly změnu trestu jakožto vítězství kněžské strany.
 
@@ -40,8 +50,6 @@ I stát zpozoroval, že někde byl kdosi rozdrcen. Ani ne za čtyři roky po zj
 Kapitola, v níž si přečteme dva verše,  
 které snad napsal ďábel
 
-  
-
 Než postoupíme dál, musíme promluvit trochu podrobněji o podivné události, která se zběhla asi ve stejnou dobu v Montfermeil a jež snad má nějaký vztah k domněnkám státního zastupitelství.
 
 V kraji kolem Montfermeil se udržela prastará pověra, o to podivnější, že lidová pověra v samém sousedství Paříže se vyskytuje tak vzácně jako aloe na Sibiři. Patříme k těm, kdo mají v úctě všechno, co je v říši rostlinstva nezvyklé. Tu ji tedy máte, tu pověru z Montfermeil. Lidé tam věří, že si ďábel od nepamětných dob vybral tamější les, aby v něm ukrýval své poklady. Ženy tvrdí, že není zvláštností potkat na sklonku dne v odlehlých částech lesa černého muže, který vypadá jako vozka nebo drvoštěp, má dřeváky, dlouhé kalhoty a plátěnou halenu a jehož lze poznat podle toho, že na hlavě má místo čepice nebo klobouku dva ohromné rohy. Omyl tady není opravdu možný. Ten muž obyčejně kope jámu. Setkání s ním se dá využít trojím způsobem. Předně toho muže zastavíte a promluvíte s ním. A tu se přesvědčíte, že muž je obyčejný venkovan, který vypadá černý jen proto, že už je šero, že nekope jámu, ale seče trávu pro krávy, a že to, co jste považovali za rohy, jsou jenom vidle, které nese na zádech a že v šalebném večerním šeru to vypadá, jako když mu jejich hroty vyrůstají z hlavy. Vrátíte se domů a do týdne zemřete. Druhý způsob je dívat se na něho, počkat, dokud jámu nevykope, nezahrabe a neodejde; potom rychle doběhnete k jámě, vyhrabete ji, vezmete z ní „poklad“ který tam černý muž určitě ukryl. V tom případě zemřete za měsíc. Konečně je třetí možnost; na černého muže nepromluvíte, nepodíváte se na něho a utečete, jako když za vámi hoří. A zemřete do roka.
@@ -50,8 +58,12 @@ Protože všechny tři způsoby mají své nevýhody, je nejoblíbenější druh
 
 Člověk prý se při tom pořádně nadře, protože jámy bývají zpravidla velmi hluboké, pot z něho lije, hrabe, lopotí se celou noc – to se přece dělává jen v noci –, košili má propocenou, svíčka mu dohoří, na rýči vyláme zuby, a co najde, když se dostane na dno jámy, jaký je ten ďáblův poklad? Jediný sou, někdy zlaťák, kámen, kostra, zkrvavená mrtvola, někdy kouzlo přeložené na čtyřikrát jako list papíru uložený v náprsní tobolce, někdy nic. Pravděpodobně to napovídají všetečným zvědavcům Tryfonovy verše:
 
+  
+
 _Fodit, et in fossa thesauros condit opaca,  
 As, nummos, lapides, cadaver, simulacra, nihilque.[^114]_
+
+  
 
 Zdá se, že za našich dnů se tam najde prachovnice s kulemi nebo staré promaštěné a začernalé karty, s nimiž zřejmě hrával čert. Tryfon se o těchto dvou posledních nálezech vůbec nezmiňuje, vždyť žil ve dvanáctém století a ďábel neměl tolik vtipu, aby vynašel střelný prach před Rogerem Baconem a karty před Karlem VI.
 
@@ -86,8 +98,6 @@ Nic neodkryl. V Montfermeil na to už nikdo nemyslil. Jenom některé tetky ř�
 ## (3)  
 Řetěz okovů byl určitě nějak připraven,  
 aby mohl být přeražen jedním úderem kladiva
-
-  
 
 Ke konci října téhož roku 1823 spatřili obyvatelé Toulonu, jak se po velké bouři vrací do jejich přístavu k opravě válečná loď _Orion_; patřila k středomořské eskadře a později sloužila v Brestu za školní plavidlo.
 

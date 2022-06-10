@@ -6,8 +6,6 @@ contentType: prose
 ## (1)  
 Sestra Simplicie
 
-  
-
 Události, o nichž budeme číst, nebyly známé v Montreuilsur-Mer ve svém celku, ale to málo, co proniklo, zanechalo v městě takový ohlas, že by v této knize vznikla velká mezera, kdybychom o nich nevyprávěli do nejmenších podrobností.
 
 V těch podrobnostech se čtenář setká se dvěma nebo třemi nepravděpodobnými okolnostmi, které uvádíme z úcty k pravdě.
@@ -46,8 +44,6 @@ Potom se vrátil na radnici a kancelářský sluha viděl, jak si pozorně proh
 
 ## (2)  
 Prozíravost mistra Scaufflaira
-
-  
 
 Z radnice odešel na kraj města k mistru Scaufflaërovi, Vlámovi, který se podpisoval francouzsky Scaufflaire a pronajímal koně, popřípadě i kabriolety.
 
@@ -187,8 +183,6 @@ Podívejme se tedy, co se dělo v pokoji pana Madeleina.
 
 ## (3)  
 Svědomí
-
-  
 
 Čtenář jistě uhodl, že pan Madeleine není nikdo jiný než Jean Valjean.
 
@@ -431,8 +425,6 @@ V takových úzkostech se zmítala jeho ubohá duše. Osmnáct set let před t�
 ## (4)  
 Jak vypadá utrpení ve spánku
 
-  
-
 Právě odbila třetí hodina a on již pět hodin bez ustání přecházel, než klesl na židli.
 
 Usnul a měl sen.
@@ -442,6 +434,8 @@ Ten sen, jako většina snů, se netýkal věci, leda tím, že měl v sobě co
 Ať je tento sen jakýkoliv, historie oné noci by byla kusá, kdyby­chom jej opominuli. Je to ponuré dobrodružství choré duše.
 
 Zde je. Na obálce nacházíme tuto řádku: _Co se mi zdálo této noci_.
+
+  
 
 _Byl jsem na venkově. Širá smutná pláň, kde ani travička nerostla. Měl jsem dojem, že není ani den, ani noc._
 
@@ -476,6 +470,8 @@ _Za nějakou dobu jsem se otočil a spatřil obrovský dav, který šel za mnou
 _Tu mi řekl muž, kterého jsem spatřil, když jsem vstoupil do města: Kam jdete? Nevíte, že jste už dávno mrtev?_
 
 _Otevřel jsem ústa, abych mu odpověděl, a zpozoroval jsem, že kolem mne najednou nikdo není.“_
+
+  
 
 Jean Valjean se probudil. Byl prokřehlý. Chladný vítr, jak bývá po ránu, pohyboval křídly okna, které zůstalo otevřeno. Oheň uhasl. Svíčka dohořívala. Byla pořád ještě černá noc.
 
@@ -545,8 +541,6 @@ Stařena čekala. Potom se odvážila znovu hlasitě říci:
 
 ## (5)  
 Překážky na cestě
-
-  
 
 V té době se v poštovní dopravě z Arrasu do Montreuil-Sur-Mer užívalo malých vozíků z dob císařství. Byly to dvoukolové kabrio­lety, potažené světlou kůží a opatřené důkladnými péry; byla v nich jenom dvě místa, jedno pro vozku a druhé pro cestujícího; kola byla opatřena dlouhými ochrannými náboji, které udržovaly ostatní vozy v patřičné vzdálenosti; dodnes je vídáme na silnicích v Německu. Kufr na dopisy, velká podlouhlá schránka, byl umístěn vzadu za kabrioletem a tvořil s ním jeden celek. Schránka na dopisy byla natřena černě a kabriolet žlutě.
 
@@ -937,8 +931,6 @@ Postilión poháněl koně. Přejeli řeku a měli za sebou Mont-Saint­-Éloy.
 ## (6)  
 Sestra Simplicie je podrobena zkoušce
 
-  
-
 Fantina se zatím radovala.
 
 Měla velmi špatnou noc. Strašně kašlala, horečka stoupala, měla těžké sny. Při ranní vizitě blouznila. Lékař se tvářil znepokojeně a žádal, aby mu hlásili, až se pan Madeleine vrátí.
@@ -969,10 +961,14 @@ I sestra Simplicie byla udivena, že se pan Madeleine opozdil.
 
 Zatím se Fantina, jako by něco hledala, dívala na nebesa svého lůžka. Náhle začala hlasem tichým jako dech zpívat. Jeptiška poslouchala. Poslyšte, co Fantina zpívala:
 
+  
+
 _Co pěkných věcí se nakoupit může,  
 když za bránu kroky putují,  
 chrpa se modrá a rdí se růže,  
 chrpa se modrá, já miluji._
+
+  
 
 _Přesvatá Panna v mém chudém bytě  
 se za soumraku stavila:  
@@ -981,8 +977,12 @@ pod pláštěm schováno,“ pravila.
 „Běžte mi ke kupci pro plátno, nitě  
 a pro náprstek do díla.“_
 
+  
+
 _Co pěkných věcí se nakoupit může,  
 když za bránu kroky putují._
+
+  
 
 _„Maria Panno, tohleto je  
 má kolíbčička s pentlemi.  
@@ -991,8 +991,12 @@ to dítě tvé mám raději.“
 „A co s tím plátnem, paní moje?“  
 „Prádýlko pro ně strojte mi.“_
 
+  
+
 _Chrpa se modrá a rdí se růže,  
 chrpa se modrá, já miluji._
+
+  
 
 _„Máchejte plátýnko.“ – „Kdepak, paní?“  
 „V řece. Pak čistě spíchněte  
@@ -1001,10 +1005,14 @@ růžičkou na nich rozkvete.“
 „Dítě je v Pánu, co s plátnem, paní?“  
 „Na rubáš z něho mi střihněte.“_
 
+  
+
 _Co pěkných věcí se nakoupit může,  
 když za bránu kroky putují,  
 chrpa se modrá a rdí se růže,  
 chrpa se modrá, já miluji._
+
+  
 
 Byla to stará ukolébavka, kterou kdysi uspávala Cosettu a na kterou si nevzpomněla už celých pět let, co neměla holčičku u se­be. Zpívala tu něžnou melodii tak smutně, že málem rozplakala i jeptišku. Sestra, zvyklá jen přísnosti, cítila, jak se jí slzy derou do očí.
 
@@ -1098,8 +1106,6 @@ Lékař doporučil, aby mlčela a vyhnula se každému většímu pohnutí. Př
 
 ## (7)  
 Cestující dojel a chystá se k návratu
-
-  
 
 Bylo skoro osm hodin, když vozík, který jsme na silnici pustili z dohledu, vjel v Arrasu do průjezdu hostince „Pošta“. Vystoupil z něho muž, kterého jsme až do té chvíle sledovali, roztržitě odpověděl na dotazy služebnictva, poslal zpátky připřaženého koně a sám zavedl bílého koníka do stáje; potom otevřel dveře kulečníkové místnosti v přízemí, usedl a opřel se lokty o stůl. Potřeboval čtrnáct hodin na cestu, kterou chtěl projet za šest. Uznával, že to nebylo jeho vinou, ale v hloubi duše se na to nezlobil.
 
@@ -1234,8 +1240,6 @@ Sluha vzal papírek, podíval se na něj a poslechl.
 ## (8)  
 Vstup jen pro význačné osobnosti
 
-  
-
 Starosta města Montreuil-sur-Mer byl, aniž to tušil, poměrně známý člověk. Sedm let se pověst o jeho ctnosti šířila po celém dolním Boulognsku, nakonec překročila hranice malého kraje a roznesla se po dvou nebo třech sousedních departementech. Vedle služby, kterou prokázal okresnímu městu tím, že v něm znovu zřídil výrobu černého skla, nebyla v celém okrese ze sto jedenačtyřiceti obcí jediná, která by mu nevděčila za nějaké dobrodiní. Dovedl pomoci, bylo-li třeba, a zveleboval i průmysl jiných okresů. Podepřel například úvěrem a kapitálem továrnu na tyl v Boulogne, mechanickou přádelnu na len ve Fréventu a tkalcovnu s vodním pohonem v Bourbers-sur-Canche. Jméno Madeleine vyslovovali všude s úctou. Arras i Douai záviděly maličkému městu Montreuilsur-Mer jeho starostu.
 
 Rada královského dvora v Douai, který předsedal porotnímu zasedání v Arrasu, znal jako všichni to jméno tak hluboce a všeobecně vážené. Sluha opatrně otevřel dveře, které vedly z poradní místnosti do soudní síně, sklonil se nad křeslem, podal prezidentovi papír, kde byla řádka, kterou jsme si právě přečetli, a dodal: _„Ten pán by byl rád přítomen líčení,“_ a prezident ochotně přikývl, vzal péro, napsal několik slov na zadní stranu papíru a vrátil jej sluhovi se slovy: „Ať vejde.“
@@ -1282,8 +1286,6 @@ Byl v soudní síni.
 
 ## (9)  
 Místo, kde se připravuje rozsudek
-
-  
 
 Postoupil o krok, mechanicky zavřel za sebou dveře a zůstal stát, pozoruje výjev, který spatřil.
 
@@ -1343,8 +1345,6 @@ Obhájce vstal a začal se obdivovat „panu státními zástupci“ a jeho �
 
 ## (10)  
 Soustavné zapírání
-
-  
 
 Nadešel okamžik, kdy řeči měly končit. Prezident poručil obžalovanému, aby vstal, a dal mu obvyklou otázku: „Chcete ke své obhajobě něco připojit?“
 
@@ -1442,8 +1442,6 @@ Všechny zamrazilo, když slyšeli ten hlas; tak byl žalostný a strašlivý. 
 
 ## (11)  
 Champmathieu se diví a diví
-
-  
 
 Byl to skutečně pan Madeleine. Zapisovatelova lampa mu osvětlovala tvář. Pan Madeleine držel v ruce klobouk, v jeho oblečení nebyl patrný žádný nelad, redingot měl pečlivě zapnutý. Byl velmi bledý a lehce se chvěl. Vlasy, šedivé ještě v době, kdy dojel do Arrasu, byly teď docela bílé. Za tu hodinu, co seděl u soudu, zbělely.
 

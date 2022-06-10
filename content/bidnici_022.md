@@ -6,8 +6,6 @@ contentType: prose
 ## (1)  
 Klášter jako abstraktní pojem
 
-  
-
 Tato kniha je drama, v níž hlavní úlohu má nekonečno.
 
 Člověk hraje úlohu vedlejší.
@@ -18,8 +16,6 @@ Není namístě, abychom rozváděli některé myšlenky, ale i když si ponech
 
 ## (2)  
 Klášter jako dějinný činitel
-
-  
 
 Z hlediska dějin, rozumu a pravdy je klášternictví odsuzováno.
 
@@ -39,8 +35,6 @@ Ale skutečnosti se dají těžko pokroutit, brání se tomu. Osm mil od Bruselu
 
 ## (3)  
 Za jakých podmínek můžeme ctít minulost
-
-  
 
 Mnišství, jaké bývalo ve Španělích a jaké je posud v Tbetu, znamenalo pro lidskou civilizaci jakousi plicní nákazu. Ničí životy. Docela prostě vylidňuje, protože mnišství je kastrace. Bylo bičem Evropy. Připojte k tomu časté znásilňování svědomí, vynucené řeholní sliby, feudalismus, který se opíral o klášter, zákon prvorozenství, který nadpočetné členy rodiny vháněl do klášternictví, hrůzy, o kterých jsme právě mluvili, _inpace_, zavřená ústa, zazděné mozky, tolik vzdělaných nešťastníků vsazených do vězení, věčné sliby, slavnostní obřad oblékání řeholního roucha, pohřbívání ještě živých duší! Vzpomeňte i na utrpení jednotlivců, úpadek národů, a ať jste kdokoliv, zachvějete se před kutnou a závojem, dvěma rubáši, které si lidé vymyslili.
 
@@ -68,8 +62,6 @@ To je tedy řečeno, ale naskýtá se nám ještě náboženská otázka. Tato o
 
 ## (4)  
 Klášter z hlediska zásad
-
-  
 
 Lidé se sdružují a bydlí společně. Jakým právem? Každý má právo vyhledávat společnost.
 
@@ -102,8 +94,6 @@ Co to je?
 ## (5)  
 Modlitba
 
-  
-
 Modlí se.
 
 Ke komu?
@@ -126,8 +116,6 @@ Zákon praví: rozdrtit fanatismus a ctít nekonečno. Nechtějme jen poklekat 
 
 ## (6)  
 Absolutní hodnota modlitby
-
-  
 
 Jakákoli modlitba je dobrá, je-li upřímná. Svou modlitební knížku můžete mít třeba vzhůru nohama, ale ponořte se do nekonečna.
 
@@ -184,8 +172,6 @@ Ideál, absolutno, dokonalost, nekonečno; slova totožná.
 ## (7)  
 Buďme opatrní, chceme-li kárat
 
-  
-
 Historie a filozofie mají dva věčné úkoly, které jsou zároveň velmi prosté: potírat biskupa Kaifáše, soudce Drakonta, zákonodárce Trimalchiona a císaře Tiberia, to je jasné, přesné a průhledné a není v tom nic temného. Ale právo žít v ústraní i se svými nepříjemnostmi a svými zlořády chce být uznáváno a šetřeno. Klášternictví je jedním z lidských problémů.
 
 Mluvíme-Ii o klášterech, o místech omylů i nevinnosti, o místech poblouznění i dobré vůle, o místech nevědomosti i oddanosti, o místech mučení, ale i mučednictví, musíme téměř vždycky říkat ano i ne.
@@ -204,8 +190,6 @@ Spravedlivý svraští obočí, ale nevysmívá se. Chápeme rozhorlení, ale ne
 
 ## (8)  
 Víra, zákon
-
-  
 
 Ještě několik slov.
 

@@ -6,8 +6,6 @@ contentType: prose
 ## (1)  
 Trampoty s vodou v Montfermeil
 
-  
-
 Montfermeil leží mezi Livry a Chelles na jižním kraji náhorní planiny, která odděluje Ourcq od Marny. Dnes je to dost velký městys, který se po celý rok honosí vilami se sádrovou omítkou a v neděli rozesmátými měšťany. V roce 1823 tam nebylo ani tolik bílých domů, ani tolik spokojených měšťanů. Byla to jen dřevěná vesnice. Tu a tam bylo vidět několik vil z minulého století, které jste rozeznali po panském vzhledu, podle balkónů z tepaného železa a vysokých oken, jejichž malé tabulky tvořily na běli spuštěných žaluzií celou stupnici rozličných zelení. Nicméně byl Montfermeil vesnicí. Obchodníci na odpočinku a letní hosté ho dosud neobjevili. Bylo to místo klidné a pěkné, stranou všech důležitějších cest; žilo se tam lacino, jako vůbec na venkově, kde je všeho nadbytek a všechno po ruce. Jedině vody tu byl vzhledem k vysoko položené náhorní rovině nedostatek.
 
 Musilo se pro ni chodit dost daleko. Konec vesnice směrem ke Gagny čerpal vodu v překrásných rybnících v nedalekém lese; druhý konec, který se shlukl kolem kostela, nacházel pitnou vodu jen v malém prameni uprostřed návrší nedaleko silnice do Chelles, asi čtvrt hodiny od Montfermeil.
@@ -44,8 +42,6 @@ V přestávkách se odněkud z domu do hospodského hluku ozýval pláč malé
 
 ## (2)  
 Dvě dokreslené podobizny
-
-  
 
 V této knize jsme viděli Thénardierovy jenom z profilu; teď si tu dvojici obejdeme a podíváme se na ni ze všech stran.
 
@@ -95,8 +91,6 @@ Co se děje v duších, které právě vyšly z Boha a octnou se od svého ú
 
 ## (3)  
 Lidé potřebují víno a koně vodu
-
-  
 
 Přišli čtyři noví pocestní.
 
@@ -181,8 +175,6 @@ Cosetta vyšla. Dveře se zavřely.
 ## (4)  
 Na jeviště vstupuje panenka
 
-  
-
 Řada kramářských bud, která začínala u kostela, táhla se, jak si vzpomínáme, až k Thénardierově krčmě. Boudy byly osvětlené, protože měšťané měli co nevidět jít na půlnoční; a svíčky hořely v papírových kornoutech, což, jak řekl montfermeilský učitel, sedící v té chvíli u Thénardierova stolu, působilo „magicky“. Zato na nebi nebylo vidět ani hvězdičku.
 
 Poslední bouda stála zrovna proti dveřím Thénardierových; zářila cetkami, skleněným zbožím a nádhernými hračkami z plechu. Do první řady postavil kramář na bílý podklad velkou loutku asi dvě stopy vysokou, oblečenou do šatiček z růžového krepu, se zlatými vlasy na hlavě. Vlasy měla opravdové a oči emailové. Ten zázrak byl vystaven celý den k úžasu všech chodců méně než desetiletých, aniž se ovšem v Montfermeil našla matka dost bohatá nebo tak rozmařilá, aby ji svému dítěti koupila. Eponina a Azelma se na ni dívaly celé dvě hodiny a Cosetta se odvážila prohlédnout si ji jen potají.
@@ -197,8 +189,6 @@ Cosetta odběhla s vědrem, co jí nohy stačily.
 
 ## (5)  
 Osamělá holčička
-
-  
 
 Protože Thénardierova hospoda byla v části vesnice kolem kostela, musila Cosetta chodit pro vodu k lesní studánce směrem k Chelles.
 
@@ -254,8 +244,6 @@ Při každém setkání v životě se v člověku ozve pud. Dítě se nebálo.
 
 ## (6)  
 Důkaz o Boulatruellově soudnosti
-
-  
 
 Odpoledne toho Štědrého dne roku 1823 se jakýsi muž dosti dlouho procházel v nejopuštěnější části bulváru Hôpital v Paříži. Ten muž vypadal, jako by hledal byt; zdálo se, že se zastavuje u nejskromnějších domů sešlého okraje předměstí Saint-Marceau.
 
@@ -335,8 +323,6 @@ Když procházel křovím směrem k Montfermeil, zahlédl malý stín, který s
 
 ## (7)  
 Cosetta jde potmě vedle neznámého
-
-  
 
 Cosetta, jak jsme už řekli, neměla strach.
 
@@ -492,8 +478,6 @@ Muž jí podal vědro. Za okamžik byli u dveří krčmy.
 
 ## (8)  
 Je nepříjemné hostit chuďasa, který je možná bohatý
-
-  
 
 Cosetta se neubránila, aby nepohlédla směrem k velké loutce, stále ještě vystavené u hračkáře, načež zaklepala. Dveře se otevřely. Objevila se Thénardierová se svíčkou v ruce.
 
@@ -942,13 +926,13 @@ Potom se plíživým krokem vrátil do svého pokoje.
 ## (9)  
 Thénardier při práci
 
-  
-
 Nazítří ráno, alespoň dvě hodiny před svítáním, seděl Thénardier při svíčce u stolu v nízkém hostinském sále, v ruce držel péro a skládal účet pro muže ve žlutém redingotu.
 
 Žena stála nad ním lehce nakloněna a sledovala jeho práci. Nevyměnili mezi sebou ani slovo. Z jedné strany to bylo usilovné přemítání, z druhé zbožný obdiv, s jakým přihlížíme zrodu a rozkvětu zázračného lidského ducha. V domě se ozýval šelest; to Skřivánek metl schody.
 
 Za čtvrt hodiny a po několikerém vymazávání zplodil Thénardier toto veledílo:
+
+  
 
 ÚČET PRO PÁNA Z ČÍS. 1.
 
@@ -977,6 +961,8 @@ fr. 1,–
 Úhrnem
 
 fr. 23,–
+
+  
 
 Slovo obsluha bylo napsáno opsluha.
 
@@ -1169,8 +1155,6 @@ Cosetta kráčela vážně, široce otvírala velké oči a hleděla k obloze.
 ## (10)  
 Kdo si chce polepšit, často si pohorší
 
-  
-
 Podle zvyku nechala Thénardierová jednat manžela. Čekala, že se stane něco velikého. Když muž a Cosetta odešli, počkal Thénardier asi půl hodiny, potom vzal ženu stranou a ukázal jí patnáct set franků.
 
 „To je toho!“ řekla.
@@ -1239,6 +1223,8 @@ Než otevřel tobolku, rozhlédl se muž kolem sebe. Okolí bylo docela opuště
 
 Thénardier vzal papírek a četl:
 
+  
+
 _Montreuil-sur-Mer, 25. března 1823._
 
 _Pane Thénardiere!_
@@ -1301,8 +1287,6 @@ Podrost byl hustý a nutil Thénardiera, aby se k nim přiblížil. Muž se ot
 
 ## (11)  
 V loterii vychází číslo 9430 a Cosetta na ně vyhrává
-
-  
 
 Jean Valjean nebyl mrtev.
 
