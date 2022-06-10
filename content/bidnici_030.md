@@ -3,6 +3,8 @@ title: KNIHA ŠESTÁ Konjunkce dvou hvězd
 contentType: prose
 ---
 
+<section>
+
 ## (1)  
 Přezdívka: způsob, jak se tvoří příjmení
 
@@ -306,8 +308,12 @@ Domovník zdvihl nos a poznal Maria.
 
 „Poslyšte,“ řekl, „nejste vy přece jen od policie?“
 
-  
+</section>
+
+<section>
 
 [^213]: Fr. renesanční sochař.
 
 [^214]: Poslanec levice za restaurace a červencové monarchie.
+
+</section>

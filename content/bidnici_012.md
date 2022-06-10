@@ -3,6 +3,8 @@ title: KNIHA ŠESTÁ Javert
 contentType: prose
 ---
 
+<section>
+
 ## (1)  
 Začátek odpočinku
 
@@ -90,7 +92,9 @@ Thénardier však nechtěl dítě „pustit“ a udával sta nemožných důvod
 
 Fantina mu nadiktovala tento dopis, který jí dal podepsat:
 
-  
+</section>
+
+<section>
 
 _Pane Thénardiere!_
 
@@ -286,3 +290,5 @@ Tam se obrátil a se sklopenýma očima řekl:
 „Pane starosto, zůstanu na svém místě, dokud nebudu vystřídán.“
 
 A vyšel z místnosti. Pan Madeleine se zamyslil a naslouchal pevnému a jistému kroku, který se po dlaždicích chodby vzdaloval.
+
+</section>

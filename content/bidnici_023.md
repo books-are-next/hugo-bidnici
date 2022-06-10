@@ -3,6 +3,8 @@ title: KNIHA OSMÁ, Hřbitovy berou, co jim dáváme
 contentType: prose
 ---
 
+<section>
+
 ## (1)  
 Jak je možno vniknout do kláštera
 
@@ -1415,9 +1417,9 @@ Bydlil se starým Faucheleventem v domku na konci zahrady. Baráček postavený
 
 ![obr_01.jpg](./resources/obr_01_fmt.png)
 
-  
+</section>
 
-  
+<section>
 
 Tento vendéský asignát přibil na zeď předešlý zahradník, bývalý šuan, který zemřel v klášteře a po němž nastoupil Fauchelevent.
 
@@ -1507,7 +1509,9 @@ Jeho srdce jihlo vděčností a milovalo vroucněji a vroucněji.
 
 Tak uplynulo několik roků; Cosetta dorůstala.
 
-  
+</section>
+
+<section>
 
 [^131]: Tuto oběť tedy… (první slova modlitby).
 
@@ -1522,3 +1526,5 @@ Tak uplynulo několik roků; Cosetta dorůstala.
 [^136]: A světlo věčné ať mu svítí.
 
 [^137]: Ať odpočívá v pokoji.
+
+</section>

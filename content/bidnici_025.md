@@ -3,6 +3,8 @@ title: KNIHA PRVNÍ Paříž pod mikroskopem
 contentType: prose
 ---
 
+<section>
+
 ## (1)  
 Parvulus
 
@@ -226,7 +228,9 @@ Světnice, kterou Jondrette s rodinou obýval v Gorbeauově baráku, byla posl
 
 Povězme, kdo byl pan Marius.
 
-  
+</section>
+
+<section>
 
 [^138]: Obr z Camoẽsových „Lusovců“.
 
@@ -289,3 +293,5 @@ Povězme, kdo byl pan Marius.
 [^167]: Franc. lékař, vyslaný jako člen lékařské mise do Barcelony studovat mor, zemřel brzy po příjezdu do města (1821).
 
 [^168]: Budiž světlo (lat.).
+
+</section>

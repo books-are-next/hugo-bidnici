@@ -3,6 +3,8 @@ title: KNIHA SEDMÁ Vsuvka
 contentType: prose
 ---
 
+<section>
+
 ## (1)  
 Klášter jako abstraktní pojem
 
@@ -239,10 +241,14 @@ Tak přísný a ponurý život v klášteře, jaký jsme zde právě načrtli,
 
 My, kdo nevěříme tomu, v co věří tyto ženy, ale žijeme vírou jako ony, jsme nemohli nikdy pozorovat bez zbožné hrůzy a něžnosti a bez jakéhosi závistivého soucitu ty oddané, chvějící se a důvěřivé tvory, ty pokorné a vznešené duše, které se odvažují žít nad srázem záhad, které obráceny k neviditelnému světlu čekají mezi světem, jenž se jim uzavřel, a nebem, které se ještě neotevřelo. Jedinou útěchou je jim myšlenka, že vědí, kde ono světlo je, že touží po propastech a neznámu s okem upřeným do nehybných temnot a klečí zmámené, překvapené, rozechvělé a někdy povznášené hlubokým dechem věčnosti.
 
-  
+</section>
+
+<section>
 
 [^128]: Doživotní temnice.
 
 [^129]: Nakřídovaný vůl (lat.).
 
 [^130]: Voltaire vybudoval Bohu (lat. nápis na ferneyském kostele).
+
+</section>

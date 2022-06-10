@@ -3,6 +3,8 @@ title: KNIHA PRVNÍ Waterloo
 contentType: prose
 ---
 
+<section>
+
 ## (1)  
 S čím se setkáváme cestou z Nivelles
 
@@ -648,7 +650,9 @@ Lupič rychle a tiše odpověděl:
 
 „Na tohle jméno nezapomenu. A vy si zapamatujte moje. Jmenuji se Pontmercy.“
 
-  
+</section>
+
+<section>
 
 [^92]: Něco temného, tj. temná stránka (lat.).
 
@@ -695,3 +699,5 @@ Lupič rychle a tiše odpověděl:
 [^112]: Rezidence na ostrově sv. Heleny.
 
 [^113]: Vy se takhle přičiňujete, a nic z toho nemáte (z Vergilia).
+
+</section>

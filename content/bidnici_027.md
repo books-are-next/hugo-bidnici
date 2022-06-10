@@ -3,6 +3,8 @@ title: "KNIHA TŘETÍ Děd a\_vnuk"
 contentType: prose
 ---
 
+<section>
+
 ## (1)  
 Staromódní salón
 
@@ -12,36 +14,48 @@ Kolem roku 1817 trávíval pravidelné dvě odpoledne v týdnu v nedalekém do
 
 Radostně tam vítali hanlivé písničky, v nichž se Napoleonovi říkalo Nicolas. Vévodkyně, nejjemnější a nejpůvabnější ženy světa, se rozplývaly nad popěvky namířenými zase proti účastníkům federační slavnosti:
 
-  
+</section>
+
+<section>
 
 _Do kalhot si zastrčte  
 čouhající košili,  
 ať neřeknou, že vlastenci  
 zas bílý prapor vztyčili._
 
-  
+</section>
+
+<section>
 
 Bavili se hádankami, které pokládali za hrozné, nevinnými slovními hříčkami, o nichž si myslili, že jsou jedovaté, a konečně i čtyřveršími a distichy. Tak na mírný kabinet Dessollesův, jehož členy byli pánové Decazes a Deserre, byla spáchána tato slovní hříčka:
 
-  
+</section>
+
+<section>
 
 _Pour raffermir le trône ébranlé sur sa base,  
 Il faut changer de sol, et de serre et de case.  
 (Chcete-li upevnit svůj otřesený trůn,  
 Vyměňte pozemek, skleník i dům.)_
 
-  
+</section>
+
+<section>
 
 Nebo sestavovali seznam členů sněmovny, „té hnusně jakobínské sněmovny“, nebo řadili jména tak, že tvořila směšné věty, jako je tato: Damas, Sabran, Gouvion Saint-Cyr.[^173]
 
 V této společnosti se parodovala revoluce; rádi překrucovali a zveličovali výbuchy revolučního hněvu a zpívali své malicherné „Ça ira.“
 
-  
+</section>
+
+<section>
 
 _„Ah! Ça ira! Ça ira! Ça ira!  
 Les buonapartisť à la lanterne.[^174]_
 
-  
+</section>
+
+<section>
 
 Hanlivé popěvky jsou jako gilotina; stínají lhostejně dnes tu, zítra onu hlavu. Je to jen obměna.
 
@@ -629,7 +643,9 @@ Marius odešel; neřekl, kam jde, nevěděl, kam jde; měl třicet franků, hodi
 
 Co se stane s Mariem?
 
-  
+</section>
+
+<section>
 
 [^171]: Spisovatel a filozof.
 
@@ -656,3 +672,5 @@ Co se stane s Mariem?
 [^182]: Jeviště bitvy z r. 1214 v sev. Francii, v níž Filip II. August porazil něm. císaře Otu IV. a zajistil Francii nadvládu v Evropě.
 
 [^183]: Vůdce pařížské tlupy zlodějů.
+
+</section>

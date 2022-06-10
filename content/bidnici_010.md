@@ -3,6 +3,8 @@ title: KNIHA ČTVRTÁ Na důvěru se často doplácí
 contentType: prose
 ---
 
+<section>
+
 ## (1)  
 Setkání dvou matek
 
@@ -20,11 +22,15 @@ Obě děti, půvabně a s jistou pečlivostí vystrojené, jen zářily – j
 
 Kolébajíc své dvě maličké broukala si matka falešným hlasem tehdy oblíbenou romanci:
 
-  
+</section>
+
+<section>
 
 _„Není zbytí, praví rytíř…“_
 
-  
+</section>
+
+<section>
 
 Zaujata zpěvem a pozorováním dětí, neviděla ani neslyšela, co se děje kolem ní na ulici.
 
@@ -32,11 +38,15 @@ Mezitímco začala zpívat první sloku romance, přiblížil se k ní kdosi, a
 
 „Máte to dvě rozkošné děti, paní.“
 
-  
+</section>
+
+<section>
 
 _„… krásné něžné Imogeně,“_
 
-  
+</section>
+
+<section>
 
 _odpověděla matka, pokračujíc ve zpěvu, a pak se otočila._
 
@@ -82,12 +92,16 @@ I nejdivočejší tvorové jsou odzbrojeni, pohladíme-li jejich mláďata. Mat
 
 Pak, v duchu stále u své romance, bručela dál mezi zuby:
 
-  
+</section>
+
+<section>
 
 _„Heroj jsem a není zbytí,  
 musím dobýt Svaté země.“_
 
-  
+</section>
+
+<section>
 
 Paní Thénardierová byla zrzavá, masitá a hranatá žena; hotová vojanda se vší myslitelnou nepůvabností. Podivné bylo, že ráda četla romantické historie. Byla to ufňukaná mužatka. Staré romány, které jsou na to, aby rozdíraly obraznost kuchařek, mívají takový vliv. Byla ještě mladá; stěží třicet let. Kdyby se ta sedící žena vzpřímila, snad by její velká postava a hranatost jarmareční obryně počestnou ženu hned zpočátku poděsily; snad by byly zviklaly její důvěru tak, že by se nebylo stalo to, o čem hodláme vyprávět. Někdy závisí celý lidský osud na tom, zda někdo seděl, místo aby stál.
 
@@ -151,11 +165,15 @@ V tu chvíli se ozval mužský hlas, který křičel zevnitř krčmy:
 
 „Dohromady sedmapadesát franků,“ řekla paní Thénardierová. A zatímco počítala, slabě si prozpěvovala:
 
-  
+</section>
+
+<section>
 
 _„Není zbytí, praví rytíř…“_
 
-  
+</section>
+
+<section>
 
 „Dám je,“ řekla matka, „mám osmdesát franků. Ještě mi něco zůstane na cestu domů, půjdu-li pěšky. Tam u nás si něco vydělám, a až si nějaký ten groš nastřádám, vrátím se pro svého miláčka.“
 
@@ -253,8 +271,12 @@ Lidu, který rád mluví obrazně, se zalíbilo jmenovat tak to stvořeníčko, 
 
 Jenomže Skřivánek, chudinka, nikdy nezpíval.
 
-  
+</section>
+
+<section>
 
 [^82]: Preciózní dílo Madeleine de Scudéry.
 
 [^83]: Hrdinka „Dobrodružství rytíře Faublase“ od Louveta de Couvray.
+
+</section>

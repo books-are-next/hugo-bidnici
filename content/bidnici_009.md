@@ -3,6 +3,8 @@ title: KNIHA TŘETÍ Rok 1817
 contentType: prose
 ---
 
+<section>
+
 ## (1)  
 Rok 1817
 
@@ -126,7 +128,9 @@ Když si prohlédli stromek, zvolal Tholomyès:
 
 Když ujednal poplatek s oslařem, vrátili se přes Vanves a Issy. V Issy se zastavili. Park, dnes národní majetek, který tehdy patřil zbrojaři Bourguinovi, byl náhodou otevřen. Prošli branou, navštívili sochu poustevníka v jeskyni, vyzkoušeli různé tajemné hříčky pověstného zrcadlového salónu, chlípné zbytečnosti hodné satyra, který se stal milionářem, nebo Turcareta[^64] proměněného v Priapa. Důkladně se pohoupali ve velké síti, přivázané ke dvěma kaštanům, které proslavil abbé de Bernis ve svých básních. Zatímco za vše­obecného smíchu mládenci houpali jednu krasavici po druhé, až děvčatům poletovaly sukně, že by si i Greuze přišel na své, zanotoval Tholomyès, tak trochu Španěl, neboť Toulouse je sestřenicí Tolosy, melancholický nápěv staré písně _gallegy_, pravděpodobně inspirované spanilou dívkou, míhající se v prudce rozhoupané houpačce mezi dvěma stromy:
 
-  
+</section>
+
+<section>
 
 _Soy de Badajoz.  
 Amor me flama.  
@@ -135,7 +139,9 @@ Es en mi ojos
 Porque enseñas  
 A tus piemas.[^65]_
 
-  
+</section>
+
+<section>
 
 Jediná Fantina se nechtěla dát houpat.
 
@@ -158,12 +164,16 @@ Když dostatečně užili ruské skluzavky, pomyslili na oběd; a rozjařená o
 
 Velký, ale ošklivý pokoj s přístěnkem a postelí vzadu (protože v neděli byl hostinec přeplněný, musili vzít zavděk tímto pelechem); dvěma okny mohli za jilmy pozorovat nábřeží a řeku; nádherný srpnový paprsek lehce klouzal po oknech; dva stoly; na jednom pyšná hora kytic pomíchaných s dámskými a pánskými klobouky; za druhým usedly čtyři dvojice kolem lákavého nakupení mis, talířů, sklenic a lahví; džbánky piva se pletly mezi lahvemi vína; málo pořádku na stole a pod ním nepořádek:
 
-  
+</section>
+
+<section>
 
 _zpod stolu vycházel hluk,  
 jako když ryčným pochodem hlomozí pluk,_
 
-  
+</section>
+
+<section>
 
 jak říká Molière.
 
@@ -171,20 +181,28 @@ Tak vypadala kolem půl páté večer selanka, která začala o páté ranní. 
 
 Champs-Elysées, plné slunce a davu, byly jen zář a prach, dvě věci, z nichž se skládá sláva. Obě mramorová sousoší „koní z Marly“ se vzpínala a řičela v zlatisté mlze. Kočáry projížděly sem tam. Škadrona skvělé osobní stráže s trubačem v čele kráčela po třídě Neuilly; bílý prapor, lehce zarůžovělý září zapadajícího slunce, se třepotal na báni Tuilerií. Náměstí Svornosti, které se opět stalo náměstím Ludvíka XV., překypovalo procházejícími se spokojenými lidmi. Nemálo z nich mělo stříbrnou lilii na bílé moaré stužce, která v roce 1817 ještě docela nezmizela z knoflíkových dírek. Sem tam uprostřed přizvukujících hloučků zpívaly malé holčičky, točící se v kole, bourbonskou písničku, která byla tehdy velice oblíbená, protože pomáhala zesměšňovat stodenní vládu, a která končila opakováním věty:
 
-  
+</section>
+
+<section>
 
 _Vraťte nám z Gentu našeho otce,  
 vraťte nám našeho tatíčka._
 
-  
+</section>
+
+<section>
 
 Houfy svátečně nastrojených obyvatel předměstí, tu a tam i s odznaky bourbonských lilií, jaké nosili měšťáci, se rozlévaly po velkém náměstí a po náměstí Marigny, házely kroužky, jezdily na kolotoči; někteří lidé popíjeli; jiní, jako sazečští učňové, měli papírové čáky; bylo slyšet jejich smích. Všechno se veselilo. Byl to čas nepopiratelného míru a hluboké bezpečnosti královské vlády; byla to doba, ve které důvěrné a zvláštní hlášení policejního prefekta Anglèse králi o pařížských předměstích končilo těmito řádky:
 
-  
+</section>
+
+<section>
 
 _„Uvážíme-li, Sire, dobře všechny okolnosti, není třeba se bát lidí. Jsou bezstarostní a neteční jako kočky. Prostý lid na venkově je nepokojný, obyvatelé Paříže nikoli. Jsou to všechno drobní lidé. Ze dvou, Vaše Veličenstvo, by se dal udělat jeden Váš granátník. Lůza hlavního města nebudí strach. Je nápadné, jak obyvatelstvo v posledních padesáti letech zakrnělo; lidé z předměstí Paříže jsou menší než před revolucí. Nejsou nebezpeční. Celkem je to neškodná holota.“_
 
-  
+</section>
+
+<section>
 
 Že by se kočka mohla proměnit ve lva, to považovali policejní prefekti za nemožné; ale stalo se to, a v tom je právě zázračná síla pařížského lidu. Ostatně kočka tak podceňovaná panem hrabětem Anglèsem byla uctívána v antických republikách; v očích jejich občanů ztělesňovala svobodu a jako protějšek k Minervině bezkřídlé soše v Pireu byla na veřejném náměstí v Korintě postavena ohromná bronzová kočka. Naivní policie z doby restaurace soudila pařížský lid příliš shovívavě. Ať si tomu věří, kdo chce a jak chce, není to „neškodná holota“. Pařížan je Francii tím, čím byl Athéňan Řecku; nikdo nespí tak dobře jako on, nikdo není upřímněji lehkomyslnější a línější než on, nikdo se neumí lépe přetvařovat, že zapomněl, než on, ale ať mu nikdo nevěří; je schopen si ničeho nevšímat, ale jde-li za slávou, je ve svém zápalu hoden obdivu. Dejte mu píku, a provede vám 10. srpen; dejte mu pušku, a máte Slavkov. Je oporou Napoleonovi a silou Dantonovou. Je vlast v sázce? Dá se naverbovat k vojsku. Jde o svobodu? Trhá dlažbu a staví barikády. Pozor! Jeho kštice srší hněvem jako v eposu; jeho halena se řasí v antickou řízu. Střezte se! Z první nahodilé uličky Greneta[^66] učiní kaudinskou soutěsku[^67]. Udeří-li hodina, človíček z předměstí vyroste, vstane, hrozivě se rozhlédne, jeho hlas zaburácí a z jeho ubohé hrudi vyrazí mocný dech, který srovná Alpy s rovinami. Díky mužům z pařížských předměstí dobyla revoluce v čele vojsk celé Evropy.
 
@@ -280,7 +298,9 @@ Tholomyès se odmlčel.
 
 V téže chvíli Blachevelle opřený o Listoliera a Fameuile zanotoval žalostný nápěv písničky, která vzniká při práci a je složená ze slov, která namátkou přijdou na mysl, s bohatým rýmem anebo vůbec bez rýmu, a bez smyslu, jako jsou pohyby větví stromů a hukot větru, písničky, která se rodí v dýmu dýmky a s dýmem se rozplyne a rozptýlí. Společnost odpověděla na Tholomyèsovo řečnění touto písničkou:
 
-  
+</section>
+
+<section>
 
 _Propána, to byla rána.  
 Konšelíci – konšelé  
@@ -296,7 +316,9 @@ A tak musil zlostný brášek
 vrátit pánům zlatý prášek,  
 nebylo mu vesele._
 
-  
+</section>
+
+<section>
 
 To však neuklidnilo Tholomyèsovu improvizační horečku; vyprázdnil skleničku, nalil si novou a pokračoval:
 
@@ -357,14 +379,18 @@ Ještě poslední slovo. Víte, kdo to byla Aspasie, mé dámy? Ačkoliv žila z
 
 Tholomyès, jednou v rozběhu, by se byl těžko zarazil, kdyby na nábřeží právě nebyl klesl kůň. Náraz, a vůz i řečník uvízli. Byla to klisna z Beauce, stará hubená klisna, která patřila už rasovi a táhla příliš těžkou káru. Když se vyčerpané a zmořené zvíře dovleklo až před Bombardův hostinec, odmítlo jít dál. Příhoda vyvolala sběh lidí. Rozhořčený vozka měl sotva čas vyslovit s patřičnou energií nadávku _mrcho!_, zdůrazněnou nesmiřitelným šlehnutím biče, když ubohá herka klesla a už nevstala. Vyrušeni hlukem z ulice, Tholomyèsovi rozdovádění posluchači se obrátili k oknu a Tholomyès toho použil, aby skončil svou řeč touto melancholickou slokou:
 
-  
+</section>
+
+<section>
 
 _Žila si na světě, kde kočár, ba i kára  
 má osud podobný.  
 Jsouc herkou, dřela se. A když už byla stará,  
 vzal si ji pohodný._
 
-  
+</section>
+
+<section>
 
 „Ubohý kůň,“ vzdychla Fantina.
 
@@ -445,7 +471,9 @@ SLIBOVANÉ PŘEKVAPENÍ.
 
 Rychle roztrhla obálku, otevřela dopis a četla (uměla číst):
 
-  
+</section>
+
+<section>
 
 _Drahé milenky!_
 
@@ -459,7 +487,9 @@ _Blachevelle, Fameuil, Listolier, Felix Tholomyès_
 
 _Douška: Oběd je zaplacen._
 
-  
+</section>
+
+<section>
 
 Čtyři dívky na sebe pohlédly.
 
@@ -483,7 +513,9 @@ Fantina se smála jako ostatní.
 
 Když se vrátila asi za hodinu do svého pokojíčku, dala se do pláče. Tholomyès byl – jak jsme řekli – její první láska; oddala se mu jako svému choti a měla s ním chudinka dítě.
 
-  
+</section>
+
+<section>
 
 [^33]: Jeho báseň byla vyznamenána Institutem; překládal ze sanskrtu.
 
@@ -582,3 +614,5 @@ Když se vrátila asi za hodinu do svého pokojíčku, dala se do pláče. Tholo
 [^80]: Láska je pro všechny stejná.
 
 [^81]: Dopravní společnosti majitelů dostavníků.
+
+</section>

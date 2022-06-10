@@ -3,6 +3,8 @@ title: KNIHA ŠESTÁ Klášter Petit-Picpus
 contentType: prose
 ---
 
+<section>
+
 ## (1)  
 Ulička Picpus číslo 62
 
@@ -199,7 +201,9 @@ Na drnovém sedátku v zahradě improvizovala jednou šestiletá růžová pusi
 
 A ještě jednu básničku:
 
-  
+</section>
+
+<section>
 
 „Přišla jednou rána holí.
 
@@ -209,7 +213,9 @@ To jí nedělalo dobře, to přece bolí.
 
 A tak ho tedy jedna paní vsadila do vězení.“
 
-  
+</section>
+
+<section>
 
 Zde se také ozvala něžná a srdcervoucí slova malého dívčího sirotka, nalezence, kterého vychovával klášter z útrpnosti. Holčička slyšela, jak ostatní děti vykládají o svých maminkách, a ve svém koutku si povzdechla:
 
@@ -309,7 +315,9 @@ Kolem roku 1820 nebo 1821 požádala o přijetí do klášterního útulku v P
 
 Odcházejíc nechala po sobě stopu ve své cele. Paní de Genlis byla pověrčivá a latinářka. Tyto dva pojmy odhalují její povahu. Ještě po několika letech byly ve skřínce její cely, v níž skrývala své stříbro a šperky, nalepeny latinské verše vlastnoručně psané červeným inkoustem na žlutém papíře, verše, které, jak se paní de Genlis domnívala, měly moc vyplašit zloděje:
 
-  
+</section>
+
+<section>
 
 _Imparibus meritis pendent tria corpora ramis;  
 Dismas et Gesmas, media est divina potestas;  
@@ -317,7 +325,9 @@ Alta petit Dismas, infelix, infima, Gesmas.
 Nos et res nostras conservet summa potestas.  
 Hos versus dicas, ne tu furto tua perdas.[^122]_
 
-  
+</section>
+
+<section>
 
 Tyto verše psané latinou šestého století budí pochybnost, zda se oba lotři na Kalvárii jmenovali, jak se má za to, Dismas a Gestas, nebo Dismas a Gesmas. Takto psané jméno by asi bylo v minulém století mluvilo proti vikomtu Gestasovi, který si osoboval právo odvozovat svůj původ od lotra visícího po Kristově levici. Ostatně působivost připisovaná těmto veršům tvoří věroučný článek řehole milosrdných sester.
 
@@ -406,7 +416,9 @@ Studujme zatím věci, které už nejsou. Je dobře je znát, třebas i jen pro
 
 Otázka klášterů je složitá. Civilizace kláštery zatracuje a svoboda je bere v ochranu.
 
-  
+</section>
+
+<section>
 
 [^120]: Hříčka: jméno starověkého tyrana = Agáta s klíči – A. aux clés (fr.).
 
@@ -423,3 +435,5 @@ Otázka klášterů je složitá. Civilizace kláštery zatracuje a svoboda je 
 [^126]: Uletěly.
 
 [^127]: Zde ležím, žila jsem 23 let.
+
+</section>

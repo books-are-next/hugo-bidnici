@@ -3,6 +3,8 @@ title: KNIHA ČTVRTÁ Gorbeauův barák
 contentType: prose
 ---
 
+<section>
+
 ## (1)  
 Mistr Gorbeau
 
@@ -12,11 +14,15 @@ Byla to stará čtvrť koňského trhu, Marché-aux-Chevaux.
 
 Odvážil-li se chodec za čtyři vetché zdi tohoto Marchéaux-Chevaux, uvolil-li se projít ulicí Petit-Banquier, minout po pravé straně zahradu střeženou vysokou zdí, pak louku s kupami třísla, podobnými doupatům obrovských bobrů, pak ohradu plnou trámů s hromadami pařezů, drtin a hoblovaček, na jejichž vrcholku štěkal velký hafan, a pak dlouhou nízkou pobořenou zídku s černými smutečními vrátky, zídku obrostlou mechem a zjara na nejpustším místě prokvétající květinami, a ještě strašnou sešlou budovu, na níž bylo velkými písmeny napsáno:
 
-  
+</section>
+
+<section>
 
 ZDE SE ZAPOVÝDÁ LEPYT PLAGÁTY,
 
-  
+</section>
+
+<section>
 
 dostal se odvážný chodec na nároží ulice Vignes-SaintMarcel do málo známých končin. V těch místech, nedaleko jakési továrny a mezi dvěma zahradními zdmi, stál v těch časech barák, který se na první pohled zdál malý jako chaloupka, ale ve skutečnosti byl rozlehlý jako katedrála. Do ulice byl obrácen bokem, lomenicí; proto vypadal tak nepatrně. Téměř celý dům byl zakryt. Bylo vidět jen vrata a okno.
 
@@ -42,7 +48,9 @@ Prozraďme, jak ten název vznikl.
 
 Sběratelé drobných událostí, kteří si zakládají herbáře z anekdot a špendlíčkem připichují prchavá data do své paměti, vědí, že ke konci minulého století, kolem roku 1770, byli v soudní budově Châteletu dva advokáti, z nichž jeden se jmenoval Corbeau (Vrána) a druhý Renard (Liška). Dvě jména, o něž se postaral La Fontaine. Byla to příliš svůdná příležitost, aby si cech soudních písařů na nich nebrousil vtip. Po galeriích soudního paláce kolovala parodie s pokulhávajícími verši:
 
-  
+</section>
+
+<section>
 
 _Na vysokém dubě,  
 výměr maje v hubě,  
@@ -54,7 +62,9 @@ k soudci Corbeau lichotivě
 takto mluvit ráčí:  
 Jak jsi vtipný… atd._
 
-  
+</section>
+
+<section>
 
 Oba ctihodní právníci, dotčení nepodařenými šprýmy a podráždění výbuchy smíchu, který provázel jejich důstojné vystupování, se odhodlali zbavit se svých jmen a rozhodli se obrátit přímo na krále. Žádost byla předložena Ludvíku XV. právě v den, kdy papežský nuncius z jedné a kardinál de La Roche-Aymon z druhé strany, oba zbožně klečíce, obouvali v přítomnosti Jeho Veličenstva každý jeden pantoflíček na bosé nohy paní Du Barry, která vstávala z postele. Smějící se král se nepřestal smát, vesele přešel od obou biskupů k oběma advokátům a milostivě dovolil soudním talárníkům změnu jména nebo aspoň jeho obměnu. Mistru Corbeauovi bylo králem dovoleno přidat k začátečnímu písmenu kličku a jmenovat se Gorbeau; mistr Renard byl méně šťasten, směl přidati jen P před R a jmenovat se Prenard (Hrabivec); takže druhé jméno nebylo o nic lepší než první.
 
@@ -288,6 +298,10 @@ Vrátil se nahoru.
 
 Vzal ji za ruku a oba vyšli z domu.
 
-  
+</section>
+
+<section>
 
 [^119]: Starobinec a ústav choromyslných.
+
+</section>

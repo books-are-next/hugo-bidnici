@@ -3,6 +3,8 @@ title: KNIHA TŘETÍ Vyplnění slibu daného mrtvé
 contentType: prose
 ---
 
+<section>
+
 ## (1)  
 Trampoty s vodou v Montfermeil
 
@@ -932,7 +934,9 @@ Nazítří ráno, alespoň dvě hodiny před svítáním, seděl Thénardier př
 
 Za čtvrt hodiny a po několikerém vymazávání zplodil Thénardier toto veledílo:
 
-  
+</section>
+
+<section>
 
 ÚČET PRO PÁNA Z ČÍS. 1.
 
@@ -962,7 +966,9 @@ fr. 1,–
 
 fr. 23,–
 
-  
+</section>
+
+<section>
 
 Slovo obsluha bylo napsáno opsluha.
 
@@ -1223,7 +1229,9 @@ Než otevřel tobolku, rozhlédl se muž kolem sebe. Okolí bylo docela opuště
 
 Thénardier vzal papírek a četl:
 
-  
+</section>
+
+<section>
 
 _Montreuil-sur-Mer, 25. března 1823._
 
@@ -1301,3 +1309,5 @@ Jinak se policejní orgány domnívaly, že je mrtev, což činilo tmu, která h
 Večer toho dne, kdy Jean Valjean vyrval Cosettu ze spárů Thénardierových, vrátil se do Paříže. Nastávala noc, když s dítětem vcházel Monceauxskou branou; zde nasedl do kabrioletu a dal se dovézt na prostranství u observatoře. Tam vystoupil, zaplatil kočímu, vzal Cosettu za ruku a oba se vydali černou tmou opuštěnými ulicemi Ourcine a Glacière k bulváru Hôpital.
 
 Pro Cosettu to byl den plný údivu a dojmů; za křovím jedli chléb a sýr kupovaný v osamělých hospodách, často měnili povoz, kusy cesty šli pěšky; Cosetta si nestěžovala, ale byla unavená a Jean Valjean to poznal podle ruky, za kterou ji musil cestou víc a víc táhnout. Vzal ji na záda; Cosetta, aniž pustila Kateřinu, položila Jeanu Valjeanovi hlavu na rameno a usnula.
+
+</section>

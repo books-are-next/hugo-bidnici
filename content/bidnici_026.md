@@ -3,6 +3,8 @@ title: KNIHA DRUHÁ Velký měšťan
 contentType: prose
 ---
 
+<section>
+
 ## (1)  
 Devadesát let a dvaatřicet zubů
 
@@ -75,8 +77,12 @@ Mezi starcem a starou pannou vyrůstal v tomto domě ještě chlapec, který s
 
 Byl to jeho vnuk. S tím dítětem se ještě sejdeme.
 
-  
+</section>
+
+<section>
 
 [^169]: Středisko burzovních spekulací.
 
 [^170]: Lesy by měly být hodny konzula (z Vergiliových Zpěvů pastýřských IV, 3).
+
+</section>

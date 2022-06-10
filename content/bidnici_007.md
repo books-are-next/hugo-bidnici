@@ -3,6 +3,8 @@ title: KNIHA PRVNÍ Člověk spravedlivý
 contentType: prose
 ---
 
+<section>
+
 ## (1)  
 Myriel
 
@@ -91,7 +93,9 @@ Nazítří usadili šestadvacet ubožáků v biskupově paláci a biskup se na
 
 Myriel byl chudý, protože jeho rodina byla ožebračena revolucí. Jeho sestra dostávala pět set franků doživotní renty, které na faře stačily taktak na její osobní vydání. Jako biskup pobíral Myriel od státu patnáct tisíc franků. Právě v den, kdy se ubytoval v budově nemocnice, určil jednou provždy, jak léto částky užít. Přepisujeme zde rozpočet psaný jeho vlastní rukou:
 
-  
+</section>
+
+<section>
 
 _Vydání na domácnost_
 
@@ -165,7 +169,9 @@ Má osobní vydání
 
 15 000 franků
 
-  
+</section>
+
+<section>
 
 Po celý čas, co Myriel zastával biskupský úřad v Digne, neměnil nic na tomto uspořádání. Nazýval to, jak vidíme, účtem za vydání na domácnost.
 
@@ -185,19 +191,27 @@ A dovolával se svých náležitostí.
 
 O něco později uvážila nejvyšší rada jeho žádost a odhlasovala mu tři tisíce franků ročně s tímto úředním záznamem:
 
-  
+</section>
+
+<section>
 
 > _Příspěvek panu biskupovi na vydání za kočár, poštovní výlohy a za úřední cesty._
 
-  
+</section>
+
+<section>
 
 Tento příspěvek značně popudil místní šosáky a jistý císařský senátor, bývalý člen rady pěti set, stoupenec osmnáctého brumairu, zaopatřený skvělou dotací blízko města Digne, napsal tehdy ministrovi kultu, panu Bigotovi de Préameneu, podrážděný a důvěrný lístek, z něhož vyjímáme tyto prokázané řádky:
 
-  
+</section>
+
+<section>
 
 _„– Vydání na kočár? Na co, v městě s méně než čtyřmi tisíci obyvateli? Vydání za úřední cesty? Nejprve – k čemu cesty a konečně – jak bude jezdit v naší hornaté krajině? Silnice tu nejsou. Jezdíme jen koňmo. Most přes Durance v Château-Arnoux sotva unese káru s voly. Ti kněží jsou všichni stejní, nenasytní a lakomí. Když přišel, hrál si na apoštola. Teď to dělá jako ostatní. Zachtělo se mu kočáru a poštovního vozu. Potřebuje přepych jako dřívější biskupové. Ach! Čert vem všechny ty kněžoury! Věci se nezlepší, pane hrabě, dokud nás císař těch jezovitů nezbaví. Pryč s papežem! (Poměr s Římem byl zkalen.) Co se mne týče, jsem jen pro Caesara a pro nikoho jiného. Atd. atd.“_
 
-  
+</section>
+
+<section>
 
 Paní Magloirová měla naopak velkou radost.
 
@@ -205,7 +219,9 @@ Paní Magloirová měla naopak velkou radost.
 
 Týž večer biskup napsal a předložil své sestře tento rozpočet:
 
-  
+</section>
+
+<section>
 
 _Příplatek na kočár a úřední cesty:_
 
@@ -235,7 +251,9 @@ Sirotkům
 
 3 000 franků
 
-  
+</section>
+
+<section>
 
 To byl Myrielův rozpočet.
 
@@ -612,7 +630,9 @@ Sestra vypravuje o bratrovi
 
 Abychom vám dali nahlédnout do domácnosti dignského biskupa a pověděli, jak obě zbožné ženy podřizovaly své jednání, své myšlenky a dokonce i své plaché ženské instinkty biskupovým zvykům a záměrům, aniž musil promluvit a dát je najevo, nemůžeme učinit nic lepšího, než opsat dopis slečny Jany přítelkyni z mladých let, paní vikomtese Boischevronové.
 
-  
+</section>
+
+<section>
 
 _V Digne, 16. prosince 18.._
 
@@ -648,7 +668,9 @@ _Jana_
 
 _P. S. Váš synoveček je půvabný. Víte, že už mu bude pět let? Včera viděl na ulici koně s nákolenicemi a zvolal: „Co to má na nožičkách?“ To děcko je tak hodné! Jeho bratříček vláčí za sebou po bytě staré koště jako vůz a křičí: „Hyjé!“_
 
-  
+</section>
+
+<section>
 
 Jak vidíme z dopisu, obě ženy se dovedly přizpůsobit biskupovým zvyklostem oním ryze ženským důvtipem, který chápe člověka lépe než on sám sebe. V neměnitelně vlídném a cudném prostředí konal dignský biskup veliké, odvážné a vznešené věci, aniž se zdálo, že tuší jejich obsah. Obě ženy se o něho třásly, ale nechávaly jej na pokoji. Někdy se paní Magloirová pokusila o připomínku, než se biskup rozhodl; ale mlčela, když jednal, a tím spíš po činu. V díle jednou počatém ho nikdy ani posuňkem nerušily. V některých chvílích, aniž o tom musil mluvit a aniž si to sám ve své dokonalé prostotě uvědomoval, obě ženy nejasně cítily, že jejich pán jedná jako biskup; a nebyly pak ničím víc než dvěma stíny v domě. Sloužily mu trpně, a bylo-li třeba zmizet, poslušně mizely. Jemným instinktem obdivuhodně chápaly, že i starostlivost může být někdy obtížná. A i tehdy, když se domnívaly, že mu hrozí nebezpečí, chápaly, neříkám jeho myšlenku, ale jeho povahu do té míry, že nad ním nebděly. Svěřovaly ho Pánu Bohu.
 
@@ -993,7 +1015,9 @@ Biskup se uzavíral, žil, byl dokonale spokojen a nechával stranou nadpřiroz
 
 Monsignore Lidumil byl pouze člověk, který zvenčí ohledával tajemné otázky, aniž je zkoumal, aniž je převracel a aniž jimi kalil svého ducha, člověk, který měl v duši hlubokou úctu k záhadám.
 
-  
+</section>
+
+<section>
 
 [^1]: Ale pane, je to rozumné?
 
@@ -1056,3 +1080,5 @@ Monsignore Lidumil byl pouze člověk, který zvenčí ohledával tajemné otáz
 [^30]: Protože mnoho miloval(a) (z Evangelia sv. Lukáše: … „odpuštěni jsou jí hříchové mnozí“, tj. kajícnici).
 
 [^31]: Autor posvátných bráhmanských knih.
+
+</section>
