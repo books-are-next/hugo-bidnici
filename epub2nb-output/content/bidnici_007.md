@@ -6,8 +6,6 @@ contentType: prose
 ## (1)  
 Myriel
 
-  
-
 V roce 1815 byl dignským biskupem Karel František Lidumil Myriel. Byl to stařec asi pětasedmdesátiletý; biskupský úřad v Digne zastával od roku 1806.
 
 Ačkoliv se tato podrobnost v podstatě nijak netýká toho, o čem se chystáme vyprávět, není snad neužitečné – byť to bylo jen pro přesnost – zmínit se už zde o řečech a pověstech, které kolovaly na jeho vrub od chvíle, kdy přišel do diecéze. Povídání o lidech, ať už pravdivé nebo nepravdivé, zabírá zpravidla v jejich životě, a zvláště v jejich osudech, právě tolik místa jako to, co dělají.
@@ -44,8 +42,6 @@ Když skončila instalace, čekalo město na biskupovy skutky.
 
 ## (2)  
 Myriel se stává monsignorem Lidumilem
-
-  
 
 Biskupský palác sousedil s nemocnicí.
 
@@ -95,147 +91,81 @@ Nazítří usadili šestadvacet ubožáků v biskupově paláci a biskup se na
 
 Myriel byl chudý, protože jeho rodina byla ožebračena revolucí. Jeho sestra dostávala pět set franků doživotní renty, které na faře stačily taktak na její osobní vydání. Jako biskup pobíral Myriel od státu patnáct tisíc franků. Právě v den, kdy se ubytoval v budově nemocnice, určil jednou provždy, jak léto částky užít. Přepisujeme zde rozpočet psaný jeho vlastní rukou:
 
+  
+
 _Vydání na domácnost_
 
  
 
-  
-
 Studentskému konviktu
 
-  
-
 1 500 franků
-
-  
 
 Misijní kongregaci
 
-  
-
 100 franků
-
-  
 
 Lazaristům v Mondidier
 
-  
-
 100 franků
-
-  
 
 Semináři pro misionáře v Paříži
 
-  
-
 200 franků
-
-  
 
 Kongregaci Svatého Ducha
 
-  
-
 150 franků
-
-  
 
 Náboženským ústavům ve Svaté zemi
 
-  
-
 100 franků
-
-  
 
 Společnostem pro péči o matku
 
-  
-
 300 franků
-
-  
 
 Pro tutéž společnost v Arles
 
-  
-
 50 franků
-
-  
 
 Příspěvek na zlepšení věznic
 
-  
-
 400 franků
-
-  
 
 Příspěvek k úlevám a osvobození vězňů
 
-  
-
 500 franků
-
-  
 
 Dar na osvobození otců rodin z vězení dlužníků
 
-  
-
 1 000 franků
-
-  
 
 Přídavek k platu chudých učitelů v diecézi
 
-  
-
 2 000 franků
-
-  
 
 Na obilní skladiště v Horních Alpách
 
-  
-
 100 franků
-
-  
 
 Kongregaci dam v Digne, v Manosque a Sisteronu, pečující o bezplatné vyučování chudých dívek
 
-  
-
-  
-
 1 500 franků
-
-  
 
 Pro chudé
 
-  
-
 6 000 franků
-
-  
 
 Má osobní vydání
 
-  
-
 1 000 franků
-
-  
 
 Úhrnem
 
-  
-
 15 000 franků
+
+  
 
 Po celý čas, co Myriel zastával biskupský úřad v Digne, neměnil nic na tomto uspořádání. Nazýval to, jak vidíme, účtem za vydání na domácnost.
 
@@ -255,11 +185,19 @@ A dovolával se svých náležitostí.
 
 O něco později uvážila nejvyšší rada jeho žádost a odhlasovala mu tři tisíce franků ročně s tímto úředním záznamem:
 
+  
+
 > _Příspěvek panu biskupovi na vydání za kočár, poštovní výlohy a za úřední cesty._
+
+  
 
 Tento příspěvek značně popudil místní šosáky a jistý císařský senátor, bývalý člen rady pěti set, stoupenec osmnáctého brumairu, zaopatřený skvělou dotací blízko města Digne, napsal tehdy ministrovi kultu, panu Bigotovi de Préameneu, podrážděný a důvěrný lístek, z něhož vyjímáme tyto prokázané řádky:
 
+  
+
 _„– Vydání na kočár? Na co, v městě s méně než čtyřmi tisíci obyvateli? Vydání za úřední cesty? Nejprve – k čemu cesty a konečně – jak bude jezdit v naší hornaté krajině? Silnice tu nejsou. Jezdíme jen koňmo. Most přes Durance v Château-Arnoux sotva unese káru s voly. Ti kněží jsou všichni stejní, nenasytní a lakomí. Když přišel, hrál si na apoštola. Teď to dělá jako ostatní. Zachtělo se mu kočáru a poštovního vozu. Potřebuje přepych jako dřívější biskupové. Ach! Čert vem všechny ty kněžoury! Věci se nezlepší, pane hrabě, dokud nás císař těch jezovitů nezbaví. Pryč s papežem! (Poměr s Římem byl zkalen.) Co se mne týče, jsem jen pro Caesara a pro nikoho jiného. Atd. atd.“_
+
+  
 
 Paní Magloirová měla naopak velkou radost.
 
@@ -267,57 +205,37 @@ Paní Magloirová měla naopak velkou radost.
 
 Týž večer biskup napsal a předložil své sestře tento rozpočet:
 
+  
+
 _Příplatek na kočár a úřední cesty:_
 
  
 
-  
-
 Za hovězí polévku nemocným v nemocnici
-
-  
 
 1 500 franků
 
-  
-
 Péči o matky v Aix
 
-  
-
 250 franků
-
-  
 
 Péči o matky v Draguignanu
 
-  
-
 250 franků
-
-  
 
 Pro nalezence
 
-  
-
 500 franků
-
-  
 
 Sirotkům
 
-  
-
 500 franků
-
-  
 
 Úhrnem
 
-  
-
 3 000 franků
+
+  
 
 To byl Myrielův rozpočet.
 
@@ -335,8 +253,6 @@ Neděláme si nárok na to, aby podobizna, kterou zde kreslíme, byla pravdivá;
 
 ## (3)  
 Dobrému biskupovi tvrdé biskupství
-
-  
 
 Pan biskup nepodnikal méně úředních cest, i když vyměnil kočár za almužny. Dignská diecéze dá pěknou práci. Má velmi málo rovin, hodně hor a téměř žádné cesty, jak jsme právě viděli; patří k ní dvaatřicet far, jedenačtyřicet vikářství a dvě stě pětaosmdesát filiál­ních kostelů. Všechna ta místa navštívit je kus lopoty. Pan biskup to dokázal. Byla-li farnost v sousedství Digne, chodíval pěšky, na rovině jezdil ve dvoukolce a v horách na mezku. Obě stařenky ho doprovázívaly. Byla-li pro ně cesta příliš namáhavá, jel sám.
 
@@ -368,8 +284,6 @@ Promlouval takto vážně a otcovsky; jestliže se mu nedostávalo příkladů,
 
 ## (4)  
 Co slovo, to skutek
-
-  
 
 Hovoříval přívětivě a vesele. Přizpůsoboval se oběma stařenkám, které u něho žily; smával-li se, byl to smích chlapecký.
 
@@ -466,8 +380,6 @@ Pana Myriela mohli kdykoliv zavolat k lůžku nemocných a umírajících. Vě
 ## (5)  
 Monsignore Lidumil nosil své sutany příliš dlouho
 
-  
-
 Soukromý život Myrielův byl prodchnut týmiž myšlenkami jako jeho život veřejný. Ten, kdo by mohl přihlédnout zblízka, viděl by vážný a půvabný obraz dobrovolné chudoby, ve které žil dignský pan biskup.
 
 Jako všichni starci a většina duševních pracovníků spal kratičkým hlubokým spánkem. Ráno hodinku rozjímal a pak odsloužil mši buď v katedrále, nebo doma. Po mši posnídal žitný chléb namáčený v mléce. Potom pracoval.
@@ -504,8 +416,6 @@ A nyní je nutno, abychom přesně popsali byt dignského biskupa.
 
 ## (6)  
 Kdo mu střežil dům
-
-  
 
 Domek, v němž biskup bydlel, měl, jak jsme už řekli, přízemek a první poschodí; po třech místnostech v přízemí i v prvním patře, nahoře půdu. Za domem byla zahrádka asi čtvrt jitra veliká. Obě ženy zabraly první poschodí. Biskup bydlil dole. Vstupní pokoj s okny obrácenými do ulice mu sloužil za jídelnu, druhý byl ložnicí a třetí modlitebnou. Kdo chtěl odejít z modlitebny, musil projít ložnicí, a kdo šel z ložnice, byl nucen projít jídelnou. V pozadí modlitebny byl uzavřený přístěnek s postelí pro hosty. Biskup poskytoval toto lůžko přespolním farářům, kteří přicházeli do Digne vyřídit záležitosti svých farností.
 
@@ -581,8 +491,6 @@ S oblibou říkával:
 
 ## (7)  
 Kravata
-
-  
 
 Sem zřejmě patří událost, kterou nemůžeme vynechat, protože nejlépe ukáže, jaký člověk byl dignský pan biskup.
 
@@ -673,8 +581,6 @@ _Otázka je, má-li se to vrátit chrámu, nebo nemocnici._
 ## (8)  
 Filozofování při skleničce
 
-  
-
 Senátor, o němž jsme se už zmínili, byl člověk protřelý a šel svou cestou s přímostí, jež si nevšímala překážek, jaké nabízí svědomí, dané slovo, spravedlnost, povinnost; aniž jedinkrát zakopl, kráčel k cíli, rovnou za kariérou a svými zájmy. Byl to bývalý státní návladní, člověk změkčený úspěchy, nikterak ne špatný, ochotný ke všem službičkám, jež mohl prokazovat svým synům, zeťům, příbuzenstvu, dokonce i přátelům; bral moudře jen příjemné stránky života, dobré příležitosti, šťastné náhody. To ostatní mu připadalo celkem hloupé. Byl duchaplný a právě natolik sčetlý, aby se mohl považovat za Epikurova žáka, ačkoliv přitom nebyl nic než odnož Pigault-Lebruna[^7]. Rád a docela mile se vysmíval věcem nekonečným a věčným, a také „pošetilosti toho dobráka biskupa“ mu byly jen pro smích. Dělal si z nich šašky s vlídnou svrchovaností, někdy dokonce i před samým Myrielem.
 
 Ani nevím, při jaké poloslavnostní příležitosti měli být pozváni hrabě… (náš senátor) a Myriel na hostinu u prefekta. Při zákuscích zvolal senátor, maličko rozjařený, ale stále ještě zachovávající důstojnost:
@@ -704,9 +610,9 @@ Biskup zatleskal:
 ## (9)  
 Sestra vypravuje o bratrovi
 
-  
-
 Abychom vám dali nahlédnout do domácnosti dignského biskupa a pověděli, jak obě zbožné ženy podřizovaly své jednání, své myšlenky a dokonce i své plaché ženské instinkty biskupovým zvykům a záměrům, aniž musil promluvit a dát je najevo, nemůžeme učinit nic lepšího, než opsat dopis slečny Jany přítelkyni z mladých let, paní vikomtese Boischevronové.
+
+  
 
 _V Digne, 16. prosince 18.._
 
@@ -742,14 +648,14 @@ _Jana_
 
 _P. S. Váš synoveček je půvabný. Víte, že už mu bude pět let? Včera viděl na ulici koně s nákolenicemi a zvolal: „Co to má na nožičkách?“ To děcko je tak hodné! Jeho bratříček vláčí za sebou po bytě staré koště jako vůz a křičí: „Hyjé!“_
 
+  
+
 Jak vidíme z dopisu, obě ženy se dovedly přizpůsobit biskupovým zvyklostem oním ryze ženským důvtipem, který chápe člověka lépe než on sám sebe. V neměnitelně vlídném a cudném prostředí konal dignský biskup veliké, odvážné a vznešené věci, aniž se zdálo, že tuší jejich obsah. Obě ženy se o něho třásly, ale nechávaly jej na pokoji. Někdy se paní Magloirová pokusila o připomínku, než se biskup rozhodl; ale mlčela, když jednal, a tím spíš po činu. V díle jednou počatém ho nikdy ani posuňkem nerušily. V některých chvílích, aniž o tom musil mluvit a aniž si to sám ve své dokonalé prostotě uvědomoval, obě ženy nejasně cítily, že jejich pán jedná jako biskup; a nebyly pak ničím víc než dvěma stíny v domě. Sloužily mu trpně, a bylo-li třeba zmizet, poslušně mizely. Jemným instinktem obdivuhodně chápaly, že i starostlivost může být někdy obtížná. A i tehdy, když se domnívaly, že mu hrozí nebezpečí, chápaly, neříkám jeho myšlenku, ale jeho povahu do té míry, že nad ním nebděly. Svěřovaly ho Pánu Bohu.
 
 Ostatně, jak jsme se dočtli, Jana tvrdila, že smrt bratrova by byla i její smrtí. Paní Magloirová to sice neříkala, ale věděla to také.
 
 ## (10)  
 Biskup potkává neznámé světlo
-
-  
 
 Zakrátko po dopise uvedeném na předcházejících stránkách odvážil se biskup – věříme-li tomu, co si lidé povídali – ještě nebezpečnější věci, než byla procházka v horách mezi bandity.
 
@@ -984,8 +890,6 @@ Jakási urozená vdova, z toho druhu drzých žen, které si o sobě myslí, �
 ## (11)  
 Výhrady
 
-  
-
 Silně by se mýlil, kdo by z toho usuzoval, že pan Lidumil byl „filozof v biskupském rouše“ nebo „vlastenecký kněz“. Setkání či téměř duchovní spojení s členem konventu G. v něm zanechalo otřes, po němž byl ještě laskavější. To bylo všechno.
 
 Ačkoliv monsignore Lidumil nebyl člověk politický, je zde snad namístě naznačit, jaký byl jeho postoj k událostem, ač není jisté, myslil-li monsignore Lidumil vůbec někdy na to, aby k nim zaujal nějaké stanovisko.
@@ -1021,8 +925,6 @@ Svatými skutky a vlídnými způsoby získal si monsignore Lidumil za devět l
 ## (12)  
 Samota monsignora Lidumila
 
-  
-
 Téměř kolem každého biskupa je družina mladých abbé, jako bývá kolem generála svita mladých důstojníků.
 
 Půvabný František Saleský jim kdesi říká _kněžská holátka_. Každá hodnost má své čekatele, kteří tvoří doprovod těm, kdo jí už dosáhli. Není moci, kterou by neobklopovali lidé. Není štěstí, které by nemělo své dvořany. Slídiči budoucnosti víří kolem skvělé přítomnosti. Každé hlavní město má svůj štáb. Každý trochu vlivný biskup má kolem sebe hlídku cherubínských seminaristů, která dohlíží, zda je všechno v pořádku, zachovává řád v biskupském paláci a číhá na monsignorův úsměv. Zamlouvat se panu biskupovi, to v honbě za podjáhenstvím znamená být jednou nohou ve třmeni, je nutno si razit cestu. Úřad apoštolský nepohrdá kanovnickým místem.
@@ -1035,8 +937,6 @@ Jen mimochodem budiž řečeno, že úspěch je ošklivá věc. To, že se klamn
 
 ## (13)  
 Čemu věřil
-
-  
 
 Nechceme pátrat po pravověrnosti dignského biskupa. Před podobnou duší cítíme jen úctu. Svědomí spravedlivého se má věřit na slovo. Ostatně u jistých obzvláště nadaných povah připouštíme, že mohou rozvinout všechny krásy lidské ctnosti i v jiné víře, než je naše.
 
@@ -1066,8 +966,6 @@ Co potřeboval víc ten stařec, který svůj volný čas v životě – a m�
 
 ## (14)  
 Co si myslil
-
-  
 
 Ještě pár slov na závěr.
 

@@ -6,8 +6,6 @@ contentType: prose
 ## (1)  
 Strategické kličkování
 
-  
-
 Ti, kdo budou číst tyto i další stránky, potřebují nutně vysvětlení.
 
 Je tomu už mnoho let, co autor této knihy, který bohužel musí mluvit i o sobě, nebyl v Paříži. Od té doby, co ji opustil, se Paříž změnila. Vyrostlo nové město, které je mu téměř neznámé. Nemusí se dušovat, že Paříž miluje; Paříž je rodným městem jeho ducha. Protože se tam hodně bouralo a přestavovalo, je Paříž jeho mládí, Paříž, kterou tak zbožně uchoval v paměti, dnes už Paříží bývalou, patřící minulosti. Budiž autorovi dovoleno mluvit o staré Paříži, jako by posud existovala. Je možné, že autor někam čtenáře zavede a řekne: „V té a té ulici je takový a takový dům“, a dnes už tam nebude ani dům, ani ulice. Čtenáři si to ověří, bude-li jim to stát za námahu. Ale autor novou Paříž nezná, a píše o bývalé Paříži, maje před očima vidinu, která je mu drahá. Je mu sladké snít o tom, že po něm zůstává něco, co viděl, když byl ve své vlasti, a že všechno ještě nezmizelo. Dokud žijeme v rodné zemi, myslíme, že ulice jsou nám lhostejné, že okna, střechy, dveře pro nás nic neznamenají, že ty a ty zdi jsou nám cizí, že ty a ty stromy jsou jako všechny ostatní, že domy, do nichž člověk nikdy nevkročí, jsou zbytečné, a že dlažba, po které kráčíme, jsou jen prosté kameny. Později, kdy už nejste v rodné zemi, zjistíte, že vám jsou ty ulice drahé, že vám ty střechy, ta okna, ty dveře chybějí, že vám chybí dokonce i to zdivo, že do stromů jste vlastně zamilováni, že domy, do nichž jste nikdy nevstoupili, navštěvujete teď vlastně denně, a že jste i na tom dláždění nechali kus svého já, svou krev a své srdce. Všechna ta místa, která nevidíme, která snad už nikdy nespatříme a jejichž obraz nosíme ve svém srdci, jsou zkrášlena bolestným půvabem, vracejí se nám v teskném vidění, lákají nás jako zaslíbená země a berou na sebe – jak bychom to nazvali – vlastní rysy Francie; a milujeme je a přivoláváme si je v duchu takové, jaké jsou a jaké byly, a na své představě lpíme a nechceme na ní nic měnit, neboť tvář naší vlasti je nám stejně drahá jako tvář matčina.
@@ -45,18 +43,20 @@ Zastavili se uprostřed křižovatky a sestrčili hlavy dohromady jako lidé, k
 ## (2)  
 Jak je dobře, že po Slavkovském mostě jezdí vozy
 
-  
-
 Jeanu Valjeanovi už bylo jasno; ale muži naštěstí ještě tápali. Využil jejich váhání; čas, který ztráceli, mu byl užitečný. Vyšel z výklenku dveří, v němž se před chvílí přikrčil, a pustil se ulicí Postes směrem k Botanické zahradě. Cosetta začínala být unavená, vzal ji tedy na ruku a nesl ji. Nikde nebylo živé duše, ani lucerny nebyly rozžaty, protože svítil měsíc.
 
 Jean Valjean zrychlil chůzi.
 
 Několika dlouhými kroky se dostal k hrnčířství pana Gobleta, na jehož štítě byl starý nápis, za měsíčního světla velmi dobře čitelný:
 
+  
+
 _Gobletův syn má tady svoje sklady;  
 zde nakupte si džbány, konvice,  
 i květináče prodáváme tady,  
 nástřešní tašky, roury, dlaždice._
+
+  
 
 Nechal za sebou ulici Clef, pak fontánu Saint-Victor, dal se podél Botanické zahrady a dolními ulicemi došel na nábřeží. Tam se obrátil. Nábřeží bylo pusté. Ulice opuštěná. A nikdo v patách. Oddychl si.
 
@@ -96,8 +96,6 @@ Zdálo se, že se té tiché uličce může svěřit. Vstoupil do ní.
 
 ## (3)  
 Plán Paříže z roku 1727
-
-  
 
 Asi po třech stech krocích došel k místu, kde se ulička větvila. Dělila se na dvě ulice, jedna vedla vlevo, druhá vpravo. Jean Valjean jako by měl před sebou dvě ramena velkého Y. Které zvolit?
 
@@ -152,8 +150,6 @@ Na ústup již nebylo kdy. Stín, jejž zahlédl před chvílí na nevelkou vzd�
 ## (4)  
 Tápání při útěku
 
-  
-
 Abychom dobře porozuměli tomu, co přijde, je třeba si jasně představit uličku Droit-Mur, a obzvlášť roh, který zůstal po levé straně – při vstupu z ulice Polonceau do uličky. Ulička Droit-Mur byla po pravé straně až k uličce Picpus napořád vroubena jenom chudě vypadajícími domky; na levé straně stálo jediné stavení přísných linií, složené z několika obytných částí, které se postupně zvyšovaly o jedno nebo dvě poschodí směrem k uličce Picpus, takže toto stavení, velmi vysoké na straně ulice Picpus, bylo dosti nízké u ulice Polonceau. Tam, na rohu, o kterém jsme mluvili, nebylo stavení vyšší než zeď, která nešla rovnoměrně s uliční čárou; uhýbala a tvořila značně ustupující tupý úhel, zakrytý svými rohy očím pozorovatele, který stál buď v ulici Polonceau, nebo v ulici Droit-Mur.
 
 Od jednoho z rohů tohoto tupého úhlu se táhla zeď do ulice Polonceau až k domu, který nesl číslo 49, a do ulice Droit-Mur, kde byla mnohem kratší, až k ponurému stavení, o kterém jsme mluvili a jehož štít protínala, tvoříc tak v ulici nový ustupující kout. Tento domovní štít vypadal smutně; bylo v něm jediné okno, nebo lépe řečeno, stále zavřené dvě okenice pobité zinkovým plechem.
@@ -184,8 +180,6 @@ Když si vrata prohlédl důkladněji, zjistil, že to vlastně vrata nejsou. Ne
 
 ## (5)  
 Co by při plynovém osvětlení bylo nemožné
-
-  
 
 V tom okamžiku se v dálce ozval temný odměřený zvuk. Jean Valjean se odvážil vystrčit hlavu. To četa sedmi až osmi vojáků právě vstupovala do ulice Polonceau. Zahlédl svit bodáků. Mířili k němu.
 
@@ -264,8 +258,6 @@ Zatím se Jean Valjean s Cosettou v náručí spouštěl po střeše dolů, do
 ## (6)  
 Počátek záhady
 
-  
-
 Jean Valjean se octl v rozlehlé zahradě podivného vzhledu; byla to jedna z oněch smutných zahrad, které jsou jako stvořené, abychom se do nich dívali v zimě a v noci. Byla podélná, vzadu se táhla alej vysokých topolů, v rozích rostl starý bez a uprostřed zahrady na volném nestíněném prostranství se tyčil velký osamělý strom, sem tam bylo několik zkroucených a zježených štěpů, které vypadaly jako velká křoviska, dále čtverce zelinářské zahrady, melounové pařeniště, jehož poklopy se blýskaly v měsíčním světle, a stará žumpa. Porůznu stály kamenné lavice zčernalé snad mechem. Cesty byly rovné a vroubené temnými stromečky. Polovinu zahrady zarůstala tráva, ostatek pokryla zelená plíseň.
 
 Jean Valjean měl po boku stavení, jehož střecha mu posloužila k sestupu, dále hromadu chrastí a za chrastím docela u zdi kamennou sochu, jejíž otlučená tvář se jako neforemná maska nejasně rýsovala ve tmě.
@@ -304,8 +296,6 @@ Všechno se zas ponořilo do ticha. Klid na ulici, ticho v zahradě. I to, co 
 
 ## (7)  
 Pokračování záhady
-
-  
 
 Zvedl se ostrý noční vítr, což ukazovalo na jednu dvě hodiny po půlnoci. Ubohá Cosetta mlčela. Protože si mlčky opírala o něho hlavu, Jean Valjean myslil, že usnula. Sklonil se a podíval se jí do tváře. Měla široce otevřené oči a zamyšlený výraz, který Jeana Valjeana zabolel.
 
@@ -358,8 +348,6 @@ Přistoupil ke Cosettě. Spala.
 ## (8)  
 Záhada se rozrůstá
 
-  
-
 Dívenka si položila hlavu na kámen a usnula.
 
 Posadil se vedle ní a jal se ji pozorovat. Čím déle na ni hleděl, tím více se uklidňoval a poznenáhlu nabýval duševní rovnováhy.
@@ -408,8 +396,6 @@ Bylo nevyhnutelně třeba, aby se Cosetta ve čtvrthodince zahřála a dostala 
 
 ## (9)  
 Muž s rolničkou
-
-  
 
 Šel rovnou k muži, kterého zahlédl v zahradě, a do kapsy u vesty sáhl pro několik stříbrných mincí.
 
@@ -537,8 +523,6 @@ Za půl hodinky spala Cosetta, zrůžovělá od plamene v krbu, v posteli star
 
 ## (10)  
 Jak se stalo, že Javert marně hledal
-
-  
 
 Události, jejichž rub jsme právě viděli, se zběhly za docela prostých okolností.
 

@@ -6,8 +6,6 @@ contentType: prose
 ## (1)  
 Nuzný Marius
 
-  
-
 Mariovi nastal krušný život. Projíst šaty a hodinky byl jenom začátek. Poznal nevyslovitelný stav, kterému se říká _třít bídu s nouzí_. Strašný stav, který znamená den bez chleba, noci bez spánku, večery bez svíčky, krb bez ohně, týdny bez práce, budoucnost bez naděje, šaty rozedrané na loktech, starý klobouk, kterému se mladá děvčata posmívají, dveře, které jsou večer zavřeny, protože činže nebyla zaplacena, drzost domovníka a hospodského, posměch sousedů, pokoření, uraženou důstojnost, vykonávání prací jakéhokoliv druhu, znechucení, hořkost, sklíčenost. To všechno se Marius naučil polykat, protože často neměl k polykání nic jiného. V době, kdy muž potřebuje hrdost, protože potřebuje lásku, cítil, že je směšný, protože je chudý. Ve věku, kdy vám mládí naplňuje srdce královskou hrdostí, Marius byl nejednou nucen klopit oči a dívat se na své děravé boty; poznal nepravý stud a palčivý ruměnec bídy. Je to těžká a strašná zkouška, z níž slabé povahy vycházejí jako zničené existence, ale silné vyjdou povzneseny. Je to výheň, do níž osud vrhá člověka, chce-li z něho učinit pobudu nebo poloboha.
 
 Malými bitvami se často dobude velká věc. V nich je neústupné a světu neznámé hrdinství, které krok za krokem bojuje ve stínu proti osudovému útoku nedostatku a hanby. Jsou to ušlechtilá a tajemná vítězství, které oko nevidí, sláva neodměňuje a fanfáry neslaví. Život, neštěstí, osamocení, opuštěnost, chudoba, to jsou bitevní pole, která mají své hrdiny, hrdiny neznámé, často větší, než jsou hrdinové slavní.
@@ -31,8 +29,6 @@ Když se stal advokátem, oznámil to chladným, ale uctivým dopisem dědovi. P
 ## (2)  
 Chudý Marius
 
-  
-
 Bída je jako všechno ostatní. Člověk si na ni zvykne, takže se stane snesitelnou. Vezme na sebe jistou podobu a přizpůsobí se. Člověk živoří, to jest vyvíjí se jen taktak, ale k životu to stačí. Marius Pontmercy si časem svůj život uspořádal takto:
 
 Vyvázl z nejhoršího; soutěska se před ním trochu rozšířila. Prací, odvahou, vytrvalostí, silnou vůlí se mu podařilo vytlouci ze své práce sedm set franků ročně. Naučil se němčině a angličtině. Na přímluvu Courfeyracovu se seznámil s knihkupcem a dostal u něho nepatrné zaměstnání. Pořizoval prospekty, překládal články z novin, opatřoval poznámkami některá knižní vydání, sestavoval životopisy atd. Z toho měl průměrně sedm set franků ročně. To nebylo špatné. Z těch byl živ. Jak? Hned vám to řekneme.
@@ -53,8 +49,6 @@ Vedle otcova jména bylo v Mariově srdce vyryto ještě jiné jméno. Nadšen�
 
 ## (3)  
 Dospělý Marius
-
-  
 
 V té době bylo Mariovi dvacet let. Tři roky uplynuly ode dne, kdy opustil dědečka. Vztahy mezi nimi zůstaly nezměněny, ani jeden, ani druhý se nepokoušeli sblížit nebo se aspoň jeden po druhém pozeptat. Ostatně, k čemu by se měli vidět? Aby se znovu střetli? Kdo z nich by měl pravdu? Marius byl ocelová váza a pan Gillenormand železný hrnek.
 
@@ -89,8 +83,6 @@ Protože se s panem Mabeufem ještě setkáme, nebude zbytečné, promluvíme-l
 ## (4)  
 Pan Mabeuf
 
-  
-
 Onoho dne, kdy pan Mabeuf řekl Mariovi: _Zajisté, schvaluji politické zásady_, vyslovil skutečný stav svého ducha. Všechny politické názory mu byly lhostejné, schvaloval je všechny bez rozdílu, jen když ho nechaly na pokoji, asi tak, jako Řekové říkali Fúriím krásné, dobré, půvabné Eumenidy. Politickým přesvědčením pana Mabeufa byla vášnivá láska ke květinám a ke knihám. Jako všichni, tak i on si přidával zcela samozřejmě koncovku ‚ista‘, bez které v oněch dobách nikdo nemohl být živ, ale nebyl ani roajalista, ani bonapartista, ani chartista, ani orleanista, ani anarchista; byl bukinista – to znamená – miloval staré knihy.
 
 Nechápal, jak se mohou lidé vzájemně nenávidět pro takové hlouposti, jako je ústava, demokracie, legitimita, monarchie, republika atd., když je na světě tolik mechů, travin, křovin, které mohou pozorovat, a hromada foliových a dvaatřicaterkových knih, ve kterých mohou listovat. Střežil se vlastní neužitečnosti; měl mnoho knih, ale nevadily mu ve čtení; byl botanik, ale nepřekáželo mu to zahradničit. Když poznal Pontmercyho, vznikla mezi nimi náklonnost, protože podobně jako plukovník pěstoval květiny, šlechtil on ovoce. Panu Mabeufovi se podařilo ze semene vypěstit tak chutné hrušky, že se vyrovnaly saintgermainským. Z jeho nového křížení povstala mirabelka říjnová, která je dnes proslulá a vůní se vyrovná mirabelce letní. Na mši chodil spíše z poslušnosti než z nábožnosti, a také proto, že rád viděl tváře lidí, ale nemiloval jejich hluk a v kostele je viděl mlčenlivé a soustředěné. Cítil, že musí něčím být, a proto se stal zádušním starostou. Ostatně se mu nikdy nepodařilo, aby miloval ženu alespoň tak jako tulipánovou cibuli nebo muže jako elzevirské vydání. Když už mu bylo hodně přes šedesát let, kdosi se ho otázal: „Nebyl jste nikdy ženat?“ „Zapomněl jsem na to,“ řekl. Někdy si, jako snad všichni lidé, také povzdechl: „Ach, kéž bych byl bohatý,“ ale to jistě nebylo při pohledu na děvče, jak po tom toužíval pan Gillenormand, nýbrž při pohledu na starožitnou knihu. Žil sám se starou hospodyní. Měl dnu, a když spal, jeho staré zchromlé prsty se zatínaly do záhybů pokrývky. Sepsal a vydal _Květenu z okolí Cauteretz_, s barevnými obrázky, dosti ceněné dílo, jehož rytiny si ponechal a které sám prodával. Dvakrát až i třikrát denně zvonili proto lidé v ulici Mézières. Z prodeje měl dobrých dva tisíce franků ročně. Ačkoliv byl chudý, přece si trpělivostí a odříkáním časem pořídil sbírku vzácných tisků všeho druhu. Vycházel vždycky s knihou pod paží, ale obyčejně se vracíval se dvěma. Jedinou ozdobou jeho bytu se čtyřmi přízemními pokoji a zahrádkou byly zasklené sušené květiny a rytiny starých mistrů. Pohled na šavli nebo pušku ho děsil. V životě se nikdy nepřiblížil k dělu, dokonce ani v Invalidovně. Měl dost dobrý žaludek, bratra farářem, docela bílé vlasy, v ústech ani jeden zub, v mysli ani jeden vroubek, třásl se po celém těle, mluvil s pikardským přízvukem, smál se jako dítě, snadno se lekal a vypadal jako starý beran. S nikým se nepřátelil a nevídal vyjma starého knihkupce u brány Saint-Jacques, který se jmenoval Royol. Jeho jediným snem bylo zavést ve Francii pěstování indiga.
@@ -121,8 +113,6 @@ A pan Mabeuf upadl do příjemného snění.
 
 ## (5)  
 Chudoba, dobrá sousedka bídy
-
-  
 
 Mariovi se líbil ten bezelstný stařec, který před jeho zraky pomalu propadal bídě a počínal se tomu divit, ačkoliv se nad tím stále ještě nermoutil. Marius se setkával s Courfeyracem a vyhledával pana Mabeufa. Návštěvy byly ovšem velmi řídké, jedna dvě do měsíce.
 
@@ -158,8 +148,6 @@ Marius měl v zásuvce třicet nastřádaných franků.
 
 ## (6)  
 Nástupce
-
-  
 
 Pluk, v němž Théodule sloužil jako poručík, byl náhodou přeložen do Paříže. To byla příležitost pro druhou myšlenku tety Gillenormandové. Nejdřív ji napadlo, že by měla dát Maria stopovat Théodulem, a teď si usmyslila, že by mohla Théodula učinit Mariovým nástupcem.
 

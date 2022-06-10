@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-f35e974';
+const CACHE = 'cache-80a2748';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./bidnici_005.html","./bidnici_006.html","./bidnici_007.html","./bidnici_008.html","./bidnici_009.html","./bidnici_010.html","./bidnici_011.html","./bidnici_012.html","./bidnici_013.html","./bidnici_014.html","./bidnici_015.html","./bidnici_016.html","./bidnici_017.html","./bidnici_018.html","./bidnici_019.html","./bidnici_020.html","./bidnici_021.html","./bidnici_022.html","./bidnici_023.html","./bidnici_024.html","./bidnici_025.html","./bidnici_026.html","./bidnici_027.html","./bidnici_028.html","./bidnici_029.html","./bidnici_030.html","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/obalka_bidnici_i_fmt.png","./resources/obr_01_fmt.png","./resources/upoutavka_eknihy_fmt.png","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./bidnici_005.html","./bidnici_006.html","./bidnici_008.html","./bidnici_007.html","./bidnici_009.html","./bidnici_010.html","./bidnici_011.html","./bidnici_012.html","./bidnici_013.html","./bidnici_014.html","./bidnici_015.html","./bidnici_016.html","./bidnici_017.html","./bidnici_019.html","./bidnici_018.html","./bidnici_020.html","./bidnici_021.html","./bidnici_022.html","./bidnici_023.html","./bidnici_024.html","./bidnici_025.html","./bidnici_027.html","./bidnici_028.html","./bidnici_026.html","./bidnici_029.html","./bidnici_030.html","./colophon.html","./favicon.png","./index.html","./promo.html","./manifest.json","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/obalka_bidnici_i_fmt.png","./resources/obr_01_fmt.png","./resources/upoutavka_eknihy_fmt.png","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {

@@ -6,8 +6,6 @@ contentType: prose
 ## (1)  
 Začátek odpočinku
 
-  
-
 Madeleine dal převézt Fantinu do nemocnice, kterou měl ve svém domě. Svěřil ji sestrám a ty ji uložily do postele. Dostavila se prudká horečka. Fantina část noci blouznila a mluvila nahlas. Konečně usnula.
 
 Na druhý den k poledni se probudila, slyšela dech vedle lůžka, rozhrnula záclonu a spatřila pana Madeleina, který se díval na něco nad její hlavou. Jeho pohled byl plný soucitu a úzkosti a pokorně prosil. Sledovala jeho směr a viděla, že upírá oči na krucifix přibitý na zdi.
@@ -92,6 +90,8 @@ Thénardier však nechtěl dítě „pustit“ a udával sta nemožných důvod
 
 Fantina mu nadiktovala tento dopis, který jí dal podepsat:
 
+  
+
 _Pane Thénardiere!_
 
 _Odevzdejte Cosettu osobě, která se prokáže tímto dopisem. Všechna zbývající drobná vydání Vám budou zaplacena. Mám čest Vás uctivě pozdravovat._
@@ -102,8 +102,6 @@ Mezitím došlo k vážné příhodě. Ať přitesáváme sebelépe tajemný ba
 
 ## (2)  
 Jak se zejména Jean může stát Champ
-
-  
 
 Jednou ráno, když pan Madeleine vyřizoval ve své pracovně několik naléhavých obecních záležitostí pro případ, že by se snad přece odhodlal k cestě do Montfermeil, přišli mu ohlásit, že s ním chce mluvit policejní inspektor Javert. Jakmile pan Madeleine zaslechl Javertovo jméno, nemohl se ubránit nepříjemnému pocitu. Od události na policejní strážnici se mu Javert vyhýbal víc než jindy a pan Madeleine ho vůbec nespatřil.
 

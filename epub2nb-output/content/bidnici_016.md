@@ -6,8 +6,6 @@ contentType: prose
 ## (1)  
 S čím se setkáváme cestou z Nivelles
 
-  
-
 Loni (1861), za krásného květnového rána, ubíral se z Nivelles člověk, vyprávěč tohoto příběhu, a mířil k La Hulpe. Šel pěšky. Mezi dvěma řadami stromů kráčel po široké dlážděné silnici, vinoucí se po pahorcích, které si cestu podávají, vynášejí ji nahoru a spouštějí zas dolů a tvoří ohromné vlny. Prošel Lillois a Bois-Seigneur-Isaac. Na západě spatřil břidlicovou zvonici v Braine-l’Alleud, která má tvar překlopené vázy. Právě za sebou nechal les na výšině a u křižovatky s příční cestou, vedle jakéhosi červotočivého ukazatele s nápisem: _Staré mýto č. 4_, minul hospodu, která měla v průčelí nápis: _U čtyř větrů. Échabeau, kavárna._
 
 Asi o osminu míle dál přišel na dno údolíčka s potokem, který protéká pod mostním obloukem proraženým v náspu cesty. Skupina stromů, řídká, ale velmi zelená, vyplňuje údolí z jedné strany silnice, rozbíhá se na druhé straně po louce a půvabně, jako v nepořádku se táhne k Braine-l’Alleud.
@@ -38,8 +36,6 @@ Byl na bojišti u Waterloo.
 
 ## (2)  
 Hougomont
-
-  
 
 Hougomont bylo smutné místo, počáteční překážka, první odpor, na který narazil u Waterloo velký dřevorubec Evropy, jak říkali Napoleonovi; Hougomont byl první suk pod ranou sekyry.
 
@@ -108,8 +104,6 @@ Bauduin zabit, Foy zraněn, požár, sveřepý boj, krveprolití, potok zuřivě
 ## (3)  
 18\. červen 1815
 
-  
-
 Vraťme se zpátky – je to vyprávěčovo právo – a vmysleme se do roku 1815, dokonce ještě o něco dále, do chvíle, než začala bitva popsaná v první části této knihy.
 
 Kdyby v noci ze 17. na 18. červen 1815 nebylo pršelo, byla by bývala budoucnost Evropy jiná. O několik kapek víc nebo méně nachýlilo Napoleona k pádu. K tomu, aby se Waterloo stalo zakončením Slavkova, potřebovala prozřetelnost jen trochu deště, a mrak, který přeletěl po nebi v roční době, kdy obyčejně bývá jasno, stačil, aby se změnil svět.
@@ -135,8 +129,6 @@ Není třeba říkat, že nehodláme psát dějiny bitvy u Waterloo; jeden podn
 ## (4)  
 A
 
-  
-
 Těm, kdo si chtějí přesně představit bitvu u Waterloo, stačí, aby si v duchu položili na zem velké písmeno A. Levá nožička A je cesta z Nivelles, pravá nožička je cesta z Genappe, spojovací čárka toho A je úvoz z Ohainu do Braine-l’Alleudu. Vrchol A je Mont-Saint-Jean, tam je Wellington; konec levé nožičky je Hougomont, tam je Reille s Jérômem Bonapartem; dolní pravý konec je Belle-Alliance, a tam je Napoleon. Poněkud nad místem, kde se spojovací čárka A stýká s pravou nožičkou a přetíná ji, je Haie-Sainte. Uprostřed spojovací čárky je místo, na němž bylo v bitvě proneseno poslední slovo. Tam postavili lva, bezděčný symbol svrchovaného hrdinství císařské gardy.
 
 Trojúhelník mezi vrchní částí A, mezi oběma nožičkami a spojovací čárkou je montsaintjeanská náhorní planina. Celá bitva byla bojem o tuto planinu.
@@ -159,8 +151,6 @@ Toto světlo, dějiny, je neúprosné; má podivnou a božskou vlastnost, že b
 
 ## (5)  
 „Quid obscurum“[^92] bitev
-
-  
 
 Všichni znáte první údobí té bitvy; začátek je zmatený, nejistý, kolísavý, hrozivý pro obě vojska, ale mnohem hrozivější pro Angličany než pro Francouze.
 
@@ -189,8 +179,6 @@ Přesto se však v určitou chvíli odpoledne bitva vyhrotila.
 ## (6)  
 Čtyři hodiny odpoledne
 
-  
-
 Ke čtvrté hodině bylo postavení anglického vojska vážné. Princ oranžský velel středu, Hill pravému křídlu, Picton levému. Princ oranžský, vzrušený a neohrožený, křičel na Holanďany a Belgičany: _Nassavští! Brunšvičtí! Ani krok zpátky!_ Oslabený Hill se opřel o Wellingtona, Picton byl mrtev. Ve chvíli, kdy Angličané vyrvali Francouzům prapor 105. pěšího pluku, Francouzi zabili Angličanům generála Pictona kulkou do hlavy. Pro Wellingtona měla bitva dva opěrné body: Hougomont a Haie-Sainte; Hougomont se držel, ale hořel; Haie-Sainte padla. Z německé setniny, která ji hájila, zbylo jenom dvaačtyřicet vojáků; všichni důstojníci krom pěti byli mrtvi nebo zjímáni. V jedné stodole byly povražděny tři tisíce bojovníků. Francouzský bubeníček v ní zabil seržanta anglické gardy, nejlepšího anglického boxera, který měl mezi svými druhy pověst nezranitelného. Baring musil ustoupit; Alten byl rozsekán šavlí. Bylo ztraceno mnoho praporů, z nich jeden z divize Altenovy a jeden prapor lüneburského pluku; nesl jej princ z rodiny von Zweibrücken. Z šedivých Skotů nezůstal ani jediný; těžcí dragouni Ponsonbyovi byli posekáni. Tato statečná jízda podlehla Broovým hulánům a Traversovým kyrysníkům; z dvanácti set koní zůstalo jenom šest set; ze tří podplukovníků dva padli, Hamilton byl raněn, Mater zabit. Ponsonby padl, proboden sedmi ranami. Gordon byl mrtev, March byl mrtev. Dvě divize, pátá a šestá, byly zničeny.
 
 Jakmile byl Hougomont obklíčen a Haie-Sainte padla, zůstal jen jeden uzel, střed. Uzel se stále držel. Wellington jej zesílil. Povolal tam Hilla od Merbe-Braine, a Chasséa od Braine-l’Alleud.
@@ -211,8 +199,6 @@ Ke čtvrté hodině se anglická fronta stáhla zpět. Náhle bylo na hřebenu p
 
 ## (7)  
 Napoleon v dobré náladě
-
-  
 
 Ačkoliv byl císař nemocen a pro menší potíže se mu těžko sedělo na koni, nebyl nikdy v tak dobré míře jako toho dne. Ve své nevyzpytatelnosti se od samého rána usmíval. Ta hluboká duše pod mramorovou maskou 18. června 1815 oslepivě zářila. Muž zamračený u Slavkova byl veselý u Waterloo. Největší oblíbenci osudu často jednají obráceně. Na naše radosti padá stín. Poslední úsměv patří Bohu.
 
@@ -247,8 +233,6 @@ Tento úvoz lemující montsaintjeanský hřeben, úplně skrytý očím pozorov
 ## (8)  
 Císař se vyptává průvodce Lacosta
 
-  
-
 Toho waterlooského rána si Napoleon důvěřoval.
 
 Měl proč; bitevní plán, jejž sám vypracoval, byl vskutku obdivuhodný.
@@ -277,8 +261,6 @@ Dal rozkaz Milhaudovým kyrysníkům, aby se zmocnili montsaintjeanské planiny.
 
 ## (9)  
 Překvapení
-
-  
 
 Bylo jich tři tisíce pět set. Tvořili frontu čtvrt míle širokou. Obro­vití muži na obrovských koních. Šestadvacet škadron. Jako oporu měli za sebou divizi Lefebvre-Desnouettesovu, sto šest vybraných četníků, gardové myslivce – jedenáct set sedmadevadesát mužů – a gardové hulány – osm set osmdesát mužů. Přilby měli bez chocholů a kyrysy z železného plechu, v pouzdrech u sedla bambitky a dlouhé palaše. Celá armáda na ně s obdivem hleděla, když v devět hodin ráno za troubení polnic a za vyhrávání písně _Bděme nad spásou císařství_ nastupovali v hustých kolonách s jednou ze svých baterií po boku a s druhou ve středu, a začali se rozvinovat v dvojí řadě mezi silnicí z Genappe a z Frischemontu, zaujímajíce bitevní postavení v té mohutné druhé linii, tak důmyslně sestavené Napoleonem, která Kellermannovými kyrysníky nalevo a kyrysníky Milhaudovými napravo měla, možno říci, dvě železná křídla.
 
@@ -322,8 +304,6 @@ Waterloo není bitva; je to změna tvářnosti celého světa.
 
 ## (10)  
 Montsaintjeanská náhorní planina
-
-  
 
 Zároveň s příkopem se odkryla baterie.
 
@@ -380,8 +360,6 @@ Nadešel náhlý obrat gigantického dramatu.
 ## (11)  
 Napoleon měl špatného průvodce, Bülow dobrého
 
-  
-
 Známe zdrcující zklamání Napoleonovo; doufal v Grouchyho a přišel Blücher; smrt místo života.
 
 Osud si libuje v takových obratech; kdo čekal na trůn celého světa, dočkal se Svaté Heleny.
@@ -403,8 +381,6 @@ Zakrátko se divize Losthinova, Hillerova, Hackova a Rysselova rozvinuly před 
 ## (12)  
 Garda
 
-  
-
 Ostatní známe: třetí armáda selhala, bitva se roztříštila, náhle zahřmělo šestaosmdesát děl, Pirch přišel s Bülowem, dorazila Zietenova jízda vedená samým Blücherem, Francouzi byli zatlačeni, Marcognet byl smeten z ohainské planiny, Durutte vytlačen z Papelotte, Donzelot a Quiot se dali na ústup, Lobau se octl v křížovém ohni, s nastávající nocí se na naše rozbité pluky řítil nový boj, celá anglická bitevní čára se rozestavila k útoku a hnala se vpřed, ve francouzské armádě byla obrovitá trhlina, anglická a pruská palba si vzájemně pomáhaly, došlo ke krvavému boji, čelo armády se bortilo, křídla podléhala a tehdy, ve chvíli strašlivého hroucení, nastoupila garda.
 
 Protože cítila, že zahyne, vykřikla: „Ať žije císař!“ V dějinách nenajdeme nic tak dojemného jako toto umírání za pozdravného pokřiku.
@@ -417,8 +393,6 @@ Ney, vzrušený, velký dobrovolně přijímanou smrtí, nabízel se všem raná
 
 ## (13)  
 Osudná chvíle
-
-  
 
 Zmatek za gardou byl strašlivý.
 
@@ -433,8 +407,6 @@ Když nastala noc, Bernard a Bertrand zachytili za cíp redingotu a zastavili 
 ## (14)  
 Poslední čtverhran
 
-  
-
 Několik čtverhranů gardy, nehybných v potopě zkázy jako balvany v tekoucí vodě, zůstalo až do noci na místě. S nastalou tmou přicházela smrt. Čtverhrany klidně vyčkávaly tento dvojí stín a nechaly se jím zahalit. Každý pluk, oddělený od druhých a na všech stranách opuštěný roztříštěným vojskem, umíral na svůj vrub. Pluky zaujaly postavení k poslednímu odporu, jedny na výšině u Rossomme, druhé na montsaintjeanské planině. Tam ve svém opuštění chmurně dokonávaly zdecimované čtverhrany, které, byť poraženy, vzbuzovaly ještě strach. V nich umíral Ulm, Wagram, Jena, Frýdlant.
 
 Za šera, asi v devět hodin večer, v nejnižší části montsaint­jeanské planiny vytrvával jediný čtverhran. V neblahém údolu, u paty svahu, po kterém vyjeli kyrysníci, v tuto chvíli však už zaplaveném Angličany, bojoval v křížovém ohni a v hrozném dešti kulí vítězného nepřátelského dělostřelectva. Velel mu neznámý důstojník jménem Cambronne. Při každé ráně se čtverhran zmenšoval, ale odpovídal palbou. Kartáčové střely oplácel ranami z pušek a stále stahoval své čtyři stěny. Kdykoliv se udýchaní prchající v dálce na vteřinu zastavili, slyšeli ze tmy slábnoucí hromobití tohoto střeleckého zápasu.
@@ -443,8 +415,6 @@ Když se legie ztenčila na hrstku lidí, když z jejich praporu zbyl jenom cá
 
 ## (15)  
 Cambronne
-
-  
 
 Protože francouzský čtenář si potrpí na ohledy, neměli bychom prý mu opakovat nejkrásnější slovo, které kdy Francouz řekl. Zapovídá se vtahovat do dějin vznešenost.
 
@@ -474,8 +444,6 @@ Na Cambronnovo slovo odpověděl hlas Angličana: palte! Z baterií se zablýsk
 
 ## (16)  
 Quot libras in duce?[^106]
-
-  
 
 Bitva u Waterloo je hádanka. Je stejně nepochopitelná pro vítěze jako pro poražené. Napoleon ji považuje za paniku,[^107] Blücher v ní vidí jen palbu, Wellington jí vůbec nerozumí. Podívejme se na záznamy o ní. Zprávy jsou zmatené, výklady popletené. Jedny žvaní, druhé koktají. Jomini dělí bitvu u Waterloo na čtvero období; Müffling ji dělí ve tři obraty; Charras, třebas ji v některých bodech posuzujeme jinak než on, jediný svým bystrým okem postřehl příznačné rysy zhroucení lidského génia v zápase s božskou náhodou. Všichni ostatní dějepisci jsou do určité míry oslepeni a ve svém oslepení tápají. Byl to skutečně vrcholný den, byl to sesuv vojenské monarchie, která k velkému ustrnutí králů strhovala s sebou všechny monarchie, byla to pohroma síly, porážka války.
 
@@ -524,8 +492,6 @@ Přece však v noci z ní vystupuje mlha plná přízraků, a jestliže se ta
 ## (17)  
 Máme schvalovat Waterloo?
 
-  
-
 Existuje svobodomyslná, velmi ctihodná škola, která k Waterloo necítí nenávist. My k ní nepatříme. Pro nás je Waterloo jenom překvapující datum svobody. Nikdo jistě nečekal, že se z takového vejce vylíhne orel.
 
 Waterloo, díváme-li se na ně z nadhledu, bylo zamýšleno jako vítězství protirevoluční. Je to Evropa proti Francii, je to Petrohrad, Berlín a Vídeň proti Paříži; je to _status quo_ proti novému podnětu, je to 14. červenec 1789, napadený přes 20. březen 1815, je to útok monarchií na nezkrotnou francouzskou vzpouru. Uhasit konečně národ, který již šestadvacet let vybuchoval jako sopka, to byl jejich sen. Byla to soudržnost Brunswicků, Nassavských, Romanovců, Hohenzollernů, Habsburků s Bourbony. Waterloo nese na hřbetě právo z boží milosti. Bylo-li císařství despotické, musilo království, které po něm nastoupilo, na ně logicky reagovat liberálností. Proto k velké lítosti vítězů vzešel z Waterloo řád ústavní. Neboť revoluce nemůže být nikdy doopravdy poražena, protože je dílem prozřetelnosti, a protože je osudová, objevuje se znova a znova před bitvou u Waterloo v Bonapartovi, který bořil staré trůny, a zjevuje se po téže bitvě u Waterloo v Ludvíku XVIII., který vyhlásil ústavní chartu a sám se jí podřídil. Bonaparte dosadil na neapolský trůn postilióna a na švédský trůn četaře, používaje zásady nerovnosti, aby dokázal, že je pro rovnost; Ludvík XVIII. podpisuje v Saint-Ouenu prohlášení o lidských právech. Chcete-li si uvědomit, co je revoluce, nazvěte ji Pokrokem; a chcete-li si ujasnit, co je pokrok, nazvěte jej Zítřkem. Zítřek neodvolatelně koná své dílo a pracuje již dnes. Dochází napodiv vždycky k cíli. Používá Wellingtona, aby z vojáka Foye udělal řečníka. Foy padá u Hougomontu a je vzkříšen na řečništi. Tak postupuje pokrok. Je to dělník, který nepovažuje žádný nástroj za špatný. Ke své božské práci použije stejně bez rozpaků muže, který překročil Alpy, jako starého nemocného belhavého pacienta otce Elyzea[^108]. Použije člověka, který trpí dnou, stejně jako dobyvatele; dobyvatele použije mimo Francii, podagristu doma. Waterloo, které rázně zakročilo proti boření evropských trůnů mečem, nemělo jiného účinku, než že revoluční práce pokračovala z jiné strany. Vláda šavle končí, dochází na myslitele. Století, které Waterloo chtělo zastavit, kráčí dál svou cestou. Neblahé vítězství bylo přemoženo svobodou.
@@ -536,8 +502,6 @@ Hledejme ve Waterloo jen to, co v něm je. Vůbec v něm není záměrná touh
 
 ## (18)  
 Dočasné zotavení práva z boží milosti
-
-  
 
 Konec diktatury. Celá evropská soustava se zhroutila.
 
@@ -561,8 +525,6 @@ Ale co na tom záleží nekonečnosti? Celá ta bouře, ten mrak, ta válka a p
 
 ## (19)  
 Bojiště v noci
-
-  
 
 Vraťme se, souvisí to s touto knihou, na osudné bojiště.
 

@@ -6,8 +6,6 @@ contentType: prose
 ## (1)  
 Parvulus
 
-  
-
 Paříž má dítě a les má ptáka; pták se jmenuje vrabčák; dítě se jmenuje gamén.
 
 Spojme dva pojmy, z nichž jeden znamená výheň, druhý svítání a zakřesejme jiskry – Paříž, dětství: vyskočí z nich bytůstka. _Homuncio_, človíček, řekl by Plautus.
@@ -18,8 +16,6 @@ Kdyby se někdo zeptal toho obrovského města: „Kdo je to?“ odpovědělo by
 
 ## (2)  
 Některé zvláštní znaky
-
-  
 
 Pařížský gamén je trpaslík, kterého zrodila obryně.
 
@@ -36,8 +32,6 @@ Pohřební průvod jde ulicí. Mezi těmi, kdo doprovázejí nebožtíka, je lé
 ## (3)  
 Je milý
 
-  
-
 Večer jde _homuncio_ do divadla za několik sou, které si vždycky dovede opatřit. Jakmile překročí kouzelný práh, promění se; dosud byl gamén, teď je hógo. Divadla jsou jakési obrácené lodi, které mají podpalubí nahoře. Právě do toho podpalubí se hógo vecpe. Hógo je ke gaménovi v takovém vztahu jako noční můra k larvě; tatáž bytost, která vzlétla a vznáší se. Stačí, aby tam byl, aby zářil štěstím, hořel nadšením a radostí, aby tleskal, to se podobá mávání křídel, a už se to úzké podpalubí, zatuchlé, temné, špinavé, nezdravé, ošklivé, strašné jmenuje Ráj.
 
 Dejte lidskému tvoru, čeho nepotřebuje, a vezměte mu, bez čeho nemůže žít, a máte gaména.
@@ -53,8 +47,6 @@ Diví se málo, leká se ještě méně, zpívá posměšné písničky o pově
 ## (4)  
 Může být užitečný
 
-  
-
 Paříž začíná u zevlouna a končí u gaména; to jsou dva zjevy, které žádné jiné město nesvede vytvořit: trpná pozornost, která se spokojuje díváním, a nevyčerpatelná pohyblivost; Prudhomme a Fouillou; spokojená nula a čiperný neposeda. Jediná Paříž je má ve svém přírodopisu. Celá monarchie je zosobněna v zevlounovi. Celá anarchie je v gaménovi.
 
 Toto bledé dítě předměstí žije a roste, křiví se a přímí v utrpení a je zamyšleným svědkem společenských dějů a věcí lidských. Pokládá se za bezstarostného; ale není. Dívá se, je stále hotov k smíchu; je však také stále připraven i k něčemu jinému. Vy, kteří se jmenujete Předsudek, Klam, Hanebnost, Útisk, Zkaženost, Nespravedlnost, Fanatismus, Tyranie, dejte si pozor na zevlujícího gaména.
@@ -65,8 +57,6 @@ Z jaké hlíny je uhněten? Z jakéhokoliv bláta na ulici. Hrst země, dechnu
 
 ## (5)  
 Jeho hranice
-
-  
 
 Gamén miluje město, ale protože je v něm kus mudrce, miluje také samotu. _Urbis amator_, milovník městské dlažby jako Fuscus[^139], _ruris amator_, fanoušek venkova jako Flaccus.
 
@@ -89,8 +79,6 @@ Paříž, střed, předměstí, obvod; to je pro ty děti celý svět. Nikdy se 
 ## (6)  
 Trochu historie
 
-  
-
 V době, kdy se odehrávají události této knihy a která ostatně není tak vzdálená, nebyl jako dnes na každém rohu ulice strážník, (dobrodiní, které není kdy rozebírat), zato byly v Paříži spousty toulavých dětí. Statistiky uvádějí průměrně dvě stě šedesát dětí bez přístřeší, které tehdy sebrala policie ročně při pochůzkách na volných místech, na staveništích a pod oblouky mostů. Jedno z těch hnízd, jehož pověst se dochovala až do našich časů, bylo kolébkou „tuláků z Arcolského mostu“. Toulavé děti jsou ostatně nejstrašnějším příznakem společenských poměrů. Všechny mužovy zločiny mají počátek v toulkách chlapce.
 
 Vylučme Paříž. V určité míře, a nedbáme-li na podrobnost, kterou jsme právě připomněli, je výjimka správná. Zatímco v každém jiném velkém městě je toulavé dítě ztraceným člověkem, zatímco téměř všude je dítě, které je odkázáno samo na sebe, zpustlé a propadlé osudným vlnám neřesti, která v něm pohlcuje poctivost a svědomí, je pařížský gamén, a to tvrdíme s důrazem, vnitřně téměř nedotčený, i když je na povrchu hrubý a drsný. Je to vlastnost, na kterou rádi poukazujeme a která se objevuje v úžasné poctivosti našich lidových revolucí; myšlenky, které jsou v pařížském vzduchu, vyvolávají podobnou neporušitelnost, jako sůl v mořské vodě. Vdechováním Paříže si uchováváme duši.
@@ -107,8 +95,6 @@ Za Ludvíka XV. se v Paříži ztrácely děti; policie je unášela a nikdo n
 
 ## (7)  
 Gamén by mohl mít místo v kastovnictví Indie
-
-  
 
 Gaménové jsou bezmála kastou. Možno říci: není gaménem každý, kdo by chtěl.
 
@@ -131,8 +117,6 @@ Pěst slušně dopomáhá k úctě. Gamén velmi rád říká: „Mám pořádn
 ## (8)  
 Milé slovíčko o posledním králi
 
-  
-
 V létě se gamén proměňuje v žábu a k večeru se u Slavkovského a Jenského mostu vrhá z uhelných vleků a z loděk pradlen střemhlav do Seiny, nedbaje přitom nejzákladnějších příkazů studu a policie. Protože strážníci ustavičně číhají, došlo k vrcholně dramatické situaci, která dala vznik bratrskému a památnému zvolání; bylo nejznámější v roce 1830 a gamén jím varoval gaména; skanduje se jako Homérův verš s náznakem melodie téměř nevyjádřitelné jako eleusijský nápěv při oslavách Athény, a shledáš v něm příbuznost s antickým Evoe. Tu jej máte:
 
 _„Héj, Pepí, héj! Je tu fízl, vem roha a ztrať se!“_
@@ -144,8 +128,6 @@ Gamén zná dokonale všechny městské strážníky a dovede je vždycky ozna�
 ## (9)  
 Starý duch Galie
 
-  
-
 Něco z toho kluka bylo v Molièrovi, dítěti tržnice; a také v Beaumar­chaisovi. Gaménství je odstín galského ducha. Je-li smíšeno se zdravým rozumem, dodává všemu důraz jako alkohol vínu. Někdy je však na závadu. Homér pořád mele svou, budiž; o Voltairovi by se mohlo říci, že povykuje jako chlapec. Camille Desmoulins[^149] pocházel z předměstí. Championnet[^150], který napadal zázraky, byl dítětem pařížské dlažby; zamlada kropíval sloupoví kostela Saint-Jean-de-Beauvais a Saint-Étienne-du-Mont a rozuměl si dostatečně s ostatky svaté Jenovéfy, aby mohl poroučet krvi svatého Januaria.
 
 Pařížský gamén je uctivý, ironický a drzý. Má špatné zuby, protože je špatně živený, a má pořád něco se žaludkem; má krásné oči, protože je vtipný. I před Jehovou by vyskákal po jedné noze schody do ráje. Dovede se prát. Jeho růst nezná překážek. Hraje si ve strouze, ale rázem se vztyčí, jakmile zvětří bouřku; jeho drzost nevyprchá ani v dešti kulí; z uličníka se stává hrdina; jako malý Théban potřásá lví hřívou; bubeníček Bara byl také pařížský gamén. Volá: „Kupředu!“ jako kůň v Písmu říká: „Vah!“ a ve vteřině se z kluka stává obr.
@@ -156,8 +138,6 @@ Jedním slovem, gamén je lidská bytost, která se baví, protože je nešťast
 
 ## (10)  
 Ecce Paříž, ecce homo[^151]
-
-  
 
 Shrneme-li všechno jednou větou, je dnešní pařížský gamén tím, čím byl graeculus[^152] v Římě, je to národ – dítě, které má na čele vrásku starého světa.
 
@@ -186,8 +166,6 @@ Paříž je synonymum vesmíru, Paříž jsou Athény, Řím, Sybaris, Jeruzalé
 ## (11)  
 Posmívat se, panovat
 
-  
-
 Paříž neomezuje. Žádné město se necítilo tak nadřazeným, aby ještě zesměšňovalo ty, které si podrobuje. _Vám se líbit, Athéňané!_, zvolal Alexandros. Paříž dává více než zákony, určuje módu; Paříž vytváří více než módu, tvoří rutinu. Paříž se může tvářit hloupě, kdykoli se jí uzdá; a někdy si toho přepychu i dopřeje, a pak hloupne celý svět s ní. Potom se Paříž probudí, protře si oči a řekne: Jsem já ale hloupá! a vysměje se lidstvu do očí. Jaký zázrak je to město! Nejpodivnější věcí je, že vznešenost a fraška jsou si zde tak dobrými sousedy, že majestátnost není porušena parodií a že ústa mohou dnes rozezvučet troubu posledního soudu a zítra prostou píšťalu. Paříž se dovede svrchovaně radovat. Srší veselím a její žert třímá žezlo. Vichřice často vzniká z pošklebku. Její výbuchy, její dny slávy, její mistrovská díla, její zázraky a její epopeje sahají až na samou hranici vesmíru právě tak jako její hloupé žvanění. Její smích je sopečný kráter, který zaplaví celý svět. Její vtipy srší jako jiskry. Národům vnucuje stejně své pošklebky jako své ideály. Nejvyšší památníky lidské vzdělanosti snesou její ironii a propůjčují svou věčnost jejímu čtveráctví. Paříž je vznešená; má zázračný 14. červenec, který osvobodil svět; přísahu v Míčovně po ní opakovaly všechny národy; prožila noc 4. srpna, kdy za tři hodiny roztálo tisícileté feudální zřízení; ze své logiky činí vzpruhu jednomyslné vůle; znásobuje se ve všech formách vznešená; svou září naplňuje Washingtona, Kosciuszka, Bolivara, Botzarise, Riega, Bema[^164], Manina, Lopeze[^165], Johna Browna, Garibaldiho; je všude, kde se rozněcuje budoucnost; v Bostonu roku 1779, na ostrově Leonu v roce 1820, v Pešti roku 1848, v Palermu roku 1860; mocné heslo _Svobody_ inspiruje americké hlasatele zrušení otroctví, pohotové k boji na přídi Harper’s Ferry, vlastence v Ankoně shromážděné ve stínu Archi před Gozziho hostincem na břehu mořském; k ní se hlásí Kanaris[^166]; ona zplodila argentinského revolucionáře Quirogu a italského patriota Pisacanu; svobodná Paříž vyzařuje svou velikost po celém světě; její dech to byl, který zavál Byrona do Missolunghi, aby tam umřel, a Mazeta[^167] do Barcelony; je tribunou pod nohou Mirabeauovou a kráterem pod nohou Robespierrovou; její knihy, divadla, umění, věda, písemnictví a její filozofie jsou příručkami všeho lidstva; má Pascala. Régniera. Corneille, Descartesa, Jean Jacques Rousseaua, Voltaira pro okamžik, Molièra pro všechna století; svůj jazyk vkládá do úst celého světa a ten se stává Slovem; v každé mysli burcuje ideu pokroku; osvobozující dogmata, která kuje, vyzbrojují celá pokolení, a z ducha jejích myslitelů a básníků, kteří se postavili do první řady od roku 1789, vyšli všichni hrdinové všech národů; to však jí nikterak nebrání, aby si nezaskotačila. Ohromný génius, kterému říkáme Paříž, mění svět svou září, zatímco uhlem načrtává Bouginierův nos na zeď Théseova chrámu a na pyramidy píše _Zloděj Crédeville_.
 
 Paříž stále cení zuby; nevrčí-li, směje se.
@@ -203,16 +181,12 @@ Výkřik: _Odvahu!_ Je jako příkaz _Fiat lux_[^168]! Má-li lidstvo pokročit,
 ## (12)  
 Budoucnost je utajena v lidu
 
-  
-
 Pařížský lid je i v mužném věku klukem; jaké dítě, takové město; jenom proto jsme právě zkoumali orla ve vrabci.
 
 Znovu zdůrazňujeme, že zvláště v předměstí najdeme pravé pařížské plémě; je tam čistá krev; tam je pravá jeho tvář; tam lid pracuje a trpí a utrpení a práce jsou dvě podoby člověka. Tam je nespočetné množství neznámých bytostí, tam v předměstí se hemží nejpodivnější typy od nosiče z nábřeží Rapée až k pohodnému z Montfauconu. _Fex urbis_, kvasnice města, volá Cicero; _mob_, luza, dodává pohoršený Burke; dav, množství, chátra. Ta slova lehce vyslovíte. Budiž! Co na tom? Vadí mi to, že chodí bosi? Nedovedou číst; tím hůře. Opustíte je proto? Učiníte z jejich nedostatku prokletí? Nemůže světlo proniknout davem? Vraťme se k výkřiku: „Světlo!“ a naléhavě volejme: „Světlo! Světlo!“ Kdoví zdali se neprůsvitnost nestane průsvitnou? Což nejsou revoluce proměnami? Jděte, filozofové, učte, osvětlujte, zapalujte, mluvte hodně nahlas, radostně vyběhněte na výsluní, bratřete se s náměstím, rozhlašujte dobré noviny, rozdávejte slabikáře, vyhlašujte právo, zanotujte Marseillaisu, rozsévejte nadšení, trhejte zelené dubové ratolesti! Rozviřte myšlenku. Dav je možno zušlechtit. Umějme využít nesmírné zápalnosti zásad a ctností, které se v určitých hodinách rozjiskří, vzplanou a chvějí. Použijte bosých nohou, nahých rukou, hadrů nevědomosti, poníženosti a tmy, chcete-li dobýt ideálu. Zadívejte se do lidu a vystihněte pravdu. Hoďte do tavné pece bezcenný písek, po němž šlapete, ať se tam roztaví a vaří; promění se v nádherné křišťálové sklo, kterým Galilei a Newton objeví hvězdy.
 
 ## (13)  
 Malý Gavroche
-
-  
 
 Asi osm nebo devět let po událostech vyprávěných v druhé části tohoto románu byl na bulváru Temple a v okolí vodárny vídán hoch, kterému bylo tak jedenáct dvanáct let; hoch by byl dosti dobře ztělesňoval načrtnutý ideál kluka; na rtech se mu smálo mládí, ale srdce měl smutné a prázdné.
 

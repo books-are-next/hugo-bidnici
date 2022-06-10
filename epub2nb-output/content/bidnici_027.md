@@ -6,32 +6,42 @@ contentType: prose
 ## (1)  
 Staromódní salón
 
-  
-
 Dokud pan Gillenormand bydlil v ulici Servandoni, navštěvoval několik velmi dobrých a velmi vznešených salónů. Přijímali ho tu, třebas byl měšťan. Dokonce ho vyhledávali a velice si ho vážili, protože měl dvojnásobnou dávku duchaplnosti – především tu, kterou skutečně měl, a potom onu, kterou mu přičítali. Nechodil nikam, kde by nebyl mohl hrát první housle. Jsou lidé, kteří chtějí mít stůj co stůj vliv a žádají, aby se společnost obírala jenom jimi; tam, kde nemohou být proroky, hrají si na šprýmaře. Ale pan Gillenormand nebyl člověk tohoto druhu; za uznání v roajalistických salónech, které navštěvoval, nemusil platit sebeúctou. Byl všude prorokem. Stávalo se mu často, že se postavil panu de Bonald[^171] a dokonce se ozval i proti panu Bengy-Puy-Vallée[^172].
 
 Kolem roku 1817 trávíval pravidelné dvě odpoledne v týdnu v nedalekém domě v ulici Férou, u paní baronky T., ctihodné a vážené dámy, jejíž manžel byl za Ludvíka XVI. francouzským vyslancem v Berlíně. Baron T., který se za svého života vášnivě oddával extázím a magnetickým viděním, zemřel v cizině jako zchudlý emigrant a zanechal jen deset svazků rukopisu, svázaného do červeného safiánu a se zlatou ořízkou. Byly to velmi zajímavé vzpomínky na Mesmera a jeho nauku. Paní baronka T. neuveřejnila tyto memoáry, protože jí to nedovolila důstojnost; žila z malé renty, která bůhvíjak přežila bouřlivé doby. Paní de T. žila v chudobné, ale vznešené a hrdé odloučenosti ode dvora, od té velmi smíšené společnosti, jak říkávala. Několik přátel se dvakrát týdně shromažďovalo u jejího vdovského krbu a tvořilo ryze roajalistický salón. Pili čaj a podle toho, jaký vál vítr – elegický nebo dithyrambický –, vzdychali nebo křičeli hrůzou nad stoletím, nad chartou, nad buonapartisty, nad zneuctěním modré stuhy tím, že řád Sv. Ducha dávají měšťanům, nad jakobínstvím Ludvíka XVIII., a docela šeptem se obírali nadějemi, které vzbuzoval králův bratr, pozdější Karel X.
 
 Radostně tam vítali hanlivé písničky, v nichž se Napoleonovi říkalo Nicolas. Vévodkyně, nejjemnější a nejpůvabnější ženy světa, se rozplývaly nad popěvky namířenými zase proti účastníkům federační slavnosti:
 
+  
+
 _Do kalhot si zastrčte  
 čouhající košili,  
 ať neřeknou, že vlastenci  
 zas bílý prapor vztyčili._
 
+  
+
 Bavili se hádankami, které pokládali za hrozné, nevinnými slovními hříčkami, o nichž si myslili, že jsou jedovaté, a konečně i čtyřveršími a distichy. Tak na mírný kabinet Dessollesův, jehož členy byli pánové Decazes a Deserre, byla spáchána tato slovní hříčka:
+
+  
 
 _Pour raffermir le trône ébranlé sur sa base,  
 Il faut changer de sol, et de serre et de case.  
 (Chcete-li upevnit svůj otřesený trůn,  
 Vyměňte pozemek, skleník i dům.)_
 
+  
+
 Nebo sestavovali seznam členů sněmovny, „té hnusně jakobínské sněmovny“, nebo řadili jména tak, že tvořila směšné věty, jako je tato: Damas, Sabran, Gouvion Saint-Cyr.[^173]
 
 V této společnosti se parodovala revoluce; rádi překrucovali a zveličovali výbuchy revolučního hněvu a zpívali své malicherné „Ça ira.“
 
+  
+
 _„Ah! Ça ira! Ça ira! Ça ira!  
 Les buonapartisť à la lanterne.[^174]_
+
+  
 
 Hanlivé popěvky jsou jako gilotina; stínají lhostejně dnes tu, zítra onu hlavu. Je to jen obměna.
 
@@ -60,8 +70,6 @@ Ten „loirský bandita“ byl zeť pana Gillenormanda, o němž jsme se už zm
 ## (2)  
 Rudé strašidlo doby
 
-  
-
 Kdo by si byl tehdy zajel do městečka Vernonu a prošel se po krásném monumentálním mostě, který, doufejme, bude brzy nahrazen ohavným mostem řetězovým, spatřil by hned při pohledu dolů asi padesátiletého muže s koženou čepicí na hlavě, oděného v kalhoty a kazajku z šedého sukna, na ní bylo přišito cosi zažloutlého, co kdysi bývalo červenou stužkou; na nohou měl dřeváky, byl osmahlý, pod téměř bílými vlasy měl téměř černý obličej, přes tvář se mu od čela táhla dlouhá jizva, byl sehnutý, shrbený a předčasně zestárlý, s rýčem v jedné a se zahradnickým nožem v druhé ruce se denně oháněl na zahrádce, která sousedí s mostem a tvoří s jinými řetěz na levém břehu Seiny; jsou to roztomilá zákoutí, samá květina, a dalo by se o nich říci: to jsou zahrady, kdyby byly mnohem větší, nebo: to jsou kytice, kdyby byly trochu menší. Všechny ty zahrádky sahají od řeky k domkům. Muž v krátké kazajce a dřevácích, o němž jsme právě mluvili, bydlil okolo roku 1817 v nejskrovnějším domku na nejužším pruhu země. Žil tam sám v tichu a chudobě s ženou ani mladou, ani starou, ani hezkou, ani ošklivou, ani venkovskou, ani městskou, která mu posluhovala. Kousek země, které říkal zahrada, byl pověstný po celém městě nádhernými květinami, které pěstoval. Obíral se jedině svou květnicí.
 
 Pilnou prací, vytrvalostí, pozorností a hojným zaléváním podařilo se mu tvořit po stvořiteli a vypěstovat zvláštní odrůdy tulipánů a jiřin, na které příroda sama nepřišla. Byl důmyslný; předstihl Soulange Bodina v zakládání malých záhonů s hlínou z vřesoviště a pěstoval vzácnou americkou a čínskou flóru. V létě býval již od svítání mezi záhony a vysekával, ořezával, plel a zaléval, chodil mezi svými květinami s výrazem dobroty, smutku a něhy, jindy se zamyslil a stával nehnutě celé hodiny, naslouchal zpěvu ptáka na stromě, štěbetání děcka v domě, nebo upíral zrak na stéblo trávy s kapkou vody, která v slunci hořela jako karbunkul. Jedl střídmě a pil více mléka než vína. K dětem byl shovívavý a trpěl, aby ho služebná hubovala. Byl tak ostýchavý, že připadal až plachý; vycházel zřídka, mluvil jenom s chuďasy, kteří zaklepali na jeho okno, a s farářem, dobrým starým abbém Mabeufem. Byl-li kdo z města nebo některý cizinec zvědav na jeho tulipány a růže a zazvonil u malého domku, otvíral s úsměvem dveře. Byl to onen loirský bandita.
@@ -88,8 +96,6 @@ Dvakrát za rok, k prvnímu lednu a na sv. Jiří, psával Marius otci dopisy,
 
 ## (3)  
 Requiescant
-
-  
 
 Salón paní de T. bylo všechno, co Marius znal ze světa. Byl jediným otvorem, kterým mohl nahlédnout do života, otvorem temným, z kterého vanul spíš chlad než teplo, spíš tma než světlo. Dítě, které při vstupu do tohoto podivného světa bylo ztělesněnou radostí a světlem, ponenáhlu zesmutnělo, a co se ještě více příčí tomuto věku, zvážnělo. Marius, ustavičně obklopený důstojnými a podivnými osobami, se kolem sebe rozhlížel s jakýmsi vážným údivem. Všechno se spolčilo, aby v něm tento úžas zvětšovalo. V salóně paní de T. byly stařičké a velmi ctihodné šlechtičny, které měly jména jako Mathan, Noé, Levis; Levis vyslovovaly jako Levi, a Cambis, jako Cambyse. Staré obličeje a starozákonní jména se v duši dítěte mísily s biblí, které se učil nazpaměť, a Mariovi, který se na ně uděšeně díval, když všechny ty ženy seděly v kroužku okolo dohasínajícího krbu, sotva osvětleny lampou se zeleným stínidlem, připadaly se svými přísnými profily, šedými nebo bílými vlasy, dlouhými staromódními šaty ponurých odstínů a řídkým slavnostním a bezmála plachým slovem ne jako ženy, ale jako patriarchové a mágové, ne jako skuteční tvorové, ale jako přeludy.
 
@@ -141,8 +147,6 @@ Jinak byl Marius hoch vroucí i chladný, ušlechtilý, velkodušný, hrdý, zb
 
 ## (4)  
 Banditův konec
-
-  
 
 Marius dokončil klasická studia právě v době, kdy se pan Gille­normand uchýlil do ústraní. Stařec se rozloučil s předměstím Saint-Germain a se salónem paní de T. a usadil se ve vlastním domě v Marais v ulici Filles-du-Calvaire. Kromě vrátného sloužila u něho komorná Nicoletta, která přišla po Magnonové, a dýchavičný a hekavý Bask, o nichž jsme již mluvili.
 
@@ -236,8 +240,6 @@ Marius nosil na klobouku smuteční pásku. To bylo všechno.
 Jak je užitečné chodit na mši,  
 aby se člověk stal revolucionářem
 
-  
-
 Marius setrvával v nábožných zvycích svého dětství. Jednou v neděli šel na mši do chrámu Saint-Sulpice, do téže kaple, kam ho teta jako malého chlapce vodívala. Toho dne byl roztržitější a zasněnější než obvykle a nezpozoroval, že se usadil a poklekl v lavici za sloupem, na jejímž sametovém opěradle bylo napsáno: Pan Mabeuf, zádušní starosta. Sotva mše začala, přišel jakýsi stařec a řekl Mariovi:
 
 „Pane, to je mé místo.“
@@ -272,8 +274,6 @@ Zamrkal na dceru a tiše řekl: „Milostná pletka!“
 
 ## (6)  
 Co znamená setkání se zádušním starostou
-
-  
 
 Později uvidíme, kam Marius odešel.
 
@@ -345,8 +345,6 @@ Také se všem zdálo, že na prsou pod košilí nosí Marius něco zavěšenéh
 
 ## (7)  
 Zástěrka
-
-  
 
 Mluvili jsme o hulánovi. Byl to prasynovec pana Gillenormanda z otcovy strany, který vedl vojenský život, vzdálen rodiny a všech domácích radostí. Poručík Théodule Gillenormand měl všechny předpoklady, aby se o něm říkalo: hezký důstojník. Měl postavu „jako slečinka“, podmaňující způsob, jakým vláčel za sebou šavli, a nakroucený knírek. Do Paříže přicházel velmi zřídka, tak zřídka, že se s ním Marius ještě nesetkal. Oba bratranci se znali jenom podle jména. Théodule byl, jak jsme snad už řekli, oblíbenec slečny Gillenormandové, která mu dávala přednost, protože ho neměla na očích. Nevidíme-li lidi, máme možnost přisuzovat jim všechny dokonalosti.
 
@@ -526,8 +524,6 @@ Théodule místo děvčátka našel hrob.
 
 ## (8)  
 Mramor proti žule
-
-  
 
 Sem přišel Marius, když se poprvé vzdálil z Paříže. Sem přicházel, kdykoli pan Gillenormand říkával: toulá se.
 

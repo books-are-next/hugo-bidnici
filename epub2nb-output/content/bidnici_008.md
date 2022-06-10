@@ -6,8 +6,6 @@ contentType: prose
 ## (1)  
 Večer po celodenní chůzi
 
-  
-
 Počátkem měsíce října 1815, asi hodinu před západem slunce, vstoupil do městečka Digne muž, který cestoval pěšky. Ojedinělí obyvatelé, kteří byli v tu chvíli u okna nebo na prahu svých domů, poutníka znepokojeně pozorovali. Bylo těžko potkat pocestného v bídnějším stavu. Byl to muž střední postavy, ramenatý a mohutný, v plné síle. Mohlo mu být tak šestačtyřicet nebo osmačtyřicet let. Naražená čepice s koženým štítkem skrývala část zpoceného, vousem zarostlého obličeje, ožehlého sluncem a ošlehaného větrem. Košile z hrubého žlutého plátna, sepjatá u krku stříbrnou kotvičkou, odhalovala zarostlá prsa; měl kravatu na uzel, staré ošoupané kalhoty z modrého cvilinku, do běla vydřené na jednom koleně a děravé na druhém, vetchou rozedranou šedivou halenu, záplatovanou na jednom lokti zeleným suknem přistehnutým hrubou nití; na zádech nesl zbrusu nový nacpaný a notně utažený vojenský batoh, v ruce silnou sukovici; bosé nohy měl v okovaných botách.
 
 Pot, horko, dlouhá chůze a prach činily tento zbídačelý zjev ještě odpudivějším.
@@ -351,8 +349,6 @@ Naše „milá paní“ se dotkla mužovy paže a druhou rukou mu ukázala níz
 ## (2)  
 Opatrnost matka moudrosti
 
-  
-
 Toho večera zůstal dignský biskup po procházce městem dost dlouho ve svém pokoji. Byl zabrán do svého velkého díla _O povinnostech_, které bohužel zůstalo nedokončeno. Vyhledával pečlivě všechno, co řekli církevní otcové a učení doktoři o tomto závažném námětu. Jeho kniha byla rozdělena na dvě části: za prvé povinnosti všech, za druhé povinnosti jednotlivce, podle toho, ke které třídě patří. Povinnosti všech jsou hlavní povinnosti. Jsou čtvery. Svatý Matouš je označuje takto: povinnosti k Bohu (Mat. 6), povinnosti k sobě (Mat. 5,29, 30), povinnosti k bližnímu (Mat. 7,12), povinnosti k tvorstvu (Mat. 6,20, 25). Poučení o ostatních povinnostech našel a vypsal biskup z jiných knih; o povinnostech vládců a poddaných z epištoly k Římanům; z epištoly svatého Petra o povinnostech soudců, manželek, matek a mladých mužů; z epištoly k Efezským o povinnostech manželů, otců, dětí a služebnictva; z epištoly k Židům o povinnostech věřících; z epištoly svatého Pavla ke Korintským o povinnostech panen. Ze všech těchto výpisků pracně sestavoval harmonický celek, který chtěl předložit věřícím.
 
 V osm hodin ještě pracoval, velkou knihu na kolenou; když zapisoval, ne v právě pohodlné pozici, své poznámky na malé čtvrtky papíru, vstoupila do pokoje paní Magloirová, aby jako obyčejně vybrala stříbrné příbory ze skříňky u postele. Po chvilce zavřel biskup knihu, vstal od stolu a vstoupil do jídelny předpokládaje, že už je prostřeno a že ho sestra čeká. Jídelna byla podlouhlá místnost s krbem, dveřmi, které vedly – jak jsme už řekli – do ulice, a s oknem do zahrady.
@@ -399,8 +395,6 @@ Vtom někdo dost prudce zaklepal na dveře.
 
 ## (3)  
 Hrdinství trpné poslušnosti
-
-  
 
 Dveře se otevřely.
 
@@ -523,9 +517,9 @@ Paní Magloirová porozuměla poznámce, vyšla bez odmluvy a za chvíli se na 
 ## (4)  
 Podrobnosti o sýrárnách v Pontarlieru
 
-  
-
 Abychom vyvolali správnou představu o tom, co se událo u stolu, bude snad nejlépe, opíšeme-li část dopisu slečny Jany paní de Boischevronové, ve kterém s prostosrdečným puntičkářstvím líčí rozmluvu trestance s biskupem:
+
+  
 
 _…Ten člověk si nikoho nevšímal. Jedl hltavě jako vlk. Ale po večeři řekl:_
 
@@ -572,8 +566,6 @@ _Paní Magloirová se vrátila téměř okamžitě, pomodlily jsme se v salón�
 ## (5)  
 Klid
 
-  
-
 Monsignore Lidumil popřál své sestře dobrou noc, vzal se stolu jeden stříbrný svícen, druhý podal svému hostu a řekl: „Pane, doprovodím vás do vašeho pokoje.“
 
 Muž šel za ním.
@@ -615,8 +607,6 @@ Několik minut potom všechno v domku spalo.
 ## (6)  
 Jean Valjean
 
-  
-
 V noci se Jean Valjean probudil. Jean Valjean byl z chudé venkovské rodiny z Brijska. V mládí se nenaučil ani číst. Když dospěl v muže, prořezával a klestil stromy ve Faverolles. Jeho matka se nazývala Jana Mathieuová; otec se jmenoval Jean Valjean nebo Vlajean, což byla patrně přezdívka, jež povstala stažením slov _Voilà Jean_[^32].
 
 Jean Valjean byl zádumčivý, ale nikoli smutný, jako obvykle bývají vroucí a přítulné povahy. Působil, alespoň na první pohled, dojmem ospalého a nenápadného člověka. Matku i otce ztratil ještě v útlém věku. Matka zemřela na špatně léčenou horečku omladnic, otec, který byl zároveň probírkářem i klestičem stromů jako syn, se zabil pádem se stromu. A Jeanu Valjeanovi zůstala jen starší sestra, vdova se sedmi dětmi. Tato sestra Jeana Valjeana vychovala, a dokud měla manžela, její mladší bratr u nich bydlil a jedl. Muž zemřel. Nejstaršímu ze sedmi dětí bylo osm let a poslední bylo roční. Jeanu Valjeanovi bylo tehdy pětadvacet. Nahrazoval dětem otce, a teď zase on podporoval sestru, která ho vychovala. Bylo to u něho tak samozřejmé jako povinnost, i když na to někdy bručel. Tak ubíjel mládí v krušné a špatně placené práci. Nebylo známo, že by byl měl nějakou „lásku“. Neměl ani kdy se zamilovat.
@@ -647,8 +637,6 @@ Co se asi odehrávalo v jeho duši?
 
 ## (7)  
 Zoufalství
-
-  
 
 Pokusme se to říci.
 
@@ -731,8 +719,6 @@ Když vycházel z galejí, již devatenáct let neuronil ani slzu.
 ## (8)  
 Vlna a stín
 
-  
-
 Člověk spadl do moře!
 
 Co na tom? Loď se nezastaví. Vítr fouká, chmurný koráb má přesně vymezenou cestu, ve které je nucen pokračovat. Pluje dál.
@@ -776,8 +762,6 @@ Kdo ji vzkřísí?
 ## (9)  
 Nové křivdy
 
-  
-
 Když měl Jean Valjean opustit galeje a uslyšel cize znějící slova _Jsi volný_, byl to nepravděpodobný a neslýchaný okamžik; pronikl ho paprsek živého světla, paprsek pravého světla živých tvorů. Ale tento paprsek brzy pohasl. Jean Valjean byl oslněn myšlenkou na svobodu. Věřil v nový život. Brzy shledal, co je volnost, které dají na cestu žlutý průvodní list.
 
 Okamžitě se vynořila spousta trpkostí. Jean Valjean si vypočítal, že peníze, které si vydělal za pobytu na galejích, vzrostly na sto jedenasedmdesát franků. Musíme však poctivě dodat, že zapomněl odpočítat nucený odpočinek o nedělích a svátcích, které za těch devatenáct let zmenšily jeho výdělek okrouhle o čtyřiadvacet franků. Ať tomu bylo jakkoliv, ztenčila se ta částka různými vězeňskými srážkami na sto devět franků a patnáct sou; ty mu při odchodu vyplatili.
@@ -796,8 +780,6 @@ To se stalo v Grasse. Jak byl přijat v Digne, už víme.
 
 ## (10)  
 Muž se probudil
-
-  
 
 Když na hodinách katedrály odbíjela druhá, Jean Valjean procitl.
 
@@ -835,8 +817,6 @@ Do pravé ruky vzal kahan a se zatajeným dechem tlumenými kroky zamířil ke 
 
 ## (11)  
 Co dělá
-
-  
 
 Jean Valjean naslouchal. Úplné ticho.
 
@@ -892,8 +872,6 @@ Náhle si Jean Valjean narazil čepici, stáhl ji do čela, prošel rychle kolem
 
 ## (12)  
 Biskup pracuje
-
-  
 
 Nazítří při východu slunce se monsignore Lidumil procházel v zahradě. Paní Magloirová k němu přiběhla celá rozrušená.
 
@@ -1013,8 +991,6 @@ Jean Valjean civěl zaraženě před sebe, neboť se nepamatoval, že by byl ně
 
 ## (13)  
 Malý Gervác
-
-  
 
 Jean Valjean vyšel z města, jako by prchal. Spěchal do polí cestami a stezičkami, jak se dalo; ani nepozoroval, že se každou chvíli zase vrací, odkud vyšel. Bloudil tak celé dopoledne, nic nejedl, ani hlad neměl. Soužila ho spousta nových dojmů. Měl vztek; nevěděl na koho. Nebyl by mohl říci, je-li dojat, nebo pokořen. Chvílemi podivně jihl, ale přemáhal tento cit a stavěl proti němu zatvrzelost posledních dvaceti let. Tento stav ho unavoval. Znepokojeně pozoroval, že se v něm sesouvá děsivý klid, který v něm vybudovala nespravedlnost jeho neštěstí. Ptal se sám sebe, čím jej nahradí. Chvílemi si myslil, že by bylo opravdu lépe, kdyby ho byli četníci zavřeli a kdyby se nebylo nic událo; bylo by ho to méně rozrušilo. Ačkoliv už byl pokročilý podzim, byly sem tam v plotě pozdní květy a jejich vůně, jak je míjel, mu připomněly vzpomínky z mládí. Ty vzpomínky byly téměř nesnesitelné; bylo tomu tak dávno, co se ozvaly naposled.
 
