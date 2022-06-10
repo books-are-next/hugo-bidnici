@@ -3,6 +3,8 @@ title: KNIHA DRUHÁ Loď Orion
 contentType: prose
 ---
 
+<section>
+
 ## (1)  
 Číslo 24 601 se stává číslem 9430
 
@@ -14,29 +16,41 @@ Jistě nám budete vděčni, ušetříme-li vás bolestných podrobností. Opí�
 
 První článek si vypůjčujeme z _Drapeau blanc_. Je z 25. července 1823:
 
-  
+</section>
+
+<section>
 
 > _Jeden z okresů Pas-de-Calais byl nedávno jevištěm málo obvyklé události. Muž, který nepocházel z departementu a jmenoval se Madeleine, zvelebil zakrátko novými vynálezy starý místní průmysl, výrobu žetu a černého skla, a obohatil tak sebe i celý okres. Za své zásluhy byl jmenován městským starostou. Policie však vypátrala, že Madeleine je bývalý trestanec, který se nedovoleně vzdálil z místa svého vyhnanství, kam byl v roce 1796 odsouzen pro krádež, a který se vlastně jmenuje Jean Valjean. Po rozsudku byl Jean Valjean znovu dopraven na galeje. Zdá se, že se mu před zatčením podařilo vybrat si částku větší než půl milionu, kterou měl uloženou u pana Laffitta a kterou si, jak lidé říkají, poctivě vydělal ve svém závodě. Nebylo možno vypátrat, kam Jean Valjean peníze ukryl, než se dostal znovu na galeje v Toulonu._
 
-  
+</section>
+
+<section>
 
 Druhý článek, trochu podrobnější, je vyňat z pařížského Journalu z téhož dne.
 
-  
+</section>
+
+<section>
 
 > _Bývalý propuštěný trestanec Jean Valjean se dostal před porotu ve Var za okolností, které vzbudily všeobecnou pozornost. Ničemovi se povedlo oklamat bdělost policie; změnil jméno a domohl se úřadu starosty v jednom z našich severních městeček. V tomto městě značně pozdvihl obchod. Díky neúnavné píli státního zastupitelství byl konečně odhalen a zatčen. Jeho souložnicí byla nevěstka, která zemřela rozčilením v okamžiku, kdy ho zatýkali. Bídníkovi, který je nadán herkulovskou silou, se podařilo uprchnout; ale za tři nebo čtyři dny ho policie opět dopadla přímo v Paříži, když nastupoval do jednoho z dostavníků, které jezdí z hlavního města do vesnice Montfermeil v departementu Seine-et-Oise. Říká se, že tří čtyř dní volnosti využil k tomu, aby si vybral značnou částku, kterou si uložil u jednoho z našich předních bankéřů. Částku odhadnutou na šest až sedm set tisíc franků si prý podle tvrzení žaloby zahrabal na místě jenom jemu známém a nebylo možno se jí tedy zmocnit. Ať je tomu jakkoliv, Jean Valjean byl postaven před porotu ve Var a obžalován z loupeže, které se dopustil asi před osmi lety na jednom z těch poctivých chlapců, kteří, jak v nesmrtelných verších řekl ferneyský patriarcha,_
 
-  
+</section>
+
+<section>
 
 _… až ze Savojska rok co rok  
 si přivydělat přichází  
 a komíny nám čistí od sazí._
 
-  
+</section>
+
+<section>
 
 _Lupič se odmítl hájit. Obratný a výmluvný člen státního návladnictví však dokázal, že darebák měl pomocníky a byl členem zlodějské tlupy z jihu. Porota uznala, že Jean Valjean je vinen, a odsoudila ho k trestu smrti. Zločinec odmítl podat odvolání. Král ve své nevyčerpatelné blahovůli ráčil zmírnit trest smrti v doživotní nucené práce. Jean Valjean byl ihned odeslán na galeje v Toulonu._
 
-  
+</section>
+
+<section>
 
 Nezapomněli jsme, že Jean Valjean žil v Montreuilsur-Mer velmi zbožně. Některé noviny, mezi nimi i _Constitutionnel_, vykládaly změnu trestu jakožto vítězství kněžské strany.
 
@@ -58,12 +72,16 @@ Protože všechny tři způsoby mají své nevýhody, je nejoblíbenější druh
 
 Člověk prý se při tom pořádně nadře, protože jámy bývají zpravidla velmi hluboké, pot z něho lije, hrabe, lopotí se celou noc – to se přece dělává jen v noci –, košili má propocenou, svíčka mu dohoří, na rýči vyláme zuby, a co najde, když se dostane na dno jámy, jaký je ten ďáblův poklad? Jediný sou, někdy zlaťák, kámen, kostra, zkrvavená mrtvola, někdy kouzlo přeložené na čtyřikrát jako list papíru uložený v náprsní tobolce, někdy nic. Pravděpodobně to napovídají všetečným zvědavcům Tryfonovy verše:
 
-  
+</section>
+
+<section>
 
 _Fodit, et in fossa thesauros condit opaca,  
 As, nummos, lapides, cadaver, simulacra, nihilque.[^114]_
 
-  
+</section>
+
+<section>
 
 Zdá se, že za našich dnů se tam najde prachovnice s kulemi nebo staré promaštěné a začernalé karty, s nimiž zřejmě hrával čert. Tryfon se o těchto dvou posledních nálezech vůbec nezmiňuje, vždyť žil ve dvanáctém století a ďábel neměl tolik vtipu, aby vynašel střelný prach před Rogerem Baconem a karty před Karlem VI.
 
@@ -167,7 +185,9 @@ Pád byl nebezpečný. Vedle _Orionu_ kotvila fregata _Algésiras_ a ubohý tre
 
 Nazítří toulonské noviny otiskly těchto několik řádků: „Dne 17. listopadu 1823. – Včera spadl do moře a utopil se trestanec, odsouzený k nucené práci na palubě _Orionu_, když se vracel z místa, kde zachránil námořníka. Jeho mrtvola nebyla nalezena. Pravděpodobně se dostal pod kůly arzenálu. Muž byl zapsán pod číslem 9430 a jmenoval se Jean Valjean.“
 
-  
+</section>
+
+<section>
 
 [^114]: Kope a v temné jámě ukrývá poklad, haléř, mince, oblázky, mrtvolu, přeludy, nic.
 
@@ -178,3 +198,5 @@ Nazítří toulonské noviny otiskly těchto několik řádků: „Dne 17. listo
 [^117]: Kapitulantský špan. generál z r. 1823.
 
 [^118]: Čistého krále (špan.).
+
+</section>

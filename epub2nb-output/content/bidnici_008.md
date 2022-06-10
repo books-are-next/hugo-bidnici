@@ -3,6 +3,8 @@ title: KNIHA DRUHÁ Pád
 contentType: prose
 ---
 
+<section>
+
 ## (1)  
 Večer po celodenní chůzi
 
@@ -519,7 +521,9 @@ Podrobnosti o sýrárnách v Pontarlieru
 
 Abychom vyvolali správnou představu o tom, co se událo u stolu, bude snad nejlépe, opíšeme-li část dopisu slečny Jany paní de Boischevronové, ve kterém s prostosrdečným puntičkářstvím líčí rozmluvu trestance s biskupem:
 
-  
+</section>
+
+<section>
 
 _…Ten člověk si nikoho nevšímal. Jedl hltavě jako vlk. Ale po večeři řekl:_
 
@@ -1164,6 +1168,10 @@ A jak plakal, v jeho mozku čím dál víc vzcházel neobyčejný jas, úchvat
 
 Jak dlouho Jean Valjean plakal? Co udělal, když se vyplakal? Kam zamířil? Nikdy se to nikdo nedověděl. Jen tolik se zdá jisté, že vozka, který tehdy přijíždíval z Grenoblů do Digne ke třetí hodině v noci, zahlédl právě tu noc v ulici u biskupství muže, který ve stínu klečel na dlažbě přede dveřmi monsignora Lidumila, jako by se modlil.
 
-  
+</section>
+
+<section>
 
 [^32]: Hleďme, Jan!
+
+</section>

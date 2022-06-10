@@ -3,6 +3,8 @@ title: KNIHA PÁTÁ Výtečnost neštěstí
 contentType: prose
 ---
 
+<section>
+
 ## (1)  
 Nuzný Marius
 
@@ -221,8 +223,12 @@ Pan Gillenormand nedokončil pohyb, k němuž se připravoval, obrátil se, zad
 
 „Vy jste hlupák!“
 
-  
+</section>
+
+<section>
 
 [^211]: Španělští revolucionáři.
 
 [^212]: Hra V. Huga, časově první drama romantismu.
+
+</section>

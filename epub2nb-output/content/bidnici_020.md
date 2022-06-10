@@ -3,6 +3,8 @@ title: KNIHA PÁTÁ Tichá štvanice
 contentType: prose
 ---
 
+<section>
+
 ## (1)  
 Strategické kličkování
 
@@ -49,14 +51,18 @@ Jean Valjean zrychlil chůzi.
 
 Několika dlouhými kroky se dostal k hrnčířství pana Gobleta, na jehož štítě byl starý nápis, za měsíčního světla velmi dobře čitelný:
 
-  
+</section>
+
+<section>
 
 _Gobletův syn má tady svoje sklady;  
 zde nakupte si džbány, konvice,  
 i květináče prodáváme tady,  
 nástřešní tašky, roury, dlaždice._
 
-  
+</section>
+
+<section>
 
 Nechal za sebou ulici Clef, pak fontánu Saint-Victor, dal se podél Botanické zahrady a dolními ulicemi došel na nábřeží. Tam se obrátil. Nábřeží bylo pusté. Ulice opuštěná. A nikdo v patách. Oddychl si.
 
@@ -623,3 +629,5 @@ Největší hlouposti bývají namnoze upleteny z nesčetných vláken jako sil
 Ať je tomu jakkoliv, ve chvíli, kdy zpozoroval, že mu Jean Valjean uniká, neztratil Javert hlavu. Věda, že prchající zločinec nemůže být příliš daleko, postavil hlídky, nastražil pasti a zálohy a celou noc prohledával čtvrť. První věc, které si všiml, byla poškozená lucerna, jejíž provaz někdo uřízl. Tento jinak velmi cenný poznatek ho však přesto uvedl v omyl, neboť všechno své pátrání soustředil do slepé uličky Genrot. Byly v ní totiž dosti nízké zdi, vroubící zahradnictví, jejichž ohrady sousedily s rozlehlými neobdělanými pozemky. Jean Valjean uprchl pravděpodobně tudy. Je jisto, že by nebyl k nalezení, kdyby pronikl uličkou Genrot, což asi také učinil. Javert prohledal zahrady a pozemky tak dokonale, jako by hledal jehlu.
 
 Když se rozednilo, určil dva muže, aby zůstali na stráži, a sám se odebral na prefekturu, zahanbený jako špicl, kterého obelstil zloděj.
+
+</section>

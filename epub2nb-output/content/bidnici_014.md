@@ -3,6 +3,8 @@ title: KNIHA OSMÁNásledek
 contentType: prose
 ---
 
+<section>
+
 ## (1)  
 V jakém zrcadle si pan Madeleine prohlíží vlasy
 
@@ -457,3 +459,5 @@ Všichni máme společnou matku, zemi. Této matce Fantinu vrátili.
 Farář se domníval, že učiní dobře, uchová-li pro chudé pokud možno nejvíc z toho, co Jean Valjean zanechal. Ostatně, o koho tu šlo? – O trestance a nevěstku. Proto zjednodušil pohřeb Fantiny na nejnutnější obřady a na to, čemu říkáme společná šachta.
 
 Fantinu tedy pochovali v koutě, kde se neplatí, který patří všem a kde se zahrabávají chudáci. Bůh naštěstí ví, kde má hledat duši. Uložili Fantinu za tmy mezi kosti neznámých lidí; její prach se smísil s jiným. Byla odhozena do veřejné jámy. Její hrob se podobal jejímu loži.
+
+</section>

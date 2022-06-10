@@ -3,6 +3,8 @@ title: KNIHA SEDMÁ Champmathieuův případ
 contentType: prose
 ---
 
+<section>
+
 ## (1)  
 Sestra Simplicie
 
@@ -435,7 +437,9 @@ Ať je tento sen jakýkoliv, historie oné noci by byla kusá, kdyby­chom jej o
 
 Zde je. Na obálce nacházíme tuto řádku: _Co se mi zdálo této noci_.
 
-  
+</section>
+
+<section>
 
 _Byl jsem na venkově. Širá smutná pláň, kde ani travička nerostla. Měl jsem dojem, že není ani den, ani noc._
 
@@ -471,7 +475,9 @@ _Tu mi řekl muž, kterého jsem spatřil, když jsem vstoupil do města: Kam jd
 
 _Otevřel jsem ústa, abych mu odpověděl, a zpozoroval jsem, že kolem mne najednou nikdo není.“_
 
-  
+</section>
+
+<section>
 
 Jean Valjean se probudil. Byl prokřehlý. Chladný vítr, jak bývá po ránu, pohyboval křídly okna, které zůstalo otevřeno. Oheň uhasl. Svíčka dohořívala. Byla pořád ještě černá noc.
 
@@ -961,14 +967,18 @@ I sestra Simplicie byla udivena, že se pan Madeleine opozdil.
 
 Zatím se Fantina, jako by něco hledala, dívala na nebesa svého lůžka. Náhle začala hlasem tichým jako dech zpívat. Jeptiška poslouchala. Poslyšte, co Fantina zpívala:
 
-  
+</section>
+
+<section>
 
 _Co pěkných věcí se nakoupit může,  
 když za bránu kroky putují,  
 chrpa se modrá a rdí se růže,  
 chrpa se modrá, já miluji._
 
-  
+</section>
+
+<section>
 
 _Přesvatá Panna v mém chudém bytě  
 se za soumraku stavila:  
@@ -977,12 +987,16 @@ pod pláštěm schováno,“ pravila.
 „Běžte mi ke kupci pro plátno, nitě  
 a pro náprstek do díla.“_
 
-  
+</section>
+
+<section>
 
 _Co pěkných věcí se nakoupit může,  
 když za bránu kroky putují._
 
-  
+</section>
+
+<section>
 
 _„Maria Panno, tohleto je  
 má kolíbčička s pentlemi.  
@@ -991,12 +1005,16 @@ to dítě tvé mám raději.“
 „A co s tím plátnem, paní moje?“  
 „Prádýlko pro ně strojte mi.“_
 
-  
+</section>
+
+<section>
 
 _Chrpa se modrá a rdí se růže,  
 chrpa se modrá, já miluji._
 
-  
+</section>
+
+<section>
 
 _„Máchejte plátýnko.“ – „Kdepak, paní?“  
 „V řece. Pak čistě spíchněte  
@@ -1005,14 +1023,18 @@ růžičkou na nich rozkvete.“
 „Dítě je v Pánu, co s plátnem, paní?“  
 „Na rubáš z něho mi střihněte.“_
 
-  
+</section>
+
+<section>
 
 _Co pěkných věcí se nakoupit může,  
 když za bránu kroky putují,  
 chrpa se modrá a rdí se růže,  
 chrpa se modrá, já miluji._
 
-  
+</section>
+
+<section>
 
 Byla to stará ukolébavka, kterou kdysi uspávala Cosettu a na kterou si nevzpomněla už celých pět let, co neměla holčičku u se­be. Zpívala tu něžnou melodii tak smutně, že málem rozplakala i jeptišku. Sestra, zvyklá jen přísnosti, cítila, jak se jí slzy derou do očí.
 
@@ -1515,7 +1537,9 @@ Odešel a dveře se zavřely, jak se otevřely, protože ti, kdo konají určit
 
 Ani ne za hodinu potom osvobodila porota obžalovaného Champmathieua; a Champmathieu, kterého ihned propustili, odešel ohromen a přesvědčen, že všichni lidé jsou blázni. Z toho, co viděl, nic nechápal.
 
-  
+</section>
+
+<section>
 
 [^88]: Závorka je také napsána Valjeanovou rukou. (V. H.)
 
@@ -1524,3 +1548,5 @@ Ani ne za hodinu potom osvobodila porota obžalovaného Champmathieua; a Champm
 [^90]: Politik ve starověkých Athénách.
 
 [^91]: Popírám Boha.
+
+</section>

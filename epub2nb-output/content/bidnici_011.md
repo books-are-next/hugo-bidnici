@@ -3,6 +3,8 @@ title: KNIHA PÁTÁ Na šikmé ploše
 contentType: prose
 ---
 
+<section>
+
 ## (1)  
 O pokroku ve výrobě ozdob z černého skla
 
@@ -440,11 +442,15 @@ Zbožňovala své dítě.
 
 Jednou dostala od Thénardierových dopis tohoto obsahu:
 
-  
+</section>
+
+<section>
 
 _Cosetta onemocněla nemocí, která řádí v našem kraji. Říkají tomu spalničky. Potřebuje drahé léky. To nás ničí, my už víc platit nemůžeme. Nepošlete-li nám do týdne čtyřicet franků, Cosetta umře._
 
-  
+</section>
+
+<section>
 
 Fantina se rozesmála jako šílená a řekla své staré sousedce:
 
@@ -786,7 +792,9 @@ To bylo víc, než mohla Fantina snést. Vidět Cosettu! Vyjít z toho bídnéh
 
 Potom omdlela.
 
-  
+</section>
+
+<section>
 
 [^84]: Zločinec a později policista.
 
@@ -795,3 +803,5 @@ Potom omdlela.
 [^86]: Osvoboditel Venezuely, Kolumbie a Bolívie od španělského panství.
 
 [^87]: Špan. generál.
+
+</section>
