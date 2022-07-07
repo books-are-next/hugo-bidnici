@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hugo-bidnici-i-934040b",
-  "revision": "934040b",
+  "identifier": "hugo-bidnici-i-e99d6eb",
+  "revision": "e99d6eb",
   "readingOrder": [
     "promo.html",
     "bidnici_005.html",
@@ -38,11 +38,11 @@
     "bidnici_028.html",
     "bidnici_029.html",
     "bidnici_030.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:08:06 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978886232
+    "date": "Thu Jul 07 2022 08:28:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182506095
   },
   "documents": [
     {
@@ -426,7 +426,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KNIHA ČTVRTÁ Na důvěru se často doplácí",
+          "name": "KNIHA ČTVRTÁ Na důvěru se často doplácí",
           "id": null,
           "children": [
             {
@@ -468,7 +468,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KNIHA PÁTÁ Na šikmé ploše",
+          "name": "KNIHA PÁTÁ Na šikmé ploše",
           "id": null,
           "children": [
             {
@@ -1405,7 +1405,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KNIHA OSMÁ, Hřbitovy berou, co jim dáváme",
+          "name": "KNIHA OSMÁ, Hřbitovy berou, co jim dáváme",
           "id": null,
           "children": [
             {
@@ -1896,7 +1896,7 @@
       "role": "chapter",
       "order": 26,
       "prev": "bidnici_029.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1973,11 +1973,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 139,
-      "chars": 908,
+      "chars": 907,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "bidnici_030.html",
       "next": null,
@@ -1995,7 +1995,7 @@
   "totals": {
     "all": {
       "words": 206630,
-      "chars": 1288259,
+      "chars": 1288258,
       "ideas": 6841
     },
     "chapters": {

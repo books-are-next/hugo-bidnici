@@ -64,7 +64,7 @@
             "filename": "bidnici_003.md",
             "xhtml": "bidnici_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -76,7 +76,7 @@
             "filename": "bidnici_004.md",
             "xhtml": "bidnici_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -429,7 +429,7 @@
             "filename": "bidnici_031.md",
             "xhtml": "bidnici_031.xhtml",
             "id": 30,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -742,6 +742,6 @@
       "user": "books-are-next",
       "repo": "hugo-bidnici"
     },
-    "generatedAt": 1655978701208
+    "generatedAt": 1657181986193
   }
 }

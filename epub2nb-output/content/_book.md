@@ -41,7 +41,7 @@ readingOrder:
   - bidnici_028.html
   - bidnici_029.html
   - bidnici_030.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
