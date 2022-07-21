@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hugo-bidnici-i-2345423",
-  "revision": "2345423",
+  "identifier": "hugo-bidnici-i-889002f",
+  "revision": "889002f",
   "readingOrder": [
     "promo.html",
     "bidnici_005.html",
@@ -41,8 +41,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:01:32 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188092642
+    "date": "Thu Jul 21 2022 14:38:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414307858
   },
   "documents": [
     {
@@ -1975,7 +1975,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 139,
-      "chars": 907,
+      "chars": 908,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -1995,7 +1995,7 @@
   "totals": {
     "all": {
       "words": 206630,
-      "chars": 1288258,
+      "chars": 1288259,
       "ideas": 6841
     },
     "chapters": {
