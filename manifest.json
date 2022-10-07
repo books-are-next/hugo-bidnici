@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hugo-bidnici-i-71f12e5",
-  "revision": "71f12e5",
+  "identifier": "hugo-bidnici-i-ab7a1fc",
+  "revision": "ab7a1fc",
   "readingOrder": [
     "promo.html",
     "bidnici_005.html",
@@ -41,8 +41,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:55:11 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924111993
+    "date": "Fri Oct 07 2022 14:04:00 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151440683
   },
   "documents": [
     {
